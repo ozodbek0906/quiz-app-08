@@ -1,4 +1,3 @@
-+++++
 Sun’iy intellektning asosiy vazifasi nima?
 ====
 faqat ma’lumotlarni saqlash
@@ -60,7 +59,7 @@ Sun’iy intellekt tizimi (SIT) -bu ……………………………. hisoblana
 ====
 kompyuterli va nokreativ tizim, oddiy strukturali moslashish, maqsadga erishish uchun muhit o’zgarishiga moslashmaslik va soha o’zgarishidagi moslashuvchan holat;
 ====
-kompyutersiz va kreativ tizim, oddiy strukturasiz moslashmaslik, maqsadga erishish uchun muhit o’zgarishiga moslashish va soha o’zgarishidagi bog;liqlik holat;
+kompyutersiz va kreativ tizim, oddiy strukturasiz moslashmaslik, maqsadga erishish uchun muhit o’zgarishiga moslashish va soha o’zgarishidagi bogliqlik holat;
 ====
 kompyuterli va nokreativ tizim, uzluksiz strukturasiz moslashish, maqsadga erishish uchun muhit o’zgarishiga moslashmaslik va soha o’zgarmasligidagi moslashuvchan holat.
 ++++
@@ -188,7 +187,7 @@ Ketma-ket va parallel.
 
 Bilimlarga asoslangan tizimlarning  asosiy yo’nalshlari  – bu…………..
 ====
-#turli manbalardan va  ekspertlardan bilimlarni olish, bilimlarni namoyish    etish, bilimlarni boshqarish, bilimlar asosida tus#huntirish;
+#turli manbalardan va  ekspertlardan bilimlarni olish, bilimlarni namoyish    etish, bilimlarni boshqarish, bilimlar asosida tushuntirish;
 ====
 turli manbalardan va  ekspertlardan bilimlarni olish, bilimlarni namoyish    etish, mashinali tarjima va musiqiy asarlarni tuzish;
 ====
@@ -210,7 +209,7 @@ neyrostrukturalar va neyronlar.
 
 Neyroemulyatorlar - bu ……………….
 ====
-#neyropaketlar, neyroilovalarni yaratuvchi  tizimlar va neyrotarmoqlar asosida tayyor echimlarni olish ti#zimlari;
+#neyropaketlar, neyroilovalarni yaratuvchi  tizimlar va neyrotarmoqlar asosida tayyor echimlarni olish tizimlari;
 ====
 neyronlar, signallar va aloqalar;
 ====
@@ -243,7 +242,7 @@ bilimlarni yig’ish, o’chirish, sinflash va kompyuterga kiritish.
 
 Bilimlar modellari – bu …………………..
 ====
-#semantik tarmoq, freym, mantiqiy tizim, produksiya va senari#ylar;
+#semantik tarmoq, freym, mantiqiy tizim, produksiya va senariylar;
 ====
 semantic tarmoq, integralli, differensialli, mantiqiy tizimlar;
 ====
@@ -287,7 +286,7 @@ BUILD, EMYCIN, EXSYS, KL0, ShapeUp.
 
 Ekspert  tizimning qobig'larini aniqlang?
 ====
-#BUILD, EMYCIN, EXSYS, Professional, #ЭКСПЕРТ#;
+#BUILD, EMYCIN, EXSYS, Professional, ЭКСПЕРТ;
 ====
 BUILD, EMYCIN, OPS-5, FRL;
 ====
@@ -296,9 +295,9 @@ EXSYS, Professional,  ALISE, KL0, ShapeUp;
 Professional, ЭКСПЕРТ,  EXSYS, KL0, ShapeUp.
 ++++
 
-Intellektual interfeys Intelligent interface –bu …………………….
+Intellektual interfeys (Intelligent interface –bu …………………….
 ====
-#foydalanuvchilar uchun matnli so'rovlarni qayta ishlash dasturlar#i orqali axborotlar kompleksi va foydalanuvchi resurslari o'rtasida o’zaro ta'sir o'tkazish interfeysi;
+#foydalanuvchilar uchun matnli so'rovlarni qayta ishlash dasturlari orqali axborotlar kompleksi va foydalanuvchi resurslari o'rtasida o’zaro ta'sir o'tkazish interfeysi;
 ====
 foydalanuvchilar uchun matnli so'rovlarni qayta ishlash va o’zaro ta'sir o'tkazish interfeysi,;
 ====
@@ -390,7 +389,7 @@ internet modem
 ====
 faqat kamera
 ====
-#sensor va aktuatorlar#;
+#sensor va aktuatorlar;
 ====
 printer va skaner
 ++++
@@ -588,7 +587,7 @@ K-Means
 ====
 Naive Bayes
 ====
-#Chuqur neyro#n tarmoqlarga
+#Chuqur neyron tarmoqlarga
 ====
 Logistik regressiya
 ++++
@@ -621,7 +620,7 @@ Modelning juda oddiy bo‘lishi
 ====
 Natijalarni tasodifiy chiqarish
 ====
-#Model o‘quv ma’lumo#tlariga haddan tashqari moslashishi
+#Model o‘quv ma’lumotlariga haddan tashqari moslashishi
 ====
 Modelning ishlash vaqtini kamaytirish
 ++++
@@ -815,7 +814,7 @@ Agar geometrik figuraning ichki burchaklari yig’indisi 180 gradus bo’lsa,  u
 
 Intensionalli bilimni ko’rsating?
 ====
-#Talaba stipendiyatlar tanlovida qatnashishi uchu#n, u barcha fanlardan a’lo baho  o’lgan bo’lishi kerak;
+#Talaba stipendiyatlar tanlovida qatnashishi uchun, u barcha fanlardan a’lo baho  o’lgan bo’lishi kerak;
 ====
 Axmedov oliy ma’lumotli diplomga ega;
 ====
@@ -826,7 +825,7 @@ Printer stol ustida turibdi.
 
 Qaysi javobda bilimlarning xususiyatlari to’g’ri ko’rsatilgan?
 ====
-#Ichki izohlanuvch#anlik, strukturaviylik, bog’langanlik, semantik metrika, faollik;
+#Ichki izohlanuvchanlik, strukturaviylik, bog’langanlik, semantik metrika, faollik;
 ====
 To’liqlik, strukturaviylik, bog’langanlik, natijaviylik, faollik;
 ====
@@ -839,7 +838,7 @@ Bilimlarni tushunishning uchinchi darajasi nima bilan xarakterlanadi?
 ====
 Atrof - muhit haqidagi tizimlar bilimlari bilan matnni to’ldirish qoidalarining qo’shilishi bilan xarakterlanadi;
 ====
-#Matndan tashqari matn ma#nbai bo’lgan va tizim xotirasida aloqaga taalluqli umumiy axborotlarni saqlaydigan muayyan subyekt haqidagi axborotdan foydalanishi bilan xarakterlanadi.
+#Matndan tashqari matn manbai bo’lgan va tizim xotirasida aloqaga taalluqli umumiy axborotlarni saqlaydigan muayyan subyekt haqidagi axborotdan foydalanishi bilan xarakterlanadi.
 ====
 Matndan kiritilgan savollarga javobni tizim to’g’ridan-to’g’ri ma’nosiga  asoslanib shakllantirish sxemasi bilan xarakterlanadi;
 ====
@@ -1167,7 +1166,7 @@ Richanson.
 
 ……………………………- bu yo’naltirilgan gtaf bo’lib, uning tugunlari -tushunchalarga, yoylari esa -tugunlar orasidagi munosabatlarga mos keladi.
 ====
-#Sem#antik tarmoq;
+#Semantik tarmoq;
 ====
 Sintaktik tarmoq;
 ====
@@ -1255,7 +1254,7 @@ Uzluksiz  grafni.
 
 Semantik tarmoqda barcha munosabatlar N-ar munosabatlardan iborat bo’lsa, u holda ular qaysi grafni tashkil qiladi?
 ====
-#Konseptualli# grafni;
+#Konseptualli grafni;
 ====
 Kauzal grafni;
 ====
@@ -1352,7 +1351,7 @@ Saymon va Post;
 Post va Rozenblat.
 ++++
 
-Amaliy nuqtai nazaridan mahsulotni qoida-mahsulot ko’rinishda qanday juftliklar yordamida ifodalash #mumkin?
+Amaliy nuqtai nazaridan mahsulotni qoida-mahsulot ko’rinishda qanday juftliklar yordamida ifodalash mumkin?
 ====
 #vaziyat→harakat; asoslar→xulosa; sabab→oqibat;
 ====
@@ -1398,7 +1397,7 @@ chap qismi chin va ong qismi yolg’on bo’ladi.
 
 Dinamik mahsuliy tizimlar qanday modullardan iborat bo’ladi?
 ====
-gl#obal ma’lumotlar bazasi; qoidalar-mahsulotlar to’plami; boshqarish tizimi yoki interpret#ator;
+global ma’lumotlar bazasi; qoidalar-mahsulotlar to’plami; boshqarish tizimi yoki interpretator;
 ====
 lokal ma’lumotlar bazasi; asoslar-xulosalar to’plami; boshqarish tizimi yoki interpretator;
 ====
@@ -1534,10 +1533,9 @@ Freymlarni tashqi tasvirlashda slotga tushuntirishlarda qanday kengaytmali fayll
 ====
 (*.pdf) yoki (*.bmp);
 ====
-(*.ex			yoki (*.bmp);
+(*.exyoki (*.bmp);
 ====
-(*.txt) yoki (*.ex====
-.
+(*.txt) yoki (*.ex====.)
 ++++
 
 To'ldirilmagan freym ………….. va to'ldirilgan freym esa ………….. deb ataladi?
@@ -1564,7 +1562,7 @@ demon.
 
 Freym-ekzemplyarda slotlarning qiymatlarni olishining uslublari to’g’ri ko’rsatilgan javobni ko’rsating.
 ====
-#slotda ko'rsatilgan formuladan, ma'lumotlar bazasidan va  Default-qiymatdan foydalanib, birlashtir#ilgan protsedura yordamida;
+#slotda ko'rsatilgan formuladan, ma'lumotlar bazasidan va  Default-qiymatdan foydalanib, birlashtirilgan protsedura yordamida;
 ====
 matematik munosabatlar, matnlar, tarmoqlar, yoylar, tugunlar, protofreym ekzemplyarlardsi;
 ====
@@ -1575,7 +1573,7 @@ mavjud freym, boshqa freymlarning  boshqa slotlariga havolalar, "ichkima-ichki j
 
 Freymlarning turlari to’g’ri ko’rsatilgan javobni ko’rsating.
 ====
-#freym-sinf, freymlar-rollar, freymlar-strukturalar, freymlar-senariylar, freymlar-vaziyatlar, freym-#экземпляр#, freym#м#-namun#a;
+#freym-sinf, freymlar-rollar, freymlar-strukturalar, freymlar-senariylar, freymlar-vaziyatlar, freym-экземпляр, freymм-namuna;
 ====
 freym-munosabatlar, freym-matnlar, freym-tarmoqlar, freym-sinf, freymlar-rollar, freym-экземпляр;
 ====
@@ -1630,7 +1628,7 @@ Freymlar-rollar.
 
 ……………………–bu predmet sohaning etarli holatlarini yoki obyektlarni tavsiflash uchun shablondan foydalanish.
 ====
-#Freym#м#-namuna;
+#Freymм-namuna;
 ====
 Freymlar-strukturalar;
 ====
@@ -1850,7 +1848,7 @@ kompyuter.
 
 Obyektlar haqidagi ma’lumotlarni oʻrganish ...........topishga asoslanadi.
 ====
-#obyektlarni #belgilariga asosan oʻrganish, ya’ni obyektlar uchun xos boʻlgan asosiy belgilarni;
+#obyektlarni belgilariga asosan oʻrganish, ya’ni obyektlar uchun xos boʻlgan asosiy belgilarni;
 ====
 obyektlar uchun xos boʻlmagan asosiy belgilarni;
 ====
@@ -1894,7 +1892,7 @@ oʻzini-oʻzi oʻrganish jarayonida etalon tanlovni.
 
 Obyektlarni anglash etalon tanlovdagi .............. aniqlashga asoslanadi.
 ====
-#obyektlarni oʻrganish jarayonida hosil qilingan qa#ror qabul qiluvchi qoida yordamida yangi obyektlarning qaysi sinflarga qarashli ekanligini;
+#obyektlarni oʻrganish jarayonida hosil qilingan qaror qabul qiluvchi qoida yordamida yangi obyektlarning qaysi sinflarga qarashli ekanligini;
 ====
 toʻliq boʻlmagan muhim belgilarini;
 ====
@@ -2048,7 +2046,7 @@ bilimlar.
 
 Oʻzini-oʻzi oʻqituvchi tizimlarda …............. roʻyxati berilgan boʻladi.
 ====
-#obyektlar toʻ#plami va belgilar;
+#obyektlar toʻplami va belgilar;
 ====
 sinflar toʻplami va obyektlar;
 ====
@@ -2125,7 +2123,7 @@ sinflar oʻzgarmasdan yadrolar oʻzgarsa.
 
 Еkspеrt tizim nimа?
 ====
-#Bliml#а#rg#а# #а#s#о#sl#а#ng#а#n #а#m#а#liy mul#о#q#о#t tizimi;
+#Blimlаrgа аsоslаngаn аmаliy mulоqоt tizimi;
 ====
 Amаliy matematik paket;
 ====
