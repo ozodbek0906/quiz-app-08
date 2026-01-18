@@ -1,2519 +1,2760 @@
-Sun’iy intellektning asosiy vazifasi nima?
+TCP/IP protokollari steki nechta sathdan iborat?
 ====
-faqat ma’lumotlarni saqlash
+#4
 ====
-faqat chizish vazifalarini bajarish
+3
 ====
-#aqlli qarorlar qabul qilish;
+5
 ====
-kompyuter ekranini boshqarish
+7
 ++++
 
-Sun’iy intellekt usullarini rivojlanishining uchinchi pog’onasi  …………………………………………………………bilan bog’liq.
+ TCP/IP protokollari stekining birnchi sathi sathi qanday nomlanadi?
 ====
-#idrok etuvchi, dinamik muhitda murakkab rejalarning amalga oshirilishi, bilimlarni tavsiflovchi, inson bilan tabiiy tilda muloqot qiluvchi robotlarni ishlab chiqarilishi;
+#tarmoq interfeyslari sathi
 ====
-idrok etuvchi, dinamik muhitda murakkab rejalarning amalga oshirilishi;
+transport sathi
 ====
-mehanik integrallashgan robotlarning yaratilishi;
+tarmoq sathi
 ====
-bilimlarni tavsiflovchi, inson bilan tabiiy tilda muloqot qiluvchi robotlarni ishlab chiqarilishi.
+amaliy sath
 ++++
 
-MYCIN -qanday vazifani bajargan?
+ TCP/IP protokollari stekining ikkinchi sathi sathi qanday nomlanadi?
 ====
-#ichak kasalliklariga tashxis qo`yuvchi ekspert tizim;
+tarmoq interfeyslari sathi
 ====
-murakkab rejalarni amalga oshiruvchi ekspert tizim;
+transport sathi
 ====
-iqtisodiy masalalarni boshqaruvchi ekspert tizim;
+#tarmoq sathi
 ====
-bank operatsiyalariga mo’ljallangan ekspert tizim.
+amaliy sath
 ++++
 
-PROSPECTOR -qanday vazifani bajargan?
+ TCP/IP protokollari stekining uchinchi sathi sathi qanday nomlanadi?
 ====
-#foydali qazilmalarni topishda maslahat beruvchi ekspert tizim;
+tarmoq interfeyslari sathi
 ====
-loyihalashni amalga oshiruvchi ekspert tizim;
+#transport sathi
 ====
-biznes masalalarni boshqaruvchi ekspert tizim;
+tarmoq sathi
 ====
-bank operatsiyalariga mo’ljallangan ekspert tizim.
+amaliy sath
 ++++
 
-Sun’iy intellekt -bu …………………………………tushunchalarini anglatadi.
+ TCP/IP protokollari stekining to’rtinchi sathi sathi qanday nomlanadi?
 ====
-#inson intellektining alohida funksiyalarini bajarishni ta’minlovchi avtomatik tizim. Qaror qabul qilish, muammoni hal qilish, o’qitish, o’rgatish kabi insoniy fikrlash bilan bog'liq bo'lgan faoliyat turlari ;
+tarmoq interfeyslari sathi
 ====
-inson intellektining alohida funksiyalarini bajarishni ta’minlovchi avtomatik tizim;
+transport sathi
 ====
-qaror qabul qilish, muammoni hal qilish, o’qitish, o’rgatish kabi insoniy fikrlash bilan bog'liq bo'lgan faoliyat turlari;
+tarmoq sathi
 ====
-kompyuter sxemasi.
+#amaliy sath
 ++++
 
-Sun’iy intellekt tizimi (SIT) -bu ……………………………. hisoblanadi.
+ IPv4 manzillari nechta sinfdan iborat?
 ====
-#kompyuterli va kreativ tizim, murakkab strukturali moslashish, maqsadga erishish uchun muhit o’zgarishiga moslashish va soha o’zgarishidagi ichki holat;
+#5 ta
 ====
-kompyuterli va nokreativ tizim, oddiy strukturali moslashish, maqsadga erishish uchun muhit o’zgarishiga moslashmaslik va soha o’zgarishidagi moslashuvchan holat;
+6 ta
 ====
-kompyutersiz va kreativ tizim, oddiy strukturasiz moslashmaslik, maqsadga erishish uchun muhit o’zgarishiga moslashish va soha o’zgarishidagi bogliqlik holat;
+4 ta
 ====
-kompyuterli va nokreativ tizim, uzluksiz strukturasiz moslashish, maqsadga erishish uchun muhit o’zgarishiga moslashmaslik va soha o’zgarmasligidagi moslashuvchan holat.
+7 ta
 ++++
 
-Sun’iy intellekt sohasidagi tadqiqotlarning rivojlanishiga predikatlar mantiqi teoremalarini isbotlashga asoslangan Robisonning rezolyusiya usulining maqsadi………………………………. ishlab chiqishdan iborat bo’lgan.
+ A sinf IP manzillari bloki to’g’ri ko’rsatilgan javobni tanlang?
 ====
-#inson echadigan masalalarni huddi insonga o’xshab echadigan dasturlarni;
+#Dastlabki bit 0 ga teng: 1.0.0.0 dan 127.255.255.255 gacha
 ====
-inson echmaydigan masalalarni huddi kompyuterga o’xshab echadigan dasturlarni;
+Dastlabki bit 10 ga teng: 1.0.0.0 dan 127.255.255.255 gacha
 ====
-inson echadigan masalalarni huddi insonga o’xshab echmaydigan dasturlarni;
+Dastlabki bit 0 ga teng: 1.0.0.0 dan 128.0.0.0 gacha
 ====
-insonsiz echiladigan masalalarni huddi insonga o’xshab echadigan dasturlarni.
+Dastlabki bit 10 ga teng: 1.255.255.255 dan 127.255.255.255 gacha
 ++++
 
-Sun’iy intellekt usullarini rivojlanishining birinchi pog’onasida tadqiqot maydonida masalalar sifatida…………………………………..  qaralgan.
+ B sinf IP manzillari bloki to’g’ri ko’rsatilgan javobni tanlang?
 ====
-#turli xil o’yinlar, boshqotirmalar, matematik masalalar;
+#Dastlabki bit 10 ga teng: 128.0.0.0 dan 191.255.255.255 gacha
 ====
-inson echmaydigan masalalar;
+Dastlabki bit 10 ga teng: 128.0.0.0 dan 192.0.0.0 gacha
 ====
-insonga o’xshab echmaydigan dasturlar;
+Dastlabki bit 110 ga teng: 127.255.255.255 dan 192.0.0.0 gacha
 ====
-sezuvchi robotlar yaratish.
+Dastlabki bit 10 ga teng: 1.255.255.255 dan 127.255.255.255 gacha
 ++++
 
-Sun’iy intellekt usullarini rivojlanishining ikkinchi pog’onasi …………………………………..  bilan bog’liq.
+ C sinf IP manzillari bloki to’g’ri ko’rsatilgan javobni tanlang?
 ====
-integrallashgan robotlarning yaratilishi;
+#Dastlabki bit 110 ga teng: 192.0.0.0 dan 223.255.255.255 gacha
 ====
-sezuvchi robotlarning yaratishlishi;
+Dastlabki bit 110 ga teng: 192.0.0.0 dan 243.255.255.255 gacha
 ====
-#exspert tizimlarning yaratishlishi;
+Dastlabki bit 110 ga teng: 191.255.255.255 dan 243.0.0.0 gacha
 ====
-gapiruvchi robotlarning yaratilishi.
+Dastlabki bit 10 ga teng: 192.0.0.0 dan 223.255.255.255 gacha
 ++++
 
-Prolog, FRL, KRL, GUS - nima?
+ A sinfga tegishli tarmoqlarda manzillar sonini qancha?
 ====
-#mantiqiy dasturlash tillari;
+2^8
 ====
-loyihalashni amalga oshiruvchi ekspert tizimlar;
+2^16
 ====
-biznes masalalarni boshqaruvchi muloqat tizimlar;
+#2^24
 ====
-bank operatsiyalariga mo’ljallangan dasturlar.
+2^4
 ++++
 
-Sun’iy intellekt tamoyillariga asoslangan 5-avlod mashinalarining loyihasi dastlab qachon va qaerda ishlab chiqilgan?
+ B sinfga tegishli tarmoqlarda manzillar sonini qancha?
 ====
-#1981 yilda Yaponiyada;
+2^8
 ====
-1980 yilda AQSh da;
+#2^16
 ====
-1981 yilda Kanadada;
+2^24
 ====
-1982 yilda Fransiyada.
+2^4
 ++++
 
-Ekspert tizimlar yo’nalishdagi masalalarga ………………. kabilar kiradi.
+C sinfga tegishli tarmoqlarda manzillar sonini qancha?
 ====
-#inson-ekspertga qiyin tyulgan tadqiqotlar, bilimlarga va masalani echish uchun xulosalash proseduralariga asoslangan dasturlar yaratish;
+#2^8
 ====
-inson-ekspertga qiyin tyulgan tadqiqotlar;
+2^16
 ====
-operatorga va foydalanuvchiga qiyin tyulgan tadqiqotlar;
+2^24
 ====
-bilimlarga va masalani echish uchun xulosalash proseduralariga asoslangan dasturlar yaratish.
+2^4
 ++++
 
-Integrallashgan va gibrid printsiplariga asoslan tizimlarning asosi - ……………………………………….kabilar hisoblanadi.
+ IP manzillar sinflaridan foydalanib 192.9.7.5 manzilini tarmoq va xost raqamlariga ajrating?
 ====
-#bilimlar bazasi, bilimlarni avtomatik olish, deduktiv, abduktiv va noravshan mantiqiy xulosalash, muammoli-yo’naltirilgan muloqot tili, statik va dinamik axborotlarni qayta ishlash;
+#tarmoq raqami 192.9.7.0; xost raqami 0.0.0.5
 ====
-bilimlar bazasi, bilimlarni avtomatik olish, deduktiv, abduktiv va noravshan mantiqiy xulosalash;
+tarmoq raqami 192.9.0.0; xost raqami 0.0.7.5
 ====
-muammoli-yo’naltirilgan muloqot tili, statik va dinamik axborotlarni qayta ishlash;
+tarmoq raqami 192.9.6.0; xost raqami 0.0.1.5
 ====
-predmet sohada bilimlar va ma’lumotlar bazasiga ega bo’lgan alohida tizimlarni va loyihalarni ishlab chiqish.
+tarmoq raqami 192.0.0.0; xost raqami 0.9.6.5
 ++++
 
-Integratsiyalashuv jarayonlar  ……………………………kabilar  bilan bog’liq.
+ IP manzillar sinflaridan foydalanib 62.76.9.17 manzilini tarmoq va xost raqamlariga ajrating?
 ====
-#sun’iy intellektning turli modellarini, noravshan expert tizim va neyron tarmoqlarni  o’zida birlashtiruvchi integrallashgan va gibrid tizimlarini yaratish;
+#tarmoq raqami 62.0.0.0; xost raqami 0.76.9.17
 ====
-predmet sohada bilimlar va ma’lumotlar bazasiga ega bo’lgan alohida tizimlarni va loyihalarni ishlab chiqish;
+tarmoq raqami 62.76.0.0; xost raqami 0.0.9.12
 ====
-sun’iy intellektning turli modellarini;
+tarmoq raqami 62.76.9.0; xost raqami 0.0.0.12
 ====
-noravshan expert tizim va neyron tarmoqlarni  o’zida birlashtiruvchi integrallashgan va gibrid tizimlarini yaratish.
+tarmoq raqami 62.76.1.1; xost raqami 0.0.8.16
 ++++
 
-Detsentrallashgan jarayonlar ………………………….. nuqtai nazaridan qaraladi.
+A sinfga tegishli manzillar uchun niqob qaysi javobda to’g’ri ko’rsatilgan?
 ====
-#bir-biri bilan o'zaro bog’langan ko’p sonli intellektual agentlarning jamoaviy hatti-xarakati;
+#255.0.0.0
 ====
-bir-biri bilan o'zaro bog’lanmagan ko’p sonli intellektual agentlarning jamoaviy hatti-xarakati;
+255.255.255.0
 ====
-bir-biri bilan o'zaro bog’langan tugunlar to’plami;
+255.255.0.0
 ====
-bir-biri bilan o'zaro bog’lanmagan semantikc tarmoq.
+255.255.255.255
 ++++
 
-Sun'iy intellektni modellashtirishning birinchi yondashuvida qaysi tadqiqot ob'ektidan foydalaniladi?
+ B infga tegishli manzillar uchun niqob qaysi javobda to’g’ri ko’rsatilgan?
 ====
-#inson miyasin#ing tuzilishi va mexanizmlari;
+255.0.0.0
 ====
-sun'iy intellekt;
+255.255.255.0
 ====
-inson-mashina tizimi;
+#255.255.0.0
 ====
-barcha javoblar to'g'ri.
+255.255.255.128
 ++++
 
-Kirish va chiqish signallariga qarab neyrotarmoqlarni qanday tiplarga ajratish mumkin.
+ C sinfga tegishli manzillar uchun niqob qaysi javobda to’g’ri ko’rsatilgan?
 ====
-#Uzlukli va uzluksiz;
+255.0.0.0
 ====
-Uzlukli va tabiiy;
+#255.255.255.0
 ====
-Binar va parallel;
+255.255.0.0
 ====
-Ketma-ket va parallel.
+255.255.255.192
 ++++
 
-Bilimlarga asoslangan tizimlarning  asosiy yo’nalshlari  – bu…………..
+ 215.17.125.177 manzil va 255.255.255.240 niqob uchun tarmoq va xost raqamlarini hisoblang?
 ====
-#turli manbalardan va  ekspertlardan bilimlarni olish, bilimlarni namoyish    etish, bilimlarni boshqarish, bilimlar asosida tushuntirish;
+#tarmoq raqami 215.17.125.176; xost raqami 0.0.0.1
 ====
-turli manbalardan va  ekspertlardan bilimlarni olish, bilimlarni namoyish    etish, mashinali tarjima va musiqiy asarlarni tuzish;
+tarmoq raqami 215.17.125.0; xost raqami 0.0.0.177
 ====
-bilimlarni namoyish etish, bilimlarni boshqarish, bilimlar asosida      tushuntirish musiqiy asarlarni tahlil qilish va avtomatik rafеrentlash;
+tarmoq raqami 215.17.125.170; xost raqami 0.0.0.7
 ====
-turli manbalardan va  ekspertlardan bilimlarni olish, matnlarni tuzish va kuylash uslubini imitatsiya qilish.
+tarmoq raqami 215.17.125.162; xost raqami 0.0.0.15
 ++++
 
-Neyronli qayta ishlash tizimlari–bu ……………….
+67.38.173.245 manzil va 255.255.240.0 niqob uchun tarmoq va xost raqamlarini hisoblang?
 ====
-#neyrokompyuterlar va neyroemulyatorlar;
+#tarmoq raqami 67.38.160.0; xost raqami 0.0.13.245
 ====
-neyronlar va neyroemulyatorlar;
+tarmoq raqami 67.38.173.0; xost raqami 0.0.0.245
 ====
-neyrotarmoqlar va neyroemulyatorlar;
+tarmoq raqami 67.38.158.245; xost raqami 0.0.15.245
 ====
-neyrostrukturalar va neyronlar.
+tarmoq raqami 67.38.170.245; xost raqami 0.0.3.245
 ++++
 
-Neyroemulyatorlar - bu ……………….
+192.168.74.126 manzil va 255.255.255.192 niqob uchun tarmoq va xost raqamlarini hisoblang?
 ====
-#neyropaketlar, neyroilovalarni yaratuvchi  tizimlar va neyrotarmoqlar asosida tayyor echimlarni olish tizimlari;
+#tarmoq raqami 192.168.74.64; xost raqami 0.0.0.62
 ====
-neyronlar, signallar va aloqalar;
+tarmoq raqami 192.168.74.0; xost raqami 0.0.0.126
 ====
-kirish signallari, neyrotarmoqlar va teskari aloqalar;
+tarmoq raqami 192.168.74.120; xost raqami 0.0.0.6
 ====
-neyrostrukturalar va neyronlar birlashmasi.
+tarmoq raqami 192.168.74.63; xost raqami 0.0.0.63
 ++++
 
-Expert tizimlar qaysi modelga asoslanadi?
+192.168.74.130 manzil va 255.255.255.192 niqob uchun tarmoq va xost raqamlarini hisoblang?
 ====
-fayl arxitekturasi
+#tarmoq raqami 192.168.74.128; xost raqami 0.0.0.4
 ====
-grafik interfeys
+tarmoq raqami 192.168.74.64; xost raqami 0.0.0.66
 ====
-#bilimlar bazasi va inferensiya mexanizmi;
+tarmoq raqami 192.168.74.120; xost raqami 0.0.0.10
 ====
-internet protokollari
+tarmoq raqami 192.168.74.63; xost raqami 0.0.0.67
 ++++
 
-Bilimlarni boshqarish -bu ……………….
+ 192.168.74.215 manzil va 255.255.255.192 niqob uchun tarmoq va xost raqamlarini hisoblang?
 ====
-#bilimlarni to’ldirish, sinflash, umumlashtirish va bilimlar asosida fikrlash;
+#tarmoq raqami 192.168.74.192; xost raqami 0.0.0.23
 ====
-bilimlarni olish, ekspertga qaytarish, ekspert bilan aloqa va fikrlash;
+tarmoq raqami 192.168.74.64; xost raqami 0.0.0.151
 ====
-bilimlarni tahlillash, sintezlash, tushuntirish, algoritmlash;
+tarmoq raqami 192.168.74.120; xost raqami 0.0.0.95
 ====
-bilimlarni yig’ish, o’chirish, sinflash va kompyuterga kiritish.
+tarmoq raqami 192.168.74.128; xost raqami 0.0.0.87
 ++++
 
-Bilimlar modellari – bu …………………..
+192.168.74.167 manzil va 255.255.255.192 niqob uchun tarmoq va xost raqamlarini hisoblang?
 ====
-#semantik tarmoq, freym, mantiqiy tizim, produksiya va senariylar;
+#tarmoq raqami 192.168.74.128; xost raqami 0.0.0.39
 ====
-semantic tarmoq, integralli, differensialli, mantiqiy tizimlar;
+tarmoq raqami 192.168.74.64; xost raqami 0.0.0.103
 ====
-strukturali, sxemali, grafikli, mantiqiy tizimlar va uzlukli tizimlar;
+tarmoq raqami 192.168.74.120; xost raqami 0.0.0.47
 ====
-nostrukturali, nosemantikli, dasturli, produksiyali tizimlar.
+tarmoq raqami 192.168.74.63; xost raqami 0.0.0.104
 ++++
 
-Bilimlar asosida xulosalash – bu …………………..
+Nuqtalar o’rniga mos keluvchi so’zni toping. Oxirgi tugunlarni tranizt tugunlar tarmog’i orqali ulash … deb ataladi?
 ====
-rezolyutsiyali usullar, kvaziaksiomatik tizimlar va haqiqatga yaqin xulosalash;
+kommutatsiya
 ====
-semantic tarmoq, integralli, differensialli xulaslash;
+inkapsulyatsiya
 ====
-strukturali, sxemali va grafikli xulosalash;
+multiplekslash
 ====
-nostrukturali, nosemantikli va dasturli xulosalash.
+#marshrutlash
 ++++
 
-Sun’iy intellekta dasturlash paradigmalariga kiruvchilarni aniqlang?
+Kompyuter tizimlarida abonentlarni kommutatsiyalashning nechta xili qo’llaniladi?
 ====
-#protsedurali, ma’lumotlarga, qoidalarga va obyektlarga mo’ljallangan      dasturlash;
+#2
 ====
-modellarga, usullarga, ma’lumotlarga, strukturalarga mo’ljallangan dasturlash;
+4
 ====
-jadvallarga, strukturalarga, sxemalarga va grafiklarga  mo’ljallangan    dasturlash;
+5
 ====
-bo’lishga, qo’shishga, matnga, ovozga va nutqga mo’ljallangan     dasturlash.
+1
 ++++
 
-Belgili axborotlarni qayta ishlash dasturlarini aniqlang?
+Kompyuter tizimlarida kompyuterlarni adreslash qanday amalga oshirilishi mumkin?
 ====
-#PROLOG, LISP, CLIPS, EKLIPS, PLANNER, MERKURY;
+#uchta har-xil adreslash chizmalari asosida
 ====
-KE, ARTS, GURU, G2, EKLIPS,;
+ikkita har-xil adreslash chizmalari asosida
 ====
-ARTS, GURU,  ALISE, KL0, ShapeUp;
+faqat simvolli adreslash chizmasi asosida
 ====
-BUILD, EMYCIN, EXSYS, KL0, ShapeUp.
+apparat adreslash chizmasi asosida
 ++++
 
-Ekspert  tizimning qobig'larini aniqlang?
+Quyida keltirilgan kompyuter tarmoqlarining qaysi biri avval paydo bo’lgan?
 ====
-#BUILD, EMYCIN, EXSYS, Professional, ЭКСПЕРТ;
+#global kompyuter tarmoqlari
 ====
-BUILD, EMYCIN, OPS-5, FRL;
+lokal kompyuter tarmoqlari
 ====
-EXSYS, Professional,  ALISE, KL0, ShapeUp;
+kampuslar tarmog’i
 ====
-Professional, ЭКСПЕРТ,  EXSYS, KL0, ShapeUp.
+korporativ tarmoqlar
 ++++
 
-Intellektual interfeys (Intelligent interface –bu …………………….
+Kompyuter tizimlarida ikkilik sonlarni kodlashning qaysi xillari qo’llaniladi?
 ====
-#foydalanuvchilar uchun matnli so'rovlarni qayta ishlash dasturlari orqali axborotlar kompleksi va foydalanuvchi resurslari o'rtasida o’zaro ta'sir o'tkazish interfeysi;
+#potentsialli va impulsli
 ====
-foydalanuvchilar uchun matnli so'rovlarni qayta ishlash va o’zaro ta'sir o'tkazish interfeysi,;
+bir qutbga ega potentsialli
 ====
-yordamch qurilmalar va kompyuter orasidagi muloqot;
+faqat impulsli
 ====
-kompyuterlar orasidagi muloqot.
+ko’p qutbga ega potentsialli
 ++++
 
-Autentifikatsiya – bu …………………….
+Kompyuterning ketma-ket porti orqali uzatilayotgan axborotni sinxronlash qanday amalga oshiriladi?
 ====
-#foydalanuvchining haqiqatan ham o'zi ekanligini tekshirish;
+#«Start» va «Stop» signallari yordamida
 ====
-kompyuterni tekshirish,;
+paritet razryadi yordamida
 ====
-kompyuterlar orasidagi muloqotni tekshirish;
+takt impulslari yordamida
 ====
-yordamch qurilmalar va kompyuter orasidagi aloqalarni  tekshirish.
+apparat sathida
 ++++
 
-Identifikatsiya – bu  ……………………………..
+Operatsion tizimning qaysi funktsiyasi redirektor funktsiyalariga tegishli bo’ladi?
 ====
-#obyektni tanib olishdir;
+#so’rovni anglash va uzoqdagi kompyuterga yo’naltirish
 ====
-obyektni sinflashdir;
+tashqi qurilmalarga ulanishni boshqarish
 ====
-obyektni boshqarishdir;
+displeyga axborotlarni chiqarib berishni tashkil qilish
 ====
-obyektni bo’laklash.
+uzilishlarni boshqarish
 ++++
 
-Sun'iy intellektni qurishda asosiy yondashuvlarni aniqlang ?.
+To’rtta bir-biri bilan bog’langan bog’lamlar strukturasi (kvadrat shaklida) qaysi topologiya turiga mansub?
 ====
-#mantiqiy, evolyutsiyali, strukturali va imitatsiyali;
+#Xalqa
 ====
-mantiqiy, evolyutsiyali, integralli va imitatsiyali;
+Yulduz
 ====
-mantiqiy, neyronli, differensialli va imitatsiyali;
+To’liq bog’lanishli
 ====
-evolyutsiyali, funksiali, strukturali va imitatsiyali.
+Yacheykali
 ++++
 
-Sun’iy intellektni qurishning mantiqiy yondashuvi uchun asos sifatida …………………. xizmat qiladi.
+Ketma-ket bir-biri bilan bog’langan 3 ta bog’lamlar (oxiri boshi bilan bog’lanmagan) strukturasi qaysi topologiya turiga tegishli.?
 ====
-#Bul algebrasi;
+#Umumiy shina
 ====
-Pitts algebrasi;
+Xalqa
 ====
-Fon Neyman prindipi;
+To’liq bog’lanishli
 ====
-Mak Kallok prinsipi.
+Yulduz
 ++++
 
-Noravshan mantiqda mulohazalar …………………… qiymatlarni qabul qiladi.
+Kompyuter tizimlarida ma’lumotlarni uzatish ishonchliligini oshirish uchun nima qilinadi?
 ====
-#oraliq;
+#kontrol summani xisoblash bilan
 ====
-ha yoki  yo’q;
+ma’lumotni bir necha marta uzatish bilan
 ====
-chin yoki yolg’on;
+axborotni ishonchliligini tekshirishning majoritar usulini
 ====
-uzluksiz.
+maxsus apparat-programma vositalari yordamida
 ++++
 
-Sun’iy intellektni qurishning strukturali yondashuvida ………modellashtiriladi.
+Qaysi topologiya birgalikda foydalanilmaydigan muhitni qo’llamasligi mumkin?
 ====
-#inson miyasining tuzilishi;
+#to’liq bog’lanishli
 ====
-kompyuter xotirasining tuzilishi;
+xalqa
 ====
-chin yoki yolg’on qiymatlar;
+yulduz
 ====
-uzluksiz qiymatlar.
+umumiy shina
 ++++
 
-Sun’iy intellektni qurishning evolyutsiyali yondashuvida ………..
+Kompyuterning tashqi interfeysi deganda nima tushuniladi?
 ====
-#boshlang’ich modellar va qoidalar quriladi va ularni generatsiya qilish asosida yangi modellar quriladi;
+#kompyuter bilan tashqi qurilmani bog’lovchi simlar va ular orqali axborot almashinish qoidalari to’plamlari
 ====
-faqat boshlang’ich modellar va qoidalardan foydalaniladi;
+tashqi qurilmani kompyuterga bog’lashda ishlatiladigan ulovchi simlar
 ====
-faqat uzlukli  modellar va qoidalardan foydalaniladi;
+kompyuterning tashqi portlari.
 ====
-qisman uzlukli  modellar va uzluksiz qoidalardan foydalaniladi.
+tashqi qurilma bilan kompyuter o’rtasida axborot almashinish qoidalari to’plami
 ++++
 
-Intellektual agentning asosiy elementi qaysi?
+Uchta o’zaro bog’langan bog’lamlardan iborat tuzilma (uchburchak shaklida) topologiyaning qaysi turiga tegishli?
 ====
-internet modem
+#To’liq bog’lanishli
 ====
-faqat kamera
+Umumiy shina
 ====
-#sensor va aktuatorlar;
+Yulduz
 ====
-printer va skaner
+Yacheykali
 ++++
 
-Sun’iy intellektni qurishning imitatsiyali  yondashuvida ……modellashtiriladi.
+Qanday topologiyaning xususiy xoli umumiy shina xisoblanadi?
 ====
-#insonning boshqalardan nusxa olish qobiliyati
+#Yulduz
 ====
-neyron tarmoqning  fikrlash qobiliyati
+To’liq bog’lanishli
 ====
-kompyuterning nusxa olish qobiliyati modellashtiriladi
+Xalqa
 ====
-printerning nusxa olish qobiliyati modellashtiriladi
+Yacheykali
 ++++
 
-Exspert tizimlar  ko’proq  qanday bilimlarga asoslanadi
+Topologiyalardan qaysi biri ishonchliligi yuqori hisoblanadi?
 ====
-#exspertlarning empirik bilimlari asosida shakllantirilgan bilimlarga
+Yulduz
 ====
-kitoblardan olingan bilimlarga
+Xalqa
 ====
-ilmiy jurnallardan olingan bilimlarga
+#Аralash
 ====
-gazetadan olingan bilimlarga
+Umumiy shina
 ++++
 
-Turing testi nima uchun ishlatiladi?
+MAC sathi qanday vazifani bajaradi?
 ====
-operatsion tizimni o‘rnatish uchun
+#uzatish muhitiga murojaat qilishni boshqarish
 ====
-internet tezligini o‘lchash uchun
+stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish
 ====
-#mashina insondek fikrlay olishini tekshirish uchun
+bitlar sathida axborot uzatishni boshqarish
 ====
-fayllarni tiklash uchun
+bloklar sathida axborot uzatishni boshqarish
 ++++
 
-Zaif sun’iy intellektning asosiy xususiyati?
+LLC sathi qanday vazifani bajaradi?
 ====
-hamma vazifani bajaradi
+#stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish
 ====
-inson o‘rnini to‘liq bosadi
+bitlar sathida axborot uzatishni boshqarish
 ====
-#faqat bitta vazifaga ixtisoslashgan
+bloklar sathida axborot uzatishni boshqarish
 ====
-o‘z-o‘zini anglaydi
+uzatish muhitiga murojaat qilishni boshqarish
 ++++
 
-Kuchli sun’iy intellekt qanday bo‘ladi?
+Stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish vazifasini qaysi sath bajaradi?
 ====
-faqat o‘yin o‘ynaydi
+#LLC sathi
 ====
-faqat hisob-kitob qiladi
+Fizik sath
 ====
-#inson darajasida fikrlay oladi
+Tarmoq sathi
 ====
-faqat tasvir tanish vazifasini bajaradi
+MAC sathi
 ++++
 
-MYCIN qaysi tilda yozilgan?
+Uzatish muhitiga murojaat qilishni boshqarish vazifasini qaysi sath bajaradi?
 ====
-Java
+#MAC sathi
 ====
-C++
+Fizik sath
 ====
-#LISP
+Tarmoq sathi
 ====
-Python
+LLC sathi
 ++++
 
-Ekspert tizimda “inferensiya mexanizmi” nima qiladi?
+l0Base-2 segmentining uzunligi ko’pi bilan qancha bo’lishi mumkin?
 ====
-ma’lumotni saqlaydi
+#185 metr
 ====
-grafika chizadi
+400 metr
 ====
-#qaror chiqaradi
+200 metr
 ====
-internetga ulanadi
+500 metr
 ++++
 
-Data Miningning asosiy maqsadi?
+O’ralma juftlik kabeli simlarini, uning konnektorlariga ulashning necha xil variantlari mavjud?
 ====
-fayllarni siqish
+#2
 ====
-kompyuterni optimallashtirish
+3
 ====
-#katta ma’lumotlardan bilim ajratish
+4
 ====
-elektron pochta yuborish
+1
 ++++
 
-Agentlarning vazifasi?
+Ethernet tarmoqlarida uzatish muhitiga murojaat qilishning qaysi usuli qo’llaniladi?
 ====
-faqat rasm chizish
+#CSMA/CD
 ====
-faqat audio eshitish
+CSTK/CE
 ====
-#atrof-muhitni sezish va qaror qabul qilish
+CSQE/NQ
 ====
-kompyuter grafikasini ishlab chiqish
+CSTK/QL
 ++++
 
-K-Means qanday algoritm?
+Ethernet da kommutatsiyalashning qaysi xilidan foydalaniladi?
 ====
-klassifikatsiya
+#paketlarni deytagrammali kommutatsiyalash
 ====
-regressiya
+paketlarni virtual kanal orqali uzatish
 ====
-#klasterlash
+vaqtni taqsimlash asosida kanallarni kommutatsiyalash
 ====
-shifr
+chastotali multiplekslash asosida kanallarni kommutatsiyalash
 ++++
 
-Turing testi nima uchun ishlatiladi?
+Optik tolali Ethernet tarmog’ining maksimal uzunligi qanday?
 ====
-kompyuter tezligini o‘lchash
+2740 m
 ====
-dasturiy xatolarni aniqlash
+500 m
 ====
-#mashina insondek fikrlay olishini tekshirish uchun
+#5000 m
 ====
-ma’lumotlarni tahlil qilish
+2500 m
 ++++
 
-Ekspert tizimda “inferensiya mexanizmi” nima qiladi?
+100Base-TX spetsifikatsiyasi qaysi texnologiyaga tegishli?
 ====
-grafik yaratadi
+#Fast Ethernet
 ====
-ma’lumotni saqlaydi
+Ethernet
 ====
-qaror chiqaradi
+Gigabit Ethernet
 ====
-algoritmlarni optimallashtiradi
+FDDI
 ++++
 
-Tibbiyotda qo’llaniladigan expert tizimlarni ko’tsating ?
+Ethernet texnologiyasi tarmoqlarida ma’lumotlar kadri qanday preambulaga ega?
 ====
-#MYCIN, PUFF, MODIS
+00001111
 ====
-MIXER, MYCIN, ACE
+11110000
 ====
-DART, HANNIBAL, PUFF
+#10101010
 ====
-MYCIN, MIDAS, ACES
+11001100
 ++++
 
-Harbiy sohada qo’llaniladigan expert tizimlarni ko’tsating ?
+Signalni to’liq aylanib chiqish vaqti –PDV ning maksimal qiymati qanday?
 ====
-#DART, HANNIBAL, I&W;
+576 bitli interval
 ====
-MIXER, MYCIN, ACE;
+#512 bitli interval
 ====
-DART, HANNIBAL, PUFF;
+600 bitli interval
 ====
-MYCIN, MIDAS, ACES;
+624 bitli interval
 ++++
 
-AI tarixida birinchi chatbot?
+PDV deganda nima tushuniladi?
 ====
-Siri
+#Signalni to’liq aylanib chiqish vaqti
 ====
-Alexa
+Kadrlar orasidagi masofaning qisqarishi
 ====
-#ELIZA
+Kadrlar orasidagi masofa
 ====
-ALICE
+Bitli interval
 ++++
 
-CNN tarmog‘i qaysi vazifaga mo‘ljallangan?
+Fast Ethernet texnologiyasi spetsifikatsiyalari qaysi komitet tarkibida ishlab chiqilgan?
 ====
-Audio yozishni tahlil qilish
+#802.3
 ====
-Statistik ma’lumotlarni hisoblash
+802.2
 ====
-#Tasvirni tanish va analiz qilish
+802.1
 ====
-Internet trafikini nazorat qilish
+802.5
 ++++
 
-Supervised learning nimani anglatadi?
+Ethernet texnologiyasida koaksial kabelining ma’lumotlarni uzatish tezligi qanday?
 ====
-Ma’lumotlarsiz o‘rganish
+#10 Mbit/s
 ====
-Tasodifiy ma’lumotlar bilan o‘rganish
+1 Mbit/s
 ====
-#Natijalar ma’lum bo‘lgan holda o‘rganish
+100 Mbit/s
 ====
-Algoritmni o‘z-o‘zini kuzatmasdan ishlash
+1000 Mbit/s
 ++++
 
-Backpropagation qaysi algoritmga tegishli?
+Fast Ethernet texnologiyasida o’ralma juftlik kabelining ma’lumotlarni uzatish tezligi qanday?
 ====
-K-Means
+#100 Mbit/s
 ====
-Naive Bayes
+10 Mbit/s
 ====
-#Chuqur neyron tarmoqlarga
+1 Mbit/s
 ====
-Logistik regressiya
+1000 Mbit/s
 ++++
 
-AI da “unsupervised learning” nimani anglatadi?
+Lokal tarmoqlarda keng tarqalgan topologiya turi qaysi?
 ====
-Natijalar bilan o‘rganish
+#Yulduz
 ====
-Faqat statistik tahlil
+Xalqa
 ====
-#Natijalarsiz o‘rganish
+To’liqbog’langan
 ====
-Algoritmni qo‘lda boshqarish
+Umumiy shina
 ++++
 
-Chatbotlar qaysi texnologiyaga asoslanadi?
+ 100Base-TX spetsifikatsiya qaysi texnologiyaga tegishli?
 ====
-Robototexnika
+#Fast Ethernet
 ====
-Kiberxavfsizlik
+Ethernet
 ====
-#Natural Language Processing (NLP)
+Gigabit Ethernet
 ====
-Sun’iy neyron tarmoqlar
+10G Ethernet
 ++++
 
-Mashinali o‘qitishda overfitting nima?
+ 1000Base-SX spetsifikatsiya qaysi texnologiyaga tegishli?
 ====
-Modelning juda oddiy bo‘lishi
+#Gigabit Ethernet
 ====
-Natijalarni tasodifiy chiqarish
+Fast Ethernet
 ====
-#Model o‘quv ma’lumotlariga haddan tashqari moslashishi
+Ethernet
 ====
-Modelning ishlash vaqtini kamaytirish
+10G Ethernet
 ++++
 
-CNN tarmog‘i qaysi vazifada eng ko‘p ishlatiladi?
+10Base-T standartida o’ralma juftlik kabeli simlarining nechta jufti ishlatiladi?
 ====
-Matematika masalalarini yechish
+#2
 ====
-Matn tahlili
+4
 ====
-#Rasm va tasvirlarni tanish
+1
 ====
-Internet trafikini nazorat qilish
+3
 ++++
 
-Informatika sohasida qo’llaniladigan expert tizimlarni ko’tsating ?
+100Base-TX spetsifikatsiyasida o’ralma juftlik kabeli simlarining nechta jufti ishlatiladi?
 ====
-#RUBRIC, CODES, MIXER;
+#2
 ====
-DART, MYCIN, ACE;
+4
 ====
-DART, HANNIBAL, PUFF;
+1
 ====
-I&W, MYCIN,  ACES.
+3
 ++++
 
-Sun'iy intellektdan foydalanishning funktsional tuzilishi qanday komplekslardan iborat?
+Kompyuterni kontsentrator yoki kommutator bilan ulash uchun UTP kabelining qaysi varianti ishlatiladi?
 ====
-#Bajaruvchi tizim, intellektual interfeys, bilimlar bazasi;
+#To’g’ridan-to’g’ri ulangan varianti
 ====
-Foydalanuvchi, muloqot tizimi, programmalar;
+Teskari ulangan varianti
 ====
-Hisoblash, translyatorlar, axborotli qatlam;
+Krossover varianti
 ====
-Konseptual qatlam, bajaruvchi, izlash vositalari.
+Kesishgan holda ulangan variant
 ++++
 
-Ma’lumotlar nima?
+Kompyuterni kompyuter bilan ulash uchun UTP kabelining qaysi varianti ishlatiladi?
 ====
-#obyektlar, jarayonlar va hodisalarni hamda ularning xossalarini  tavsiflaydi;
+#Krossover varianti
 ====
-faqat obyektlar, jarayonlar va hodisalarni tavsiflaydi;
+Teskari ulangan varianti
 ====
-faqat mantiqiy obyektlar tavsiflaydi;
+To’g’ridan-to’g’ri ulangan varianti
 ====
-funksional va strukturali jarayonlarni tavsiflaydi.
+Qo’shimcha ulangan varianti
 ++++
 
-Bilimlar nima?
+Tarmoq adapterining kadrlarni kompyuterdan uzatib beruvchi ulanish nuqtasi (kontakti) qanday belgilanadi?
 ====
-#obyektiv qonuniyatlar;
+#Tx
 ====
-obyektlar to’plami;
+Rx
 ====
-exspertlar to’plami;
+Px
 ====
-predmet sohadagi masalalar to’plami.
+Kx
 ++++
 
-Aniq obyekt yoki obyeltlar sinfini (narsalar, jarayonlar, hodisalar va h.k.) tavsiflaydigan bilimlar qanday bilimlar ?
+Tarmoq adapterining kadrlarni kompyuterga qabul qilib oluvchi ulanish nuqtasi (kontakti) qanday belgilanadi?
 ====
-#Obyektiv bilimlar;
+#Rx
 ====
-Subyektiv  bilimlar;
+Tx
 ====
-Metabilimlar;
+Px
 ====
-Imitatsiyali bilimlar.
+Kx
 ++++
 
-Bilimlarni izohlashlar nuqtai-nazaridan birlashtirilgan to’g’ri guruhlarni  ko’rsating?
+Ethernet texnologiyasi qaysi mantiqiy topologiya asosida qurilgan?
 ====
-#Psixologikli, intellektualli, formalli-mantiqli va axbor#otli-texnologokli;
+#umumiy shina
 ====
-Psixologikli, intellektualli, integralli  va belgili;
+xalqa
 ====
-Metabilimli, formalli-mantiqli va formulali;
+yulduz
 ====
-Ta’sir etuvchili, o’zgaruvchili,  bilimli.
+to’liq bog’lanishli topologiya
 ++++
 
-Bilimlarni izohlashlar nuqtai-nazaridan to’g’ri birlashtirilgan guruhlarni ko’rsating?
+Fast Ethernet texnologiyasida qaysi turdagi kabel tizimlaridan foydalanilgan?
 ====
-#Psixologikli, intellektualli, formalli-mantiqli va axborotli-texnologokli;
+#ko’pmodali optik tolali, 5 va undan yuqori kategoriyali o’ralma juftlik
 ====
-Psixologikli, intellektualli, integralli  va belgili;
+bittamodali optik tolali , 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
 ====
-Metabilimli, formalli-mantiqli va formulali;
+ingichka koaksial kabel, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
 ====
-Ta’sir etuvchili, o’zgaruvchili,  bilimli.
+yo’g’on koaksial kabel, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
 ++++
 
-Bilimlar manbalardan olinishiga qarab qanday tiplarga bo’linadi?
+Kadrlar ketma-ketligini kontsentratorlar orqali o’tishi natijasida, kadrlar orasidagi masofaning qisqarishi – PVV,ko’pi bilan qancha bo’lishi mumkin?
 ====
-#Aprior va hosil qilinadigan bilimlar;
+#49 bitli interval
 ====
-Psixologikli, intellektualli va formulali bilimlar;
+32 bitli interval
 ====
-Metabilimli, formalli-mantiqli va formulali bilimlar;
+30 bitli interval
 ====
-Aprior va ta’sir etuvchili, o’zgaruvchili bilimlar.
+64 bitli interval
 ++++
 
-Hosil qilinadigan bilimlarning qanday turlari mavjud?
+MАC sath osti sathi OSI modelining qaysi sathiga tegishli?
 ====
-#Exspertli, kuzatiladigan va xulosalaydigan bilimlar;
+#kanal sathiga
 ====
-Psixologikli, intellektualli va kuzatiladigan bilimlar;
+tarmoq sathiga
 ====
-Metabilimli, formalli-mantiqli va xulosalaydigan bilimlar;
+fizik sathiga
 ====
-Aprior va ta’sir etuvchili, kuzatiladigan bilimlar.
+transport sathiga
 ++++
 
-Masalalarni echishda foydalanish darajasiga bog’liqligi bo'yicha bilimlarning qanday turlari mavjud?
+Ingichka koaksial kabel asosida qurilgan tarmoqda kompyuterlar orasidagi eng kichik masofa qanday bo’lishi kerak?
 ====
-#Deklarativli, protsedurali va metabilimlar;
+#1 m
 ====
-Psixologikli, protsedurali va metabilimlar;
+3 m
 ====
-Exspertli, kuzatiladigan va xulosalaydigan bilimlar;
+2 m
 ====
-Aprior va ta’sir etuvchili, kuzatiladigan bilimlar.
+5 m
 ++++
 
-Masalalarni echishda ishonchlilik darajasi bo’yicha bilimlarning qanday turlari mavjud?
+100Base-TX spetsifikatsiyasi qanday fizik topologiyaga ega?
 ====
-#Muayyan, noravshan;
+#ierarxik yulduz
 ====
-Psixologikli, protsedurali;
+yulduz
 ====
-Exspertli, kuzatiladigan;
+umumiy shina
 ====
-Apriorli, kuzatiladigan.
+xalqa
 ++++
 
-Masalalarni echishda maqsadga yo’naltirilganligi bo’yicha bilimlarning qanday turlari mavjud?
+100Base-TX spetsifikatsiyasi qanday mantiqiy topologiyaga ega?
 ====
-#Nusxa oluvchi, tanishtiruvchi, qobilyatni rivojlantiruvchi, m#alakani  oshiruvchi;
+#umumiy shina
 ====
-Muayyan, noravshan, qobilyatni rivojlantiruvchi, malakani  oshiruvchi;
+yulduz
 ====
-Nusxa oluvchi, tanishtiruvchi, exspertli, kuzatiladigan;
+ierarxik yulduz
 ====
-Apriorli, kuzatiladigan, psixologikli, protsedurali.
+xalqa
 ++++
 
-Obyektlarni va ular orasidagi munosabatlarni tavsivlash uchun qo’llanildigan bilimlarni ko’rsating?
+I va II sinf Fast Ethernet texnologiyasi takrorlagichlari nimasi bilan farq qiladi?
 ====
-#Deklarativ bilimlar;
+#Fizik sathiga tegishli mavjud portlari bilan
 ====
-Qobilyatni rivojlantiruvchi bilimlar;
+Kadrlarni uzatish usuli bilan
 ====
-Protsedurali bilimlar;
+Ma’lumotlarni uzatish tezligi bilan
 ====
-Kuzatiladigan bilimlar.
+Portlarning soni bilan
 ++++
 
-O’zini-o’zi izohlovchi bilimlar qaysi bilimlar turiga kiradi?
+Fast Ethernet texnologiyasida RJ-45 ulagichning qaysi kontaktlari ishlatiladi?
 ====
-Protsedurali bilimlar;
+#1,2,3,6
 ====
-Qobilyatni rivojlantiruvchi bilimlar;
+3,4,5,6
 ====
-Kuzatiladigan bilimlar;
+1,2,3,4
 ====
-#Deklarativ bilimlar.
+5,6,7,8
 ++++
 
-Bilimlar haqidagi bilimlar qaysi bilimlar turiga kiradi?
+Ethernet texnologiyasi nechta standartga ega?
 ====
-#Metabilimlar;
+4
 ====
-Qobilyatni rivojlantiruvchi bilimlar;
+#3
 ====
-Texnologik bilimlar;
+2
 ====
-Deklarativ bilimlar.
+6
 ++++
 
-Extensionalli	bilimni ko’rsating?
+Fast Ethernet texnologiyasi nechta spetsifikatsiyaga ega?
 ====
-#Axmedov oliy ma’lumotli diplomga ega;
+#3
 ====
-Axmedov oliy ma’lumotli diplomga ega bo’lishi mumkin, masalan, bakalavr;
+4
 ====
-Abiturient o’qishga kirishi uchun, u test savollaridan 68 balldan yuqori    ball to’plashi kerak;
+2
 ====
-Agar geometrik figuraning ichki burchaklari yig’indisi 180 gradus bo’lsa,  u holda bu uchburchak.
+6
 ++++
 
-Intensionalli bilimni ko’rsating?
+100Base-T4 spetsifikatsiyasida o’ralma juftlik kabeli simlarining nechta jufti ishlatiladi?
 ====
-#Talaba stipendiyatlar tanlovida qatnashishi uchun, u barcha fanlardan a’lo baho  o’lgan bo’lishi kerak;
+#4
 ====
-Axmedov oliy ma’lumotli diplomga ega;
+2
 ====
-Talabalar binoga kirdilar;
+1
 ====
-Printer stol ustida turibdi.
+6
 ++++
 
-Qaysi javobda bilimlarning xususiyatlari to’g’ri ko’rsatilgan?
+Umumiy shina topologiyali lokal tarmoqlarda kontsentratorlar qanday?
 ====
-#Ichki izohlanuvchanlik, strukturaviylik, bog’langanlik, semantik metrika, faollik;
+#Kompyuter tomonidan uzatilayotgan ma’lumotni barcha kompyuterga yo’naltiradi
 ====
-To’liqlik, strukturaviylik, bog’langanlik, natijaviylik, faollik;
+Kompyuter tomonidan uzatilgan ma’lumotni boshqa bir kompyuterga yo’naltiradi
 ====
-Natijaviylik, strukturaviylik, bog’langanlik, semantik metrika, bir qiymatlilik;
+Kompyuter tomonidan uzatilgan ma’lumotni xalqa orqali keyingi kompyuterga yo’naltiradi
 ====
-Strukturaviylik, ichki izohlanuvchanlik, to’liqlik, faollik
+Tarmoqning ikki segmentini o’zaro bog’laydi
 ++++
 
-Bilimlarni tushunishning uchinchi darajasi nima bilan xarakterlanadi?
+Qaysi kontsentrator kompyuter tomonidan uzatilayotgan ma’lumotni barcha kompyuterga yo’naltiradi?
 ====
-Atrof - muhit haqidagi tizimlar bilimlari bilan matnni to’ldirish qoidalarining qo’shilishi bilan xarakterlanadi;
+#Ethernet kontsentratori
 ====
-#Matndan tashqari matn manbai bo’lgan va tizim xotirasida aloqaga taalluqli umumiy axborotlarni saqlaydigan muayyan subyekt haqidagi axborotdan foydalanishi bilan xarakterlanadi.
+Token Ring kontsentratori
 ====
-Matndan kiritilgan savollarga javobni tizim to’g’ridan-to’g’ri ma’nosiga  asoslanib shakllantirish sxemasi bilan xarakterlanadi;
+FDDI kontsentratori
 ====
-Matndagi ma’lumotlarga asoslangan mantiqiy xulosa qilish vositalari qo’shilishi bilan xarakterlanadi;
+Frame Relay kontsentrator
 ++++
 
-…………………..–bu qandaydir tushunchani figura, yozuv, til yoki formal shaklda qabul qilinadigan amal hisoblanadi.
+Qaysi kontsentrator kompyuter tomonidan uzatilgan ma’lumotni xalqa orqali keyingi kompyuterga yo’naltiradi?
 ====
-Tasvirlash;
+#Token Ring kontsentratori
 ====
-#Bilimlarni tasvirlash;
+Ethernet kontsentratori
 ====
-Bilimlarni formallashtirish;
+FDDI kontsentratori
 ====
-Bilimlar.
+Frame Relay kontsentratori
 ++++
 
-Supervised learning algoritmlariga misol?
+To’g’ridan-to’g’ri ulangan UTP kabelida Tx uzatuvchi sifatida qaysi ranglardagi simlar ishlatiladi?
 ====
-K-Means
+#Yashil, oq-yashil
 ====
-Autoencoder
+Ko’k, oq-ko’k
 ====
-#Logistik regressiya
+Qizg’ish-sariq, oq - qizig’ish-sariq
 ====
-PCA
+Jigar rang, oq-jigar rang
 ++++
 
-K-Means algoritmi qaysi turga kiradi?
+To’g’ridan-to’g’ri ulangan UTP kabelida Rx qabul qiluvchi sifatida qaysi ranglardagi simlar ishlatiladi?
 ====
-Supervised learning
+#Qizg’ish-sariq, oq - qizig’ish-sariq
 ====
-Reinforcement learning
+Ko’k, oq-ko’k
 ====
-#Unsupervised learning
+Yashil, oq-yashil
 ====
-Deep learning
+Jigar rang, oq-jigar rang
 ++++
 
-Naive Bayes algoritmi qaysi turga kiradi?
+Kesishgan holatda ulangan (krossover) UTP kabelida Tx uzatuvchi sifatida qaysi ranglardagi simlar ishlatiladi?
 ====
-Unsupervised learning
+#Qizg’ish-sariq, oq - qizig’ish-sariq
 ====
-Deep learning
+Ko’k, oq-ko’k
 ====
-#Supervised learning
+Yashil, oq - yashil
 ====
-Reinforcement learning
+Jigar rang, oq-jigar rang
 ++++
 
-Ma’lumotlarni tasvirlash modellarini ko’rsating?
+Krossover ulangan UTP kabelida Rx qabul qiluvchi sifatida qaysi ranglardagi simlar ishlatiladi?
 ====
-#Ierarxikli, tarmoqli, obyektli, relyatsiyali, obyektli-rellyatsiyali,ko’po’lchovli;
+#Yashil, oq-yashil
 ====
-Ierarxikli, grafikli, belgili, relyatsiyali, obyektli-rellyatsiyali, ko’po’lchovli;
+Ko’k, oq-ko’k
 ====
-Ierarxikli, grafikli, integrally, jadvalli, relyatsiyali, ko’po’lchovli;
+Sariq, oq-sariq
 ====
-Ierarxikli, grafikli, belgili, relyatsiyali, belgili-rellyatsiyali, bir o’lchovli.
+Jigar rang, oq-jigar rang
 ++++
 
-Bilimlarni  tasvirlash modellarini ko’rsating?
+MSAU qanday vazifani bajaradi?
 ====
-#Freymli, semantik tarmoqli, formal-mantiqiy, produksiyali;
+#faol bo’lmagan kontsentrator vazifasini
 ====
-Freymli, grafikli, belgili, relyatsiyali, obyektli-rellyatsiyali, ko’po’lchovli;
+ko’prikning vazifasini
 ====
-Formal-mantiqiy, grafikli, integrally, jadvalli, relyatsiyali;
+faol kontsentratorning vazifasini
 ====
-Ierarxikli, produksiyali, belgili, relyatsiyali, belgili-rellyatsiyali;
+takrorlovchi vazifasini
 ++++
 
-Formal modellarda mantiqiy xulosalash nimaga asoslanadi?
+FDDI texnologiyasida buzilmasdan ishlash qobiliyatini oshirish qanday ta’minlangan?
 ====
-#Qat’iy aksiomatik qoidalarga;
+#ikkita optik tolali xalqani hosil qilish asosida
 ====
-Qat’iy dinamik qoidalarga;
+axborotni keragidan ortiq xolatli kodlar bilan kodlash usulini qo’llash bilan
 ====
-Qat’iy stastik qoidalarga;
+xatolarni to’g’irlash qurilmalaridan foydalanish asosida
 ====
-Qat’iy o’zgaruvchilarga.
+intellektual kontsentratorlardan foydalanish asosida
 ++++
 
-Noformal modellarda mantiqiy xulosalash nimaga asoslanadi?
+FDDI texnologiyasining fizik sathi nachta sath osti sathlariga bo’linadi?
 ====
-#Ko’pincha tadqiqotchi tomonidan #aniqlanadi;
+#2
 ====
-Ko’pincha  qat’iy dinamik qoidalarga;
+4
 ====
-Qat’iy stastik qoidalarga;
+3
 ====
-Ko’pincha  o’zgaruvchilarga.
+5
 ++++
 
-Formal modellar ifodasini aniqlang?
+FDDI texnologiyasida, xalqalarga ko’pi bilan nechta kompyuter ulanishi mumkin?
 ====
-#F=(A,V, W, R) ;
+#500
 ====
-М=<1, O, Т, Р, А, В, I, G>;
+700
 ====
-H=<I, C1, C2, …, Cn, Г>;
+900
 ====
-i; Q; P, A→B, N.
+100
 ++++
 
-Freym- bu ……………………….. kabi mazmunlarda ishlatiladi.
+FDDI tarmoqlarida uzatish muhitiga murojaat qilishning qaysi usuli qo’llaniladi?
 ====
-#paycha, panjara, ichki skelet;
+#marker asosida murojaat qilishning tezkor usuli
 ====
-protofreym, produksiy;
+CSMA/CD
 ====
-slot, freym-ekzemplyar;
+marker asosida murojaat qilish usuli
 ====
-slot, freym-ekzemplyar, senariy.
+CSTK/QL
 ++++
 
-Senariyning maxsus slotlari sifatida ……………………….. kabilar keladi.
+Token Ring tarmoqlarida uzatish muhitiga murojaat qilishning qaysi usuli qo’llaniladi?
 ====
-#senariylar, maqsad, sahna va rol;
+#marker asosida murojaat qilish usuli
 ====
-protofreym, produksiy;
+marker asosida murojaat qilishning tezkor usuli
 ====
-senariylar, freym-ekzemplyar;
+CSMA/CD
 ====
-slot, freym-ekzemplyar, senariy.
+CSTK/QL
 ++++
 
-Daraxtda VA – strukturalarga ……………………mos keladi.
+Keltirilgan texnologiyalarning qaysi birlari lokal tarmoq texnologiyalariga mansub?
 ====
-#bog’langan tugunlar;
+#FDDI, Token Ring
 ====
-tupikli va siklli tugunlar;
+Frame Relay, Token Ring
 ====
-bog’lanmagan tugunlar;
+Ethernet, Internet
 ====
-bo’sh tugunlar.
+ATM, TCP/IP
 ++++
 
-Daraxtda YOKI  – strukturalarga ……………………mos keladi.
+FDDI texnologiyasida stantsiyalar orasidagi eng uzoq masofa kanday bo’lishi mumkin?
 ====
-#bog’lanmagan tugunlar;
+#2000m.
 ====
-tupikli va siklli tugunlar;
+1000 m.
 ====
-bog’langan tugunlar;
+2500m.
 ====
-bo’sh tugunlar.
+500 m
 ++++
 
-Butunni qism elementlarga ajratishda ularning har birini alohida qaraydigam  mantiqiy usul-bu……………….
+Xalqa topologiyali lokal tarmoqlarda kontsentratorlar qanday funktsiyani bajaradi?
 ====
-#tahlil;
+#Kompyuter tomonidan uzatilgan ma’lumotni xalqa orqali keyingi kompyuterga yo’naltiradi
 ====
-sintez;
+Kompyuter tomonidan uzatilgan ma’lumotni barcha kompyuterlarga yo’naltiradi
 ====
-induksiya;
+Kompyuter tomonidan uzatilgan ma’lumotni boshqa bir kompyuterga yo’naltiradi
 ====
-deduksiy.
+Tarmoqning ikki segmentini o’zaro bog’laydi
 ++++
 
-Tahlil natijasida olingan barcha ma’lumotlar birlashmasi-bu……………?
+FDDI tarmog’idama’lumotlarni uzatishda qanday murojat kilish usuli qo’llaniladi?
 ====
-#sintez;
+#Tezlashtirilgan markerli murojaat qilish usuli
 ====
-tahlil;
+CSMA/CD
 ====
-induksiya;
+Markerli murojaat qilish usuli
 ====
-deduksiy.
+CSTK/QL
 ++++
 
-Fikrning hususiylikdan umumiylikga, qator faktorlardan qonunga harakat jarayoni-bu…………………..
+Token Ring tarmog’ida ma’lumotlarni uzatishda qanday murojat qilish usuli qo’llaniladi?
 ====
-#induksiya;
+#Markerli murojaat qilish usuli
 ====
-tahlil;
+Tezlashtirilgan markerli murojaat qilish usuli
 ====
-sintez;
+CSMA/CD
 ====
-deduksiy.
+CSTK/QL
 ++++
 
-Fikrning umumiylikdan hususiylikga, qonundan alohidalikning namoyon bo’lishiga harakat jarayoni-bu………………
+FDDI tarmog’ining qaysi elementlari buzilmay ishlash qobiliyatini ta’minlaydi?
 ====
-#deduksiy;
+#Ma’lumotlarni uzatish uchun ikkita xalqaning mavjudligi
 ====
-tahlil;
+Kontsentratorlar
 ====
-sintez;
+А sinfga tegishli stantsiyalar
 ====
-abstraktlashtirish.
+Kommutatorlar
 ++++
 
-Predikatlar mantiqi elementar mulohazani ………………..qismlarga bo’ladi.
+Token Ring texnologiyasi kadrining maksimal uzunligi nimaga bog’liq?
 ====
-#subyekt va predikat;
+#xalqaning ishlash tezligiga
 ====
-tahlil va sintez;
+ma’lumotlarni uzatish ishonchliligiga
 ====
-mavjudlik va umumiylik;
+xalqadagi kompyuterlar soniga
 ====
-mavjudlik, umumiylik va kon’yunksiya.
+xalqaning uzunligiga
 ++++
 
-……………….–bu mulohazada biror narsa haqida nimadir tasdiqlaydi, …………………– bu subyektni tasdiqlash.
+Simsiz tarmoqlar standartlari qaysi komitet tarkibida ishlab chiqilmoqda?
 ====
-#subyekt; predikat;
+#802.11
 ====
-tahlil; sintez;
+802.7
 ====
-mavjudlik; umumiylik;
+802.6
 ====
-induksiya; deduksiya.
+802.12
 ++++
 
-«Zarrux-talaba» mulohazasida «Zarrux» -………….., «talaba» -…………. ..
+Xozirgi paytda ko’p ishlatiladigan, 802.11 standartiga tegishli spetsifikatsiyani ko’rsating?
 ====
-#subyekt; predikat;
+#a, b, g, n, ac
 ====
-tahlil; sintez;
+a, b, d
 ====
-mavjudlik; umumiylik;
+a, b, c
 ====
-induksiya; deduksiya.
+a, b, e
 ++++
 
-Agar   formula ifodasiga kiruvchi va   sohaga oid o’zgaruvchilarning shunday qiymatlari mavjud bo’lib, bu qiymatlarda   formula chin qiymat qabul qilsa, u holda predikatlar mantiqining   formulasi   sohada ………………………….formula deb aytiladi.
+802.11 spetsifikatsiyasi simsiz lokal tarmog’i diametrining chegaralari qanday?
 ====
-#bajariluvchi;
+#100 - 300 m
 ====
-bajarilmas;
+50 - 100 m
 ====
-umumqiymatli;
+300 – 400 m
 ====
-aynan chin.
+100 -200 m.
 ++++
 
-Agar   ning ifodasiga kiruvchi va   sohaga oid hamma o’zgaruvchilarning qiymatlarida   formula chin qiymat qabul qilsa, u holda   formula   sohada ……………… formula deb aytiladi.
+Keltirilgan qisqartmalarning qaysi biri bazaviy yoki asosiy xizmatlar to’plami ko’rsatiladigan tarmoqni anglatadi?
 ====
-aynan chin;
+#BSS
 ====
-aynan yolg’on;
+STA
 ====
-bajariluvchi;
+ESS
 ====
-#umumqiymatli.
+DSS
 ++++
 
-Agar   ning ifodasiga kiruvchi va   sohaga oid hamma o’zgaruvchilarning qiymatlarida   formula yolg’on qiymat qabul qilsa, u holda   formula   sohada ……………… formula deb aytiladi.
+Keltirilgan qisqartmalarning qaysi biri kengaytirilgan (qo’shimcha) xizmatlar to’plamini ko’rsatadigan tarmoqni anglatadi?
 ====
-#aynan yolg’on;
+#ESS
 ====
-umumqiymatli;
+BSS
 ====
-bajariluvchi;
+STA
 ====
-aynan chin.
+DSS
 ++++
 
-Agar   formula har qanday sohada ……… bo’lsa, u holda   ga umumqiymatli formula deb aytiladi.
+BSS deganda nima tushuniladi?
 ====
-#aynan chin;
+#Asosiy xizmatlar to’plami ko’rsatiladigan simsiz tarmoq
 ====
-aynan yolg’on;
+Qo’shimcha xizmatlar to’plamini ko’rsatadigan simsiz tarmoq
 ====
-bajariluvchi;
+Yulduz topologiyasidagi tarmoq
 ====
-chin va yolg’on.
+Halqa topologiyasidagi tarmoq
 ++++
 
-Qandaydir tasdiqlarni qabul qilishga olib keladigan (majbur qiladigan) argument(fakt)lar ketma-ketligi-bu ………………deyiladi.
+ESS deganda nima tushuniladi?
 ====
-#fikrlash;
+#Qo’shimcha xizmatlar to’plamini ko’rsatadigan simsiz tarmoq
 ====
-tahlil;
+Asosiy xizmatlar to’plami ko’rsatiladigan simsiz tarmoq
 ====
-teskari induksiya;
+Yulduz topologiyasidagi tarmoq
 ====
-teskari deduksiya;
+Xalqa topologiyasidagi tarmoq
 ++++
 
-Kuzatilayotgan hodisa va faktorlarni tushuntiruvchi gipotezalarni shakllantirish jarayoni – bu ………………..
+802.11g spetsifikatsiyasida ma’lumotlarni uzatishning maksimal tezligi qanday?
 ====
-#abduksiya;
+#54 Mbit/s
 ====
-induksiya;
+2 Mbit/s
 ====
-deduksiya;
+11 Mbit/s
 ====
-tahlil.
+1 Mbit/s
 ++++
 
-Quyidagi qoida mavjud: «Ushbu auditoriyadagi барча talabalar bakalavriatlar»; Kuzatish natijasi quyidagicha: «Bu talabalar bakalavriatlar»; U holda abduksiya bo’yicha keltirrrilgan to’g’ri xulosani toping?
+802.11b spetsifikatsiyasida ma’lumotlarni uzatishning maksimal tezligi qanday?
 ====
-«Bu bakalavriatlar ushbu auditoriyadan chiqqan»;
+#11 Mbit/s
 ====
-«Bu bakalavriatlar ushbu auditoriyadan chiqmaqan»;
+54 Mbit/s
 ====
-#«Bu talabalar ushbu auditoriyadan chiqqan»;
+600 Mbit/s
 ====
-«Bu talabalar ushbu auditoriyadan chiqmaqan».
+1 Mbit/s
 ++++
 
-Berilgan: x; y.x: Fariza -talaba; y: Fariza – a’lo baho olishga haqli; Induktiv xulosalash to’g’ri ko’rsatilgan javobni toping?
+802.11 spetsifikatsiyasi qanday ma’lumotlarni uzatishning maksimal tezligi qanday?
 ====
-#Barcha talabalar a’lo baho olishga haqli;
+#2 Mbit/s
 ====
-Barcha talabalar a’lo baho olishga haqli emas;
+1 Mbit/s
 ====
-Barcha a’lo bahoga o’qiydiganlar-talaba;
+11 Mbit/s
 ====
-A’lo bahoga o’qiydiganlarning barchasi-talaba.
+54 Mbit/s
 ++++
 
-«Semantik tarmoq» termini qaysi olimning ishlarida paydo bo’lgan?
+802.11b spetsifikatsiyasi ma’lumotlarni uzatishning maksimal tezligi qanday?
 ====
-#R.Kullian;
+#11 Mbit/s
 ====
-Saymon;
+2 Mbit/s
 ====
-Pirs ;
+1 Mbit/s
 ====
-Richanson.
+54 Mbit/s
 ++++
 
-……………………………- bu yo’naltirilgan gtaf bo’lib, uning tugunlari -tushunchalarga, yoylari esa -tugunlar orasidagi munosabatlarga mos keladi.
+802.11n spetsifikatsiyasi ma’lumotlarni uzatishning maksimal tezligi qanday?
 ====
-#Semantik tarmoq;
+#600 Mbit/s
 ====
-Sintaktik tarmoq;
+54 Mbit/s
 ====
-Morfologik tarmoq;
+11 Mbit/s
 ====
-Mantiqiy tarmoq.
+6.7 Gbit/s
 ++++
 
-Tarmoqda tugunlarga qo’yilgan chegaralar va ular orasidagi aloqalarga qarab tarmoqlar qanday tiplarga bo’linadi?
+802.11ac spetsifikatsiyasi ma’lumotlarni uzatishning maksimal tezligi qanday?
 ====
-#oddiy, ierarxikli, birjinsli, birjinslimas;
+#6.7 Gbit/s
 ====
-oddiy, assotsativ, ko’pjinsli, birjinslimas;
+600 Mbit/s
 ====
-ierarxikli, kauzalli, propozitsiyali, birjinslimas;
+54 Mbit/s
 ====
-birjinsli, assotsoativ, funksiomal,birjinslimas.
+11 Mbit/s
 ++++
 
-Munosabatlar turiga qarab tarmoqlar qanday tiplarga bo’linadi?
+802.11 standartiga tegishli topologiyalarning qaysi turlari mavjud?
 ====
-#binarli, N-arli;
+#BSS, ESS
 ====
-oddiy, binarli;
+Xalqa,to’liq bog’lanishli
 ====
-ierarxikli, kauzalli;
+Umumiy shina, yulduz
 ====
-birjinsli, assotsoativ.
+BSS, DSS
 ++++
 
-Predmet sohadagi obyektlar, jarayonlar o’rtasidagi munosabatlarga qarab tarmoqlar qanday tiplarga bo’linadi?
+Tarmoqni fizik strukturalashda qaysi qurilma ishlatiladi?
 ====
-#Sinflovchi, funksionalli, semantikli, freymli, senariyli;
+#takrorlovchi (kontsentrator)
 ====
-oddiy, binarli, funksionalli, semantikli;
+kommutator
 ====
-ierarxikli, kauzalli, oddiy, binarli;
+ko’prik
 ====
-birjinsli, assotsoativ, semantikli, freymli.
+shlyuz
 ++++
 
-Qaysi tarmoqlarda tushuncha sifatida inson xotirasida saqlangan  bilimlarning  ba’zi bir aspektlari aks ettiriladi?
+Qaysi qurilma tarmoqning mantiqiy strukturasini o’zgartirishi mumkin?
 ====
-#Assotsiativli;
+#ko’prik, marshrutizator, kommutator va shlyuz
 ====
-Semantikli;
+faqat kommutator
 ====
-Ierarxikli;
+takrorlovchi
 ====
-Freymli.
+kontsentrator
 ++++
 
-Qaysi tarmoqli modelda turli xil bog`lanishlarga ruxsat etiladi?
+Ethernet kontsentratori qanday vazifani bajaradi?
 ====
-#Semantikli;
+#kompyuterdan kelayotgan axborotni qolgan barcha kompyuterga yo’naltirib beradi
 ====
-Assotsiativli;
+kompyuterdan kelayotgan axborotni boshqa bir kompyuterga yo’naltirib beradi
 ====
-Ierarxikli;
+kompyuterdan kelayotgan axborotni xalqa bo’ylab joylashgan keyingi kompyuterga
 ====
-Freymli.
+tarmoqning ikki segmentini bir biriga ulaydi
 ++++
 
-Qaysi tarmoqlarda tugunlarga funksiyalar, yo’larga esa funksiyning argumenlari mos qo’yiladi?
+Kompyuter tarmog’ining fizik strukturalash nima maqsadda amalga oshiriladi?
 ====
-#Funksional tarmoqlarda;
+#Tarmoq diametrini oshirish uchun
 ====
-Assotsiativ tarmoqlarda;
+Unumdorlikni oshirish uchun
 ====
-Kauzal tarmoqlarda;
+Internetga ulanish uchun
 ====
-Semantik tarmoqlarda.
+Tarmoqosti tarmoqlarini bog’lashni amalga oshirish uchun
 ++++
 
-Semantik tarmoqda barcha munosabatlar binar munosabatlardan iborat bo’lsa, u holda ular qaysi grafni tashkil qiladi?
+Kompyuter tarmog’ining mantiqiy strukturalash nima maqsadda amalga oshiriladi?
 ====
-#Relyatsion grafni;
+Internetga ulanish uchun
 ====
-Kauzal grafni;
+Tarmoq diametrini oshirish uchun
 ====
-Assotsiativ grafni;
+Tarmoqosti tarmoqlarini bog’lashni amalga oshirish uchun
 ====
-Uzluksiz  grafni.
+#Trafikni lokallashtirish uchun
 ++++
 
-Semantik tarmoqda barcha munosabatlar N-ar munosabatlardan iborat bo’lsa, u holda ular qaysi grafni tashkil qiladi?
+Kommutator ko’prikdan nimasi bilan farq qiladi?
 ====
-#Konseptualli grafni;
+#Kadrlarni parallel qayta ishlashda
 ====
-Kauzal grafni;
+Tarmoqqa ulanish usulida
 ====
-Assotsiativ grafni;
+Kadrlarni uzatish algoritmida
 ====
-Relyatsion grafni.
+Kadrlarni uzatish usulida
 ++++
 
-Agar semantik tarmoqda munosabatlarning ichma-ichligi bir nechta bo’lsa, u holda ular qaysi tarmpqni tashkil qiladi?
+OSI modelida nechta sath mavjud?
 ====
-#Propozitsiyali tarmoqni;
+#7
 ====
-Kauzal tarmoqni;
+4
 ====
-Assotsiativ tarmoqni;
+5
 ====
-Relyatsion grafni.
+3
 ++++
 
-Agar semantik tarmoqda hodisalarni tasvirlash uchun ko’proq markazda fe’l bilan kelgan graf  qaysi grafni tashkil qiladi?
+OSI modelining to’rtinchi sathi qanday nomlanadi?
 ====
-#Rast’e grafini;
+#Transport sathi
 ====
-Propozitsiyali grafini;
+Аmaliy sath
 ====
-Assotsiativ grafini;
+Seanslar sathi
 ====
-Relyatsion grafni.
+Taqdimlash sathi
 ++++
 
-Semantik tarmoqlarda ierarxikli tipli munosabatlarni ko’rsating?
+OSI modelining beshinchi sathi qanday nomlanadi?
 ====
-“#ISA”, “AKO”, “butun-qism” munosabatlari;
+#Seanslar sathi
 ====
-“sabab-oqibat”, AKO, “butun-qism” munosabatlari;
+Аmaliy sath
 ====
-“ISA”, “fakt-xulosat”,  “sabab-oqibat” munosabatlari;
+Fizik sath
 ====
-“va”, “yoki”, “butun-qism” munosabatlari.
+Transport sathi
 ++++
 
-Semantik tarmoqlarda funksional munosabatlarni ko’rsating?
+OSI modelining birinchi sathi qanday nomlanadi?
 ====
-#«kelib chiqadi», «ta’sir etadi» munosabatlari;
+#Fizik sath
 ====
-“sabab-oqibat”,  “butun-qism” munosabatlari;
+Seanslar sathi
 ====
-“ISA”, “fakt-xulosat” munosabatlari;
+Transport sathi
 ====
-“va”, “yoki” munosabatlari.
+Taqdimlash sathi
 ++++
 
-Semantik tarmoqlarda fazoli munosabatlarni  ko’rsating?
+OSI modelining ikkinchi sathi qanday nomlanadi?
 ====
-#«dan uzoq», «ga yaqin», «ustida», «tagida» munosabatlari;
+#Kanal sathi
 ====
-“sabab-oqibat”,  “butun-qism”, «tagida», «yuqorida» munosabatlari;
+Аmaliy sathi
 ====
-“ISA”, “fakt-xulosat”, «ga yaqin», «ustida»  munosabatlari;
+Fizik sath
 ====
-“va”, “yoki”, «dan uzoq», «ga yaqin» munosabatlari.
+Seanslar sathi
 ++++
 
-Semantik tarmoqlarda vaqtli munosabatlarni  ko’rsating?
+OSI modelining uchinchi sathi qanday nomlanadi?
 ====
-#«oldin», «keyin», «bilan birvaqtda» munosabatlari;
+#Tarmoq sathi
 ====
-“sabab-oqibat”,  «oldin»,  «tagida», «yuqorida» munosabatlari;
+Аmaliy sath
 ====
-«oldin», «keyin», «ga yaqin», «ustida»  munosabatlari;
+Kanal sathi
 ====
-«bilan birvaqtda», «dan uzoq», «ga yaqin» munosabatlari.
+Taqdimlash sathi
 ++++
 
-Semantik tarmoqlarda atributli munosabatlarni  ko’rsating?
+OSI modelining oltinchi sathi qanday nomlanadi?
 ====
-#«xususiyatga ega», «qiymatga ega» munosabat#lari;
+#Taqdimlash sathi
 ====
-«xususiyatga ega», «oldin» munosabatlari;
+Аmaliy sath
 ====
-«qiymatga ega», «ga yaqin»  munosabatlari;
+Seanslar sathi
 ====
-«bilan birvaqtda», «dan uzoq» munosabatlari.
+Kanal sathi
 ++++
 
-GPS tizimi kimlar tomonidan yaratilgan?
+ OSI modelining ettinchi sathi qanday nomlanadi?
 ====
-#Nyuell va Saymon;
+#Аmaliy sath
 ====
-Nyuell va Kallok;
+Seanslar sathi
 ====
-Saymon va Post;
+Transport sathi
 ====
-Post va Rozenblat.
+Taqdimlash sathi
 ++++
 
-Amaliy nuqtai nazaridan mahsulotni qoida-mahsulot ko’rinishda qanday juftliklar yordamida ifodalash mumkin?
+OSI modelining qaysi sathlari tarmoqqa bog’liq sathlar hisoblanadi?
 ====
-#vaziyat→harakat; asoslar→xulosa; sabab→oqibat;
+#fizik, kanal va tarmoq sathlari
 ====
-element→harakat; qism→butun; sabab→oqibat;
+seans va amaliy sathlar
 ====
-qism→butun; xulosa→sabab; sabab→oqibat;
+amaliy va taqdimlash sathlari
 ====
-element→sinf; argument→funksiya; sabab→oqibat;
+transport va seans sathlari
 ++++
 
-Agar xodimda diplom va tajriba (T) бўлса, u holda u ishga kiradi (IK) va  bir maromda ishlaydi (ISH). Ushbu mulohaza uchun tuzilgan to’g’ri  mahsyliy qoidani korsating?
+OSI modelining tarmoq sathi vazifalari keltirilgan qurilmalarning qaysi birida bajariladi?
 ====
-#D˄T→IK˄ ISH;
+#Marshrutizator
 ====
-D˄T→IK˅ ISH;
+Ko’prik
 ====
-D˅T→IK˄ ISH;;
+Tarmoq adapter
 ====
-IK↔ ISH →В↔ Н.
+Kontsentrator
 ++++
 
-Determinallashgan yadrolarda yadro faollashganda va A bajarilganda yadroning ………………………………...
+OSI modelining kanal sathi orqali uzatiladigan ma’lumotlarning birligi qanday nomlanadi?
 ====
-#o`ng qismi albatta bajariladi;
+Kadr
 ====
-o`ng qismi qisman bajariladi;
+Paket
 ====
-chap va ong qismi yolg’on bo’ladi;
+#Kadr
 ====
-chap qismi chin va ong qismi yolg’on bo’ladi.
+Oqim
 ++++
 
-Determinallashmagan yadrolarda A bajarilganda yadroning  ………………………………...
+Elektr signallarini qabul qilish va uzatish vazifalarini OSI modelining qaysi sathi bajaradi?
 ====
-#o`ng qismi bajarilishi yoki bajarilmasligi ham mumkin;
+#Fizik sath
 ====
-o`ng qismi albatta bajariladi;
+Kanal sathi
 ====
-o`ng qismi albatta bajarilmaydi;
+Tarmoq sathi
 ====
-chap qismi chin va ong qismi yolg’on bo’ladi.
+Transport sathi
 ++++
 
-Dinamik mahsuliy tizimlar qanday modullardan iborat bo’ladi?
+Ma’lumotlarni uzatishning optimal marshrutlarini aniqlash vazifalarini OSI modelining qaysi sathi bajaradi?
 ====
-global ma’lumotlar bazasi; qoidalar-mahsulotlar to’plami; boshqarish tizimi yoki interpretator;
+#Tarmoq sathi
 ====
-lokal ma’lumotlar bazasi; asoslar-xulosalar to’plami; boshqarish tizimi yoki interpretator;
+Kanal sathi
 ====
-global ma’lumotlar bazasi; elimemt -sinflar to’plami; bilimlar bazasi;
+Аmaliy sath
 ====
-local bilimlar bazasi; qism -butunlar to’plami; bilimlarni hosil qilish bazasi;
+Transport sathi
 ++++
 
-To’g’ri xulosalashda izlash mahsulotning ……… tomonidan boshlanadi, ya’ni …………bajarilishidan bo’g’liq bo’lgan ………….. faollashadi;
+Mijozlar dasturlari bilan o’zaro muloqot vazifalarini OSI modelining qaysi sathi bajaradi?
 ====
-#chap; A ning; B mahsulotlar;
+#Аmaliy sath
 ====
-o’ng; A ning; B mahsulotlar;
+Kanal sathi
 ====
-chap; B ning; A mahsulotlar;
+Tarmoq sathi
 ====
-ong; B ning; A mahsulotlar.
+Fizik sath
 ++++
 
-Teskari xulosalashda izlash mahsulotning  ……… tomonidan boshlanadi, ya’ni ……………bajarilishi uchun zarur bo’lgan ……………qiymatlari izlanadi;
+Keltirilgan protokollarning qaysilari tarmoq sathi protokollariga mansub?
 ====
-#o’ng; B shartning; A ning;
+#IP, IPX
 ====
-o’ng; A ning; B shartning;
+NFS, FTP
 ====
-chap; B shartning; A ning;
+Ethernet, FDDI
 ====
-chap; A ning; B shartning.
+TCP,UDP
 ++++
 
-Freym termini ………………tomonidan taklif qilingan bo’lib, ……………. kabi mazmunlarni bildiradi.
+Keltirilgan protokollarning qaysilari transport sathi protokollariga mansub?
 ====
-#1975-yilda M.Minskiy; paycha, panjara, ichki skelet;
+#TCP,UDP
 ====
-1971-yilda M.Minskiy; tarmoq, qatlam, boshqarish;
+NFS, FTP
 ====
-1975-yilda Nyuell; paycha, panjara, ichki skelet;
+IP, IPX
 ====
-1974-yilda M.Minskiy; tarmoq, qatlam, boshqarish.
+Ethernet, FDDI
 ++++
 
-Qandaydir obyekt, hodisa, vaziyat va jarayonning mohiyatini minimal tavsiflovchi mavhum timsolning modeli-bu………………..
+Keltirilgan protokollarning qaysilari amaliy sathi protokollariga mansub?
 ====
-#freym;
+#NFS, FTP
 ====
-slot;
+TCP,UDP
 ====
-exspert tizim;
+10Base-T, 100Base-TX
 ====
-tarmoq.
+IP, IPX
 ++++
 
-“Slot”  termini ……………. kabi tushunchalarni anglatadi.
+Keltirilgan vazifalardan qaysi biri umumiy kommutatsiyalash vazifasiga tegishli emas?
 ====
-#teshik, kovak, tirqish, yoriq;
+#axborotni indekslash
 ====
-qiymat, nom, kovak, tirqish;
+oqimlarni xarakatlantirish
 ====
-nom, aylana, munosabat, aloqa;
+multipleksirlash va demultipleksirlash
 ====
-namuna, xulosa, mantiq, tatmoq.
+marshrutizatsiyalash
 ++++
 
-Slotlar(maydon)dan iborat ma’lumotlar strukturasi –bu…………..
+OSI modelining fizik sathi qanday funktsiyalarni bajaradi?
 ====
-#freym;
+#Elektr signallarini uzatish va qabul qilish
 ====
-qiymat;
+Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
 ====
-nom;
+Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
 ====
-namuna.
+Klient dasturlari bilan o’zaro muloqotda bo’lish
 ++++
 
-Insonnig predmet soha haqidagi fikrlash jarayonini tasvirlovchi va haqiqiy olam obyektlarining ierarxiyasini yaxshi tizimlashtirishga imkoniyat yaratuvchi model -bu ……………
+OSI modelining kanal sathi qaysi funktsiyalarni bajaradi?
 ====
-#freymli model;
+#Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
 ====
-matematik model;
+Klient dasturlari bilan o’zaro muloqotda bo’lish
 ====
-statistik model;
+Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
 ====
-analitik model.
+Ma’lumotlarni kodlash va shifrlash
 ++++
 
-Freymning tuzilmasi to’g’ri keltirilgan javobni ko’rsating?
+OSI modelining tarmoq sathi qanday funktsiyalarni bajaradi?
 ====
-#Slot nomi [stot qiymati];
+#Ma’lumotlarni uzatish marshrutlarini optimalini aniqlash
 ====
-Ma’lumot turi, ma’lumot hajmi va formati;
+Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
 ====
-Barcha javoblar to’g’ri;
+Ma’lumotlarni qabul qilish va uzatish jarayonida, ma’lumotlarni to’liq va to’g’ri uzatilishini nazorat qilish
 ====
-Fryemda tuzilma mavjud bo’lmaydi;
+Эlektr signallariniuzatish va qabul qilish
 ++++
 
-Freymning  konstruksiyda harflarning ma’nosi to’g’ri ko’rsatilgan javobni aniqlang.
+OSI modelining transport sathi qanday funktsiyalarni bajaradi?
 ====
-#-freym nomi,  -slot nomi,  -slotning qiymati;
+#Ma’lumotlarni qabul qilish va uzatish jarayonida, ma’lumotlarni to’liq va to’g’ri uzatilishini nazorat qilish
 ====
--slotning qiymati,  -slot nomi,  - freym nomi;
+Klient dasturlari bilan o’zaro muloqotda bo’lish
 ====
-- freym nomi,  -slot nomi, -slotning qiymati;
+Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
 ====
-- slot nomi,  - freym nomi, -slotning qiymati.
+Ma’lumotlarni uzatish marshrutlarini optimalini aniqlash
 ++++
 
-Slot  nomida maxsus  ma’noga ega  bo’lgan, ya’ni bilimlar bazasini tahrirlash va chiqarishni boshqarishda ishlatiladigan maxsus nomlar qaysi javobda to’g’ri keltirilgan?
+OSI modeliningseanslar sathi qanday funktsiyalarni bajaradi?
 ====
-#IS-A, HASPART, RELATIONS, FIND BY, COMMENT;
+#Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
 ====
-FRAME, INTEGER, REAL, IS-A, HASPART, RELATIONS;
+Klient dasturlari bilan o’zaro muloqotda bo’lish
 ====
-FRAME, INTEGER, REAL, BOOL, Linked, TEXT;
+Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
 ====
-LIST, TABLE, EXRRESSION,  FIND BY, COMMENT.
+Эlektr signallariniuzatish va qabul qilish
 ++++
 
-Attributlar (ma’lumotlar tipi) ko'rsatkichi qaysi javobda to’g’ri keltirilgan?
+OSI modelining taqdimlash sathi qanday funktsiyalarni bajaradi?
 ====
-#FRAME, INTEGER, REAL, BOOL, Linked, TEXT, LIST, TABLE;
+#Ma’lumotlarni kodlash va shifrlash
 ====
-FRAME, SAME, REAL, HASPART, EXRRESSION, COMMENT;
+Klient dasturlari bilan o’zaro muloqotda bo’lish
 ====
-UNIQUE, INTEGER, REAL, BOOL, EXRRESSION, COMMENT ;
+Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
 ====
-RANGE, TABLE, EXRRESSION, COMMENT, REAL, BOOL.
+Эlektr signallariniuzatish va qabul qilish
 ++++
 
-Freymlarni tashqi tasvirlashda slotga tushuntirishlarda qanday kengaytmali fayllardan foydalaniladi?
+Аloqa kanaliga va uzatish muhitiga ulanishni boshqarish vazifalarini OSI modelining qaysi sathi bajaradi?
 ====
-#(*.txt) yoki (*.bmp);
+#Kanal sathi
 ====
-(*.pdf) yoki (*.bmp);
+Fizik sath
 ====
-(*.exyoki (*.bmp);
+Tarmoq sathi
 ====
-(*.txt) yoki (*.ex====.)
+Transport sathi
 ++++
 
-To'ldirilmagan freym ………….. va to'ldirilgan freym esa ………….. deb ataladi?
+Ma’lumotlarni uzatish jarayonida ularni to’liq va to’g’ri uzatilishini nazorat qilish vazifalarini OSI modelining qaysi sathi bajaradi?
 ====
-#protofreym; ekzofreym;
+#Transport sathi
 ====
-ekzofreym; protofreym;
+Kanal sathi
 ====
-bo’sh; to’liq;
+Tarmoq sathi
 ====
-demon; slot.
+Seanslar sathi
 ++++
 
-Slotlarining  qiymatlari aniqlangan freym –bu ………………hisoblanadi
+Аloqa seansini hosil qilish, kuzatib turish va ohirigacha ta’minlab berish vazifalarini OSI modelining qaysi sathi bajaradi?
 ====
-#freym ekzemplyari;
+#Seanslar sathi
 ====
-protofreym ekzemplyari;
+Kanal sathi
 ====
-ekzofreym ekzemplyari;
+Tarmoq sathi
 ====
-demon.
+Transport sathi
 ++++
 
-Freym-ekzemplyarda slotlarning qiymatlarni olishining uslublari to’g’ri ko’rsatilgan javobni ko’rsating.
+Talab qilinadigan algoritmlar yordamida ma’lumotlarni kodlash va shifrlash vazifalarini OSI modelining qaysi sathi bajaradi?
 ====
-#slotda ko'rsatilgan formuladan, ma'lumotlar bazasidan va  Default-qiymatdan foydalanib, birlashtirilgan protsedura yordamida;
+#Taqdimlash sathi
 ====
-matematik munosabatlar, matnlar, tarmoqlar, yoylar, tugunlar, protofreym ekzemplyarlardsi;
+Seanslar sathi
 ====
-raqamlar, munosabatlar, matematik munosabatlar, matnlar, dasturlar, xulosalash qoidalari;
+Tarmoq sathi
 ====
-mavjud freym, boshqa freymlarning  boshqa slotlariga havolalar, "ichkima-ichki joylashish".
+Transport sathi
 ++++
 
-Freymlarning turlari to’g’ri ko’rsatilgan javobni ko’rsating.
+OSI modeliningamaliy sathi qanday funktsiyalarni bajaradi?
 ====
-#freym-sinf, freymlar-rollar, freymlar-strukturalar, freymlar-senariylar, freymlar-vaziyatlar, freym-экземпляр, freymм-namuna;
+#Klient dasturlari bilan o’zaro muloqotda bo’lish
 ====
-freym-munosabatlar, freym-matnlar, freym-tarmoqlar, freym-sinf, freymlar-rollar, freym-экземпляр;
+Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
 ====
-freym-экземпляр, freym-raqamlar, freym-munosabatlar, freym-matnlar, freym-dasturlar, freym-qoidalar;
+Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
 ====
-freymlar-vaziyatlar, freym-экземпляр, freymм-namuna, freym-munosabatlar, freym-matnlar, freym-dasturlar.
+Эlektr signallariniuzatish va qabul qilish
 ++++
 
-…………………….–bu obyektlar va tushunchalarni (kiritma (zayem), garov, veksel) belgilash uchun foydalanish.
+Keltirilgan protokollarning qaysilari kanal sathi protokollariga mansub?
 ====
-#Freymlar-strukturalar;
+#Ethernet, FDDI
 ====
-Freymlar-munosabatlar;
+NFS, FTP
 ====
-freymlar- raqamlar;
+IP, IPX
 ====
-freymlar-dasturlar.
+TCP,UDP
 ++++
 
-……………………-bu inqiroz, yig`ilish, aktsionerlar, bayramlarni o’qkazish  kabilar uchun foydalanish.
+Keltirilgan protokollarning qaysilari fizik sath protokollariga mansub?
 ====
-#Freymlar-senariylar;
+#10Base-T, 100Base-TX
 ====
-Freymlar-strukturalar;
+TCP,UDP
 ====
-freymlar- raqamlar;
+IP, IPX
 ====
-freymlar-dasturlar.
+NFS, FTP
 ++++
 
-……………………-bu menedjer, kassir, mijoz  kabilar uchun foydalanish.
+Keltirilgan protokollarning qaysilari taqdimlash sathi protokollariga mansub?
 ====
-#Freymlar-rollar;
+#SNMP, Telnet
 ====
-Freymlar-strukturalar;
+IP, IPX
 ====
-Freymlar-senariylar;
+Ethernet, FDDI
 ====
-freymlar-dasturlar.
+TCP,UDP
 ++++
 
-……………………–bu predmet sohaning joriy holatini tavsivlovchi aniq freymdan foydalanish.
+Keltirilgan protokollarning qaysilari saenslar sathi protokollariga mansub?
 ====
-#Freym-экземпляр;
+#RPC, WSP
 ====
-Freymlar-strukturalar;
+NFS, FTP
 ====
-Freymlar-senariylar;
+IP, IPX
 ====
-Freymlar-rollar.
+TCP,UDP
 ++++
 
-……………………–bu predmet sohaning etarli holatlarini yoki obyektlarni tavsiflash uchun shablondan foydalanish.
+Kompyuter bilan tashqi qurilma o’rtasida ma’lumotlarni uzatish paytida ularni to’gri uzatilganligi qanday tekshiriladi?
 ====
-#Freymм-namuna;
+#paritet biti asosida
 ====
-Freymlar-strukturalar;
+stop biti asosida
 ====
-Freymlar-senariylar;
+kontrol summani sanash bilan
 ====
-Freym-экземпляр.
+paketni uzunligini sanash bilan
 ++++
 
-……………………–bu namunalar freymlarining majmuasini tasvirlash uchun yuqori darajadigi freymlardan foydalanish.
+Kompyuterdan tashqi qurilmaga ma’lumotlarni asinxron rejimda uzatayotganda bitta simvolga to’g’ri keladigan paketning uzunligi qanday bo’ladi?
 ====
-#Freym-sinf;
+#11 bit
 ====
-Freymм-namuna;
+12 bit
 ====
-Freymlar-strukturalar;
+16 bit
 ====
-Freym-экземпляр.
+18 bit
 ++++
 
-Freymli modellarda freymlar o’rtasida ………………..kabi   munosabatlardan foydalaniladi.
+Keltirilgan qurilmalarning qaysi biri DCE bo’ladi?
 ====
-#fazoli, «dan iborat», «qism-butun»,  vaqtli, atributli, «sabab-oqibat», AKO-aloqalar, IS-A-aloqalar;
+#modem
 ====
-fazoli, «dan uzoqroq», «qism-butun», «dan yaqinroq», vaqtli, atributli;
+marshrutizator
 ====
-chin, «ancha-muncha», «asta-sekin», «sabab-oqibat», AKO-aloqalar;
+kompyuter
 ====
-fazoli, «pastda», «yoqida», «oldin», «keyin», yolg’onroq, chinroq.
+klaviatura
 ++++
 
-Noravshan to’plamlar nazariyasi  bo’yicha ilmiy ishlarning boshlanishi  ……… tomonidan  ………. yilda  chop etilgan ilmiy maqolasi bilan bog’liq.
+Keltirilgan qurilmalarning qaysi biri DTE bo’ladi?
 ====
-#L. Zade ; 1965;
+kompyuter va marshrutizator
 ====
-Xomblad; 1975;
+modem
 ====
-Ostergal; 1982;
+#kompyuter va marshrutizator
 ====
-Kosko; 1970.
+aloqa chiziqlari
 ++++
 
-Fuzzy tushunchasi ……………………………kabi ma’nolarni bildiradi.
+Keltirilgan tafsiflarning qaysilari, ham aloqa chiziqlariga, ham ma’lumotlarni uzatish usullariga tegishli tavsiflar hisoblanadi?
 ====
-#noravshan, noqat’iy, notiniq;
+#o’tkazish qobiliyati va ishonchliligi
 ====
-noravshan, noaniq, tiniq;
+amplituda-chastotali tavsif
 ====
-ravshan, noto’liq, notiniq;
+o’tkazuvchanlik chegaralari
 ====
-to’liqmas, qat’iy, notiniq.
+xatoliklar sodir bo’lish extimolligining kamaishi
 ++++
 
-Noaniqlikning turlarini to’g’ri  ko’rsating ?
+UTP kabeli deganda qaysi kabel tushuniladi?
 ====
-#noma’lumlik, noishonchlilik, nobirqiymatlilik;
+#o’ralma juftlik kabeli
 ====
-noma’lumlik, nochiziqlilik, birqiymatlilik;
+yo’g’on koaksial kabel
 ====
-noma’lumlik, notavakkallik, mantiqlilik;
+ingichka koaksial kabel
 ====
-nodaxtlilik, notarmoqlilik, nobirqiymatlilik.
+optik tolali kabel
 ++++
 
-Fizik noaniqlikning turlarini to’g’ri  ko’rsating ?
+Modem qanday asosiy vazifani bajaradi?
 ====
-#tavakkallik, noaniqlik;
+#Signallarni modulyatsiyalash - demodulyatsiyalash
 ====
-noma’lumlik,  nochiziqlilik;
+parallel kodni ketma-ket kodga o’zgartirish
 ====
-noma’lumlik, notavakkallik;
+skrэmbrlash va deskrэmbrlash
 ====
-notarmoqlilik,  nobirqiymatlilik.
+analog signallarni raqamli kodga o’zgartirish
 ++++
 
-So’zlar qiymatlarining va frazalar ma’nosining noaniqligi-bu…………….
+Keltirilgan standartlarning qaysi biri axborotni 57600 bit/s tezlikda qabul qiladi va uzata oladi?
 ====
-#lingvistik noaniqlik;
+#V.92
 ====
-mantiqiy noaniqlik;
+V.90
 ====
-grafikli noaniqlik;
+V.30
 ====
-statistik  noaniqlik.
+V.40
 ++++
 
-Bilimlarning to’liq nabori uchun hosil qilingan xulosalashning haqiqiyligi yangi dalillarning qo’shilishi bilan o’zgarmasa -bu……..………….
+Аnalog signallarni diskret modulyatsiyalash nimaga asoslanadi?
 ====
-#monotonlik;
+#Naykvist-Kotelnikovlarning akslanish nazariyasiga
 ====
-noaniqlik;
+Boltsman nazariyasiga
 ====
-to’liqlilik;
+Shennon nazariyasiga
 ====
-qarama-qarshilik.
+Flin nazariyasiga
 ++++
 
-Ma’lum xossalar bilan berilgan formulalar to’plami uchun boshlang’ich aksiomalar tizimi va xulosalash qoidalari ushbu to’plamga kiritilgan barcha formulalar uchun xulosalashni ta’minlasa -bu…..…..………….
+Kodlarning qaysi biri kuchlanishning to’rtta sathidan foydalanadi?
 ====
-#to’liqlilik;
+#2V1Q
 ====
-monotonlik;
+AMI
 ====
-noaniqlik;
+NRZ
 ====
-qarama-qarshilik.
+NRZI
 ++++
 
-Noravshan bilimlar  orasida ………………… mavjud  bo’lmaydi.
+Kompyuterdan modemga ma’lumotlarni uzatish uchun interfeysning qaysi ulanish nuqtasidan foydalaniladi?
 ====
-#qat’iy chegara;
+#TXD
 ====
-noto’g’rilik;
+RXD
 ====
-noaniqlik;
+RTS
 ====
-nobirqiymatlilik.
+CTS
 ++++
 
-Matematika va haqiqiy olamda uchraydigan noaniqliklarning yaqinlashishi, insoniyatning fikrlash va anglash jarayonlarini yaxshi tushunish niyati amalga oshishi-bu …………………….nazariyasi.
+Modemdan kompyuterga ma’lumotlarni qabul qilish uchun interfeysning qaysi ulanish nuqtasidan foydalaniladi?
 ====
-#noravshan to’plamlar;
+#RXD
 ====
-mulohazalar algebrasi;
+TXD
 ====
-predikatlar mantiqi;
+RTS
 ====
-algebra.
+CTS
 ++++
 
-Noravshan yechish usullari qanday o’zgaruvchilardan foydalanishga asoslanadi?
+DCE qaysi signal orqali aloqa o’rnatilganligi haqidagi xabarni beradi?
 ====
-#noravshan va lingvistik;
+DSR
 ====
-faqat sonli;
+CTS
 ====
-faqat mantiqiy;
+#DCD
 ====
-faqat predikatli.
+DTR
 ++++
 
-Mansublik funksiyasi - bu ………. bilan ifodalaniladigan tushunchaga …………….mos bo`lishi darajasining sub’ektiv o`lchovi.
+Kompyuter bilan tashqi qurilma o’rtasidagi interfeys ishi qanday amalga oshirilgan?
 ====
-#noravshan to’plam;   elementi;
+#kontroller va drayver yordamida
 ====
-noravshan to’plam;   to’plam;
+drayver yordamida
 ====
-ravshan to’plam;   elementi;
+kontroller yordamida
 ====
-ravshan to’plam;   elementi;
+markaziy protsessor yordamida
 ++++
 
-Lingvistik o’zgaruvchining strukturasini tavsivlash uchun quyidagi qanday qoidalardan foydalaniladi?
+Keltirilgan modulyatsiyalarning qaysi biri analog modulyatsiyaga mansub?
 ====
-#Sintaktikli va semantikli qoidalardan;
+#chastotali
 ====
-Grafikli va semantikli qoidalardan;
+amplituda-impulsli
 ====
-Chiziqli va sintaktikli qoidalardan;
+kodli-impulsli
 ====
-Statistik li va ehtimolli qoidalardan.
+vaqt-impulsli
 ++++
 
-«Timsol» soʻzi ... soʻzdan olingan va ... kabi tushunchalarni bidiradi.
+Keltirilgan modulyatsiyalarning qaysi biri diskret modulyatsiyaga mansub?
 ====
-#inglizcha “Pattern recognition”;  “timsol”, “model”, “bogʻliqlik”, “uslub”;
+#amplituda-impulsli
 ====
-nemischa “Pattern recognition”; “timsol”, “funksiy”, “bolakli”, “uslub” ;
+chastotali
 ====
-fransuzcha “Pattern recognitio”; “timsol”, “qoida”, “uzlukli”, “algoritm” ;
+amplitudali
 ====
-grekcha“Pattern recognit”; “timsol”, “formula”, “uzluksiz”, “qoida”.
+fazali
 ++++
 
-Timsollarni anglashning asosiy vazifasi – bu obyektlarning bir-biriga ... oʻrganishda ishlatiladigan, ya’ni ularning ... aniqlaydigan qaror qabul qiluvchi qoidalarni topishdan iborat.
+Internet tarmog’ida kommutatsiyalashning qaysi xili ishlatiladi?
 ====
-#mosligini; oʻxshashligini;
+#paketlarni kommutatsiyalash
 ====
-mos emasligini; moslik qoidalarini;
+kanallarni kommutatsiyalash
 ====
-toʻliqligini; kattaligini;
+xabarlarni kommutatsiyalash
 ====
-qarashliligini; kichikligini.
+alohida ajratilgan kanallarni kommutatsiyalash
 ++++
 
-Obyektlarni anglash uchun ... foydalaniladi.
+IP-manzili qanday maydonlardan iborat?
 ====
-#muhim belgilardan;
+#Tarmoq manzilining maydoni, bog’lash manzilining maydoni
 ====
-barcha belgilardan;
+Operator manzilining maydoni, bog’lash manzilining maydoni
 ====
-bir xil belgilardan;
+Tarmoq manzilining maydoni, MАC manzilining maydoni
 ====
-yopiluvchi belgilardan.
+Tarmoq manzilining maydoni, tarmoqosti tarmoq manzilining maydoni
 ++++
 
-Sinf – bu ... xususiyatga ega boʻlgan ... toʻplamidir.
+Kompyuter tarmog’ining aktiv qurilmalari tarkibiga qaysi qurilmalar kiradi?
 ====
-#umumiy; obyektlar;
+#Tarmoq adapteri,kontsentrator
 ====
-diametr; toʻrtburchaklar;
+Kross-panel, montaj shkafi
 ====
-harorat; raqamlar;
+Tarmoq kabeli,RJ-45 rozetkasi
 ====
-ogʻrlik; harflar.
+Marshrutizator, kross-panel
 ++++
 
-Obyektlar haqida empirik ma’lumotlar ........... yordamida aniqlanadi.
+Kompyuter tarmog’ining passiv qurilmalari tarkibiga qaysi qurilmalar kiradi?
 ====
-#tajriba;
+#Tarmoq kabeli, RJ-45 rozetkasi
 ====
-ekspert;
+Kommutator, montaj shkafi
 ====
-foydalanuvchi;
+Tarmoq adapteri,kontsentrator
 ====
-kompyuter.
+Kontsentrator, kross-panel
 ++++
 
-Obyektlar haqidagi ma’lumotlarni oʻrganish ...........topishga asoslanadi.
+Ovozni sifatli uzatish uchun tovushli tebranishlar amplitudasini kvantlashda qanday chastota ishlatiladi?
 ====
-#obyektlarni belgilariga asosan oʻrganish, ya’ni obyektlar uchun xos boʻlgan asosiy belgilarni;
+#8000 Gts
 ====
-obyektlar uchun xos boʻlmagan asosiy belgilarni;
+300 Gts
 ====
-obyektlar uchun chegaraviysharti boʻlgan asosiy belgilarni;
+6400 Gts
 ====
-obyektlar uchun boshlangʻichsharti boʻlmagan asosiy belgilarni.
+3400 Gts
 ++++
 
-Oʻqituvchi yordamida oʻrganishda ................ soni va obyektlarning qaysi sinfga qarashliligi oldindan berilgan boʻladi.
+Raqamli telefon tarmoqlarida 64 Kbit/s o’tkazuvchanlik qobiliyati nimaga asosan tanlab oligan?
 ====
-#sinflar, obyektlar, belgilar;
+#Kotelnikov-Naykvist teoremasi asosida
 ====
-belgilar, qoidalar, sinflar;
+Fure qatori asosida
 ====
-obyektlar, etalonlar, qoidalar;
+Bayes qonuni asosida
 ====
-sinflar, qoidalar, masofalar.
+Bartlet mezoni asosida
 ++++
 
-Oʻqituvchisiz oʻrganishda ……....... soni oldindan berilgan va obyektlarning qaysi sinfga qarashliligi oldindan berilmagan boʻladi.
+ MАC-adres qanday uzunlikka ega?
 ====
-#obyektlar, belgilar;
+#48 bit
 ====
-belgilar, qoidalar;
+32 bit
 ====
-obyektlar, qoidalar;
+16 bit
 ====
-qoidalar, masofalar.
+64 bit
 ++++
 
-Qaror qabul qiluvchi qoidani qurish .............. aniqlashga asoslanadi.
+IPv4 turidagi IP-adres qanday uzunlikka ega?
 ====
-#oʻqituvchi yoki oʻqituvchisiz oʻrganish jarayonida obyektlarga xos boʻlgan asosiy belgilar tizimini;
+#32 bit
 ====
-oʻqituvchi yordamida oʻrganish jarayonida idrok etishni;
+16 bit
 ====
-oʻqituvchisiz oʻrganish jarayonida etalon tanlovni;
+48 bit
 ====
-oʻzini-oʻzi oʻrganish jarayonida etalon tanlovni.
+64 bit
 ++++
 
-Obyektlarni anglash etalon tanlovdagi .............. aniqlashga asoslanadi.
+192.190.21.254 adresi IP-adreslarning qaysi sinfiga tegishli?
 ====
-#obyektlarni oʻrganish jarayonida hosil qilingan qaror qabul qiluvchi qoida yordamida yangi obyektlarning qaysi sinflarga qarashli ekanligini;
+#C
 ====
-toʻliq boʻlmagan muhim belgilarini;
+B
 ====
-toʻliq boʻlgan etalon tanlovdagi oʻxshash sinflarni;
+А
 ====
-toʻliq boʻlgan obyektlarini.
+D
 ++++
 
-Obyektlarni anglashni oʻrgatish nazariyasi usullarining keng qoʻllanilishi qanday xususiyatlarga asoslanadi?
+ B sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
 ====
-#oʻrganiluvchi obyektlarning murakkabligi, ya’ni ularning koʻplab sohalarga egaligi, obyektlar haqida toʻliq ma’lumotlarning yetishmasligi;
+#65536
 ====
-oʻrganiluvchi obyektlarning oddiyligi, ya’ni ularning koʻplab sohalarga ega emasligi, obyektlar haqida toʻliq ma’lumotlarning yetishmasligi;
+256
 ====
-oʻrganiluvchi obyektlarning murakkabligi, ya’ni ularning koʻplab sohalarga egaligi, obyektlar haqida toʻliq ma’lumotlarning mavjudligi;
+512
 ====
-oʻrganiluvchi obyektlarning oddiyligi, ya’ni ularning koʻplab sohalarga egaligi, obyektlar haqida toʻliq ma’lumotlarning mavjudligi.
+1024
 ++++
 
-Obyektlarni anglashni oʻrgatishning asosiy muammosi - bu qaror qabul qiluvchi qoidani ... aniqlashdan iborat.
+А sinfidagi tarmoq tarkibida nechta bog’lam bo’lishi mumkin?
 ====
-#qurish va bu qoida yordamida obyektlarni talab etilgan ishonchlilik bilan oldindan ma’lum boʻlgan sinflarga qarashliligini;
+#16777216
 ====
-qurish va bu qoida yordamida sinflarni talab etilgan ishonchlilik bilan oldindan ma’lum boʻlgan obyektlarga qarashliligini;
+256
 ====
-qurmasdan, obyektlarni talab etilgan ishonchlilik bilan oldindan ma’lum boʻlgan sinflarga qarashliligini;
+65536
 ====
-qurish va bu qoida yordamida sinflarni talab etilgan ishonchlilik bilan oldindan ma’lum boʻlgan sinflarga qarashliligini.
+1024
 ++++
 
-Timsollarni anglovchi tizimlarni yaratishda eng asosiy masalalardan biri – bu .................... xossalarini aniqlashdan iborat.
+B sinfidagi tarmoq maskasi qanday qiymatga ega?
 ====
-#obyektlarning;
+#255.255.0.0
 ====
-etalonlarning;
+255.0.0.0
 ====
-qaror qabul qiluvchi qoidalarning;
+255.255.255.0
 ====
-toʻplamlarning.
+255.255.254.0
 ++++
 
-Determinalli belgilar ….………….. qiymatlarga ega boʻladi.
+DTE qaysi signal yordamida o’zini ishlayotganligini va DCE aloqa kanaliga ulanishi mumkinligi haqidagi xabarni beradi?
 ====
-#aniq va sonli;
+DCD
 ====
-chin;
+DSR
 ====
-ehtimolli;
+CTS
 ====
-simvolli.
+#DTR
 ++++
 
-Etimolli belgilar …............... qiymatlarga ega boʻladi.
+Kabel standartlarining qaysi biri EIA/TIA-568A abbreviaturasiga ega?
 ====
-#tavakkali;
+#Аmerika standarti
 ====
-yolgʻon;
+xalqaro standart
 ====
-chin;
+evropa standarti
 ====
-aniq.
+IBM kompaniyasi standarti
 ++++
 
-Mantiqiy belgilar …............. qiymatlarga ega boʻladi.
+RS-232C/V.24 interfeysida ulagichning qaysi modifikatsiyasi ishlatilgan?
 ====
-#chin yoki yolgʻon;
+#9 va 25 ta ulanish nuqtalariga ega bo’lgani
 ====
-tavakkali;
+15 va 30 ta ulanish nuqtalariga ega bo’lgani
 ====
-simvolli;
+10 va 25 ta ulanish nuqtalariga ega bo’lgani
 ====
-uzluksiz.
+12 va 24 ta ulanish nuqtalariga ega bo’lgani
 ++++
 
-Strukturali belgilar …............. koʻrinishidagi obyektlarda uchraydi.
+DTE va aloqa kanali o’rtasida uzatilayotgan signallarni o’zaro moslab uzatish qanday amalga oshiriladi?
 ====
-#simvol va tasvir;
+#modulyatsiyalash va kodlash bilan
 ====
-faqat simvol va raqam;
+modulyatsiyalash bilan
 ====
-faqat tasvir va harf;
+kodlash bilan
 ====
-faqat harf va raqam.
+shifrlash va deshifrlash Bilan
 ++++
 
-Sinflashtirish – bu ... asosida sinflarga boʻlish.
+Kompyuter tarmoqlarida ma’lumotlarni uzatishda, kodlash deganda nima tushuniladi?
 ====
-#obyektlarni belgilar;
+ma’lumotlarni aloqa kanallaridagi ta’sirlar natijasida paydo bo’ladigan xatoliklarni aniqlash va to’g’irlash mumkin bo’ladigan ko’rinishga o’zgartirish
 ====
-obyektlarni etalon tanlov;
+ma’lumotlarni aloqa kanallaridagi ta’sirlar natijasida paydo bo’ladigan xatoliklarni aniqlash va to’g’irlash mumkin bo’ladigan ko’rinishga o’zgartirish
 ====
-etalon tanlovni erkin tanlov;
+#simvollarning kompyuterdagi kodlarini, aloqa kanallari orqali uzatiladigan kodlarga o’zgartirish
 ====
-harflarni erkin tanlov.
+signalni aloqa kanali chastotasiga o’tkazish
 ++++
 
-Timsollarni anglovchi tizimlarni turlarga boʻlishning 1- tamoyilda ….............  ekanligi e’tiborga olinadi.
+Modulyatsiyalashning diskret xili nimaga asoslangan?
 ====
-#belgilarning fizik tabiati bir xilda yoki koʻp xilda;
+#signallarni ham amplitudasi, ham vaqt bo’yicha diskretlash
 ====
-obyektlarning fizik tabiati bir xilda yoki koʻp xilda;
+signallarni vaqt bo’yicha diskretlash
 ====
-sinflarning fizik tabiati bir xilda yoki koʻp xilda;
+signallarni amplitudasi bo’yicha diskretlash
 ====
-tizimning fizik tabiati bir xilda yoki koʻp xilda.
+signallarni vaqt bo’yicha kvantlash
 ++++
 
-Timsollarni anglovchi oddiy tizimlar obyektlardagi …............. fizik tabiati boʻyicha bir xildaligi bilan xarakterlanadi.
+Tarmoq orqali uzluksiz signalni raqamli ko’rinishda uzatilayotganda vaqt oralig’ining qanday qiymatini e’tibor bilan saqlab turish kerak?
 ====
-#belgilarning;
+#125 mks
 ====
-qoidalarning;
+200 mks
 ====
-uzilishlarning;
+100 mks
 ====
-toʻliqlikning.
+150 mks
 ++++
 
-Timsollarni anglovchi murakkab tizimlar obyektlardagi …............. fizik tabiati boʻyicha koʻpxildaligi bilan xarakterlanadi.
+C sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
 ====
-#belgilarning;
+#256
 ====
-qoidalarning;
+65536
 ====
-uzliksizlikning;
+512
 ====
-toʻliqlikning.
+1024
 ++++
 
-Timsollarni anglovchi bir pogʻonali tizimlarda ….. haqidagi ma’lumotlar oʻrganilayotgan obyektlardan toʻgʻridan-toʻgʻri oʻlchash natijasida olinadi.
+А sinfidagi tarmoq maskasi qanday qiymatga ega?
 ====
-#belgilar;
+#255.0.0.0
 ====
-qaror qabul qiluvchi qoidalar;
+255.255.0.0
 ====
-chiziqli qoidalar;
+255.255.255.0
 ====
-mantiqli qoidalar.
+255.0.0
 ++++
 
-Timsollarni anglovchi koʻp pogʻonali tizimlarda …............. haqidagi ma’lumotlar oʻrganilayotgan obyektlardan nisbiy oʻlchash natijasida olinadi.
+C sinfidagi tarmoq maskasi qanday qiymatga ega?
 ====
-#belgilar;
+#255.255.255.0
 ====
-sinflar;
+255.0.0.0
 ====
-tizimlar;
+255.255.0.0
 ====
-bilimlar.
+255.255.240.0
 ++++
 
-Oʻzini-oʻzi oʻqituvchi tizimlarda …............. roʻyxati berilgan boʻladi.
+512 ta bog’lamli tarmoqosti tarmoq maskasi qanday qiymatga ega?
 ====
-#obyektlar toʻplami va belgilar;
+#255.255.254.0
 ====
-sinflar toʻplami va obyektlar;
+255.255.0.0
 ====
-qoidalar toʻplami va sinflar;
+255.255.255.0
 ====
-obyektlar toʻplami va sinflar.
+255.255.240.0
 ++++
 
-Timsollarni anglovchi tizimlarni turlarga boʻlishning 4- tamoyilda …............. haqidagi ma’lumotlarning xarakterlarini oʻrganish e’tiborga olinadi.
+Internet tarmog’i, kompyuter tarmoqlarining qaysi sinfiga mansub?
 ====
-#obyektlarni anglashda belgilar;
+#global tarmoq
 ====
-belgilarni sinflashda obyektlar;
+lokal tarmoq
 ====
-qoidalarni boʻlaklashda obyektlar;
+shahar tarmog’i
 ====
-tizimlarni oʻrganishda qoidalar.
+korporativ tarmog’i
 ++++
 
-1, 2, 3, 4, 5, 6 belgilar toʻplamlamin   tadan guruhlaganda nechta tayanch toʻplam ostilari hosil boʻladi ?
+ Keltirilgan texnologiyalarning qaysi birlari global tarmoq texnologiyalariga mansub?
 ====
-20;
+#ATM, TCP/IP
 ====
-#28;
+X.25, FDDI
 ====
-36;
+Frame Relay, Token Ring
 ====
-15.
+Ethernet, Internet
 ++++
 
-«Maxmin» algoritmining maqsadi - …............. yadroviy obyektlarni topish va bu obyektlar yordamida sinflarni hosil qilish.
+MAN tarmoqlari nima uchun mo’ljallangan?
 ====
-erkin tanlovdan N ta;
+#Yirik shaxar axolisiga xizmat ko’rsatish uchun
 ====
-#etalon tanlovdan;
+Internetga korxonalar tarmoqlarini ulash uchun
 ====
-etalon tanlovdan 2 ta;
+Faqat bir nechta lokal tarmoqlarni bog’lash uchun
 ====
-erkin tanlovdan 2 ta.
+Faqat korporativ tarmoqning filiallarini ulash uchun
 ++++
 
-«Maxmin» algoritmida  yadrolar orasidagi boʻsagʻa sifatida qanday qiymat olinadi ?
+Qaysi global tarmoqlarda paketlarni marshrutlashning har-xilidan foydalanilgan?
 ====
-#yadrolar orasidagi masofaning yarmi olinadi;
+Frame relay va АTM
 ====
-yadrolar orasidagi masofa olinadi;
+Frame relay va TCP/IP
 ====
-yadrodan eng uzoqda joylashgan   yadroning qiymati olinadi;
+АTM va  X.25
 ====
-yadrolar orasidagi masofaning kvadrati olinadi.
+#Frame relay va X.25
 ++++
 
-«Maxmin» algoritmida sinflar soni qanday aniqlanadi ?
+Xizmatlarni boshqarish markazlarida qanday axborotlar saqlanadi?
 ====
-#yadrolar yordamida;
+#Foydalanuvchilar uchun mo’ljallangan axborot, xizmat ko’rsatish uchun mo’ljallangan axborot
 ====
-oldindan beriladi;
+Foydalanuvchilarning barchasiga yuborilishi kerak bo’lgan axborot
 ====
-belgilar yordamida;
+Maxfiy axborot
 ====
-moslik qoidalar asosida.
+Yangiliklar
 ++++
 
-«Maxmin» algoritmi oʻz ishini toʻxtatadi, agarda ….............
+Аloqa kanallari orqali ko’p sonli foydalanuvchilarning qurilmalaridan kelayotgan axborot oqimlarini yig’ib berish vazifasini qanday tarmoq bajaradi?
 ====
-#yadrolar va sinflar oʻzgarmasdan qolsa;
+#Ulanish tarmog’i
 ====
-sinflar kesishmasa;
+Magistral tarmoq
 ====
-yadrolar soni sinflar sonidan koʻp boʻlsa;
+Korporativ tarmoq
 ====
-sinflar oʻzgarmasdan yadrolar oʻzgarsa.
+Kampus tarmog’i
 ++++
 
-Еkspеrt tizim nimа?
+Ulanish tarmoqlarini bog’lashni va yuqori tezlikdagi kanallar orqali trafik tranzitini ta’minlashni, qaysi tarmoq amalga oshiradi?
 ====
-#Blimlаrgа аsоslаngаn аmаliy mulоqоt tizimi;
+#Magistral tarmoq
 ====
-Amаliy matematik paket;
+Аloqa operatorlari tarmog’i
 ====
-Mа’lumоtlаr bаzаsini bоshqаrish tizimi;
+Korporativ tarmoq
 ====
-Faqat formulalarga аsоslаngаn tizim.
+Bino tarmog’i
 ++++
 
-Bilimlar injeneri o`zgartiradigan bilimlar–bu……………….bilimlar hisoblanadi.
+IPv6 turidagi IP-adres qanday uzunlikka ega?
 ====
-#izohlanuvchi;
+#128 bit
 ====
-izohlanmaydigan;
+32 bit
 ====
-texnologik;
+48 bit
 ====
-yordamchi.
+64 bit
 ++++
 
-Joriy holatga mos keluvchi bilimlarni izohlash usullarini tanlash uchun qo`llaniluvchi bilimlar-bu ……………… hisoblanadi.
+Masofa-vektorli marshrutlash protokollari qaysi javobda to'g'ri keltirilgan?
 ====
-#yechuvchi bilimlar ;
+#RIP, IGRP, EIGRP
 ====
-predmetli bilimlar;
+OSPF, IGRP, EIGRP
 ====
-izohlanuvchi;
+RIP, OSPF
 ====
-yordamchi.
+OSPF
 ++++
 
-Bilimlar tizimini yaratishda va tushuntirishlarni bajarishda qo`llaniladigan bilimlar-bu ……………… hisoblanadi.
+Marshrutlashning tashqi shlyuz protokollari qaysi javobda to'g'ri keltirilgan?
 ====
-#qo`llab - quvvatlovchi ;
+#Exterior Gateway Protocol (EGP), Border Gateway Protocol (BGPv4)
 ====
-predmetli bilimlar;
+Border Gateway Protocol (BGPv4), Interior Gateway Protocol  (IGP)
 ====
-izohlanuvchi;
+Interior Gateway Protocol  (IGP), Exterior Gateway Protocol (EGP)
 ====
-yechuvchi bilimlar.
+Interior Gateway Protocol  (IGP)
 ++++
 
-Bilimning yaratilgan vaqti, bilimlar muallifi va boshqalar haqidagi ma’lumotlarni saqlaydigan bilimlar-bu ……………… hisoblanadi
+Marshrutlashning ichki shlyuz protokollari qaysi javobda to'g'ri keltirilgan?
 ====
-#texnologik bilimlar ;
+#Interior Gateway Protocol  (IGP)
 ====
-predmetli bilimlar;
+Exterior Gateway Protocol (EGP), Border Gateway Protocol (BGPv4)
 ====
-qo`llab - quvvatlovchi;
+Interior Gateway Protocol  (IGP), Exterior Gateway Protocol (EGP)
 ====
-yechuvchi bilimlar.
+Border Gateway Protocol (BGPv4), Interior Gateway Protocol  (IGP)
 ++++
 
-Bilimlarning mazmunli tasvirlanishi, bilimlarni kiritish sabablari, bilimlarning belgilanishi haqidagi bilimlarni saqlaydigan, bilimlardan foydalanish usullari va olinadigan samarani tasvirlaydigan bilimlar-bu ……………… hisoblanadi
+Simli tarmoq standarti qaysi javobda to’g’ri ko’rsatilgan?
 ====
-#semantik bilimlar ;
+#IEEE 802.3; 
 ====
-texnologik bilimlar;
-====
-predmetli bilimlar;
-====
-yechuvchi bilimlar.
+IEEE 802.1; 
+==== 
+IEEE 802.2;
+==== 
+IEEE 802.5;
 ++++
 
-Ekspert tizimda ishchi xotiradagi boshlang`ich ma’lumotlar va bilimlar bazasidagi bilimlardan foydalanib, shunday qoidalar ketma-ketligini shakllantiradigan, ularni boshlang`ich ma’lumotlarga qo`llab masalaning yechimiga olib keladigan komponent-bu ……………… hisoblanadi
-====
-#yechuvchi (bilimlar injeneri);
+IEEE 802.3u standartining maksimal o’tkazish tezligi qanday?
 ====
-ishchi xotira;
-====
-tushuntiruvchi komponent;
-====
-muloqotli komponent.
+ #100 Mbit/s; 
+==== 
+1000 Mbit/s; 
+==== 
+10 Gbit/s; 
+==== 
+1 Gbit/s;
 ++++
 
-Foydalanuvchi – ekspert tomonidan amalga oshiriluvchi bilimlar bilan ekspert tizimni to`ldirish jarayonini avtomatlashtiradigan komponent-bu …………… hisoblanadi.
-====
-#bilimlarni hosil qilish;
-====
-ishchi xotira;
+IEEE 802.3 ab standartining maksimal o’tkazish tezligi qanday?
 ====
-yechuvchi (bilimlar injeneri);
-====
-muloqotli komponent.
+ #1000 Mbit/s; 
+==== 
+100 Mbit/s; 
+==== 
+10 Gbit/s; 
+==== 
+1 Gbit/s;
 ++++
 
-Ekspert tizimni yaratishda yechimini kutayotgan masalalarni aniqlash, ekspert tizimni ishlab chiqishning maqsadi, expertlar va foydalanuvchi tiplarini aniqlash………………..bosqichida bajariladi.
-====
-#idenfikatsiyalash;
-====
-formallashtirish;
+IEEE 802.3 an standartining maksimal o’tkazish tezligi qanday?
 ====
-bajarish;
-====
-testdan o’tkazish.
+#10 Gbit/s; 
+==== 
+100 Mbit/s; 
+==== 
+1000 Mbit/s; 
+==== 
+1 Gbit/s;
 ++++
 
-Ekspert tizimni yaratishda muammo sohasining tarkibiy tahlilini o`tkazish, qo`llaniluvchi tushunchalar va ularning o`zaro aloqasi aniqlash, masalaning yechilish usulini belgilash.………………..bosqichida bajariladi.
-====
-#kontseptuallashtirish ;
-====
-formallashtirish;
-====
-idenfikatsiyalash;
+Simli tarmoqning umumiy o'tkazuvchanligi qanchagacha yetishi mumkin:
 ====
-testdan o’tkazish.
+# 2000 Mbit/s; 
+==== 
+1000 Mbit/s; 
+==== 
+10 Gbit/s; 
+==== 
+1 Gbit/s; 
 ++++
 
-Ekspert tizimni yaratishda asosiy tushunchalarni shakllantirish, texnik vositalarni tanlash, bilimlarni namoyish etish va izohlash usullarini aniqlash, tizimning ishini modellashtirish..………………..bosqichida bajariladi.
+5-kategoriyali o’rama juft kabeli qancha masofagacha samarali ishlay oladi?
 ====
-#formallashtirish;
-====
-kontseptuallashtirish;
-====
-idenfikatsiyalash;
-====
-testdan o’tkazish.
+ #100 m.; 
+==== 
+200 m.; 
+==== 
+300 m.; 
+==== 
+400 m.
 ++++
 
-Ekspert tizimni yaratishda ekspert tomonidan bilimlar bazasini to`ldirishni amalga oshirish..………………..bosqichida bajariladi.
+5e-kategoriyali o’rama juft kabeli o’tkazish qobiliyati qancha?
 ====
-#bajarish;
-====
-kontseptuallashtirish;
-====
-idenfikatsiyalash;
-====
-formallashtirish.
+# 2 ta juftdan foydalanilganda 100 Mbit/s gacha va 4 ta juftdan foydalanilganda 1 Gbit/s gacha;
+==== 
+100 Mbit/s gacha;
+==== 
+4 ta juftdan foydalanilganda 1 Gbit/s gacha va kabel uzunligi 55 metrdan oshmaganda 10 Gbit/s gacha;
+==== 
+2 ta juftdan foydalanilganda 1 Gbit/s gacha;
 ++++
 
-Ekspert tizimlar tashqi muhitga bog`liqlik darajasiga qarab …………. ekspert tizimlarga bo’linadi.
-====
-#statik va dinamik;
+6-kategoriyali o’rama juft kabelining o’tkazish qobilati qancha?
 ====
-umumiy vazifani bajaruvchi va kontseptuallashtirilgan;
-====
-umumiy vazifani bajaruvchi va idenfikatsiyalashtirilgan;
-====
-formallashtirilgan va maxsuslashtirilgan.
+ #250 MHz; 
+==== 
+125 MHz; 
+==== 
+500 MHz; 
+==== 
+100 MHz.
 ++++
 
-Genetik algoritm - bu …………….. …………….algoritmi.
-====
-#evristik qidiruv;
+802.11 ac standartining maksimal o’tkazish tezligi qancha?
 ====
-evristik qo’shish;
-====
-jadvalli o’chirish;
-====
-minimumni qidiruv.
+# 6,77 Gbit/s; 
+==== 
+1000 Mbit/s; 
+==== 
+54 Mbit/s; 
+==== 
+600 Mbit/s
 ++++
 
-……………………- bu tabiatdagi tabiiy seleksiyalashga o'xshash mexanizmlardan foydalanib, kerakli parametrlarni tasodifiy tanlab olish, birlashtirish va o'zgartirish orqali optimallashtirish va modellashtirish muammolarini hal qilish uchun ishlatiladigan evristik qidiruv algoritmi.
-====
-#Genetik algoritm;
-====
-Evolyutsion dasturlash;
+802.11g standartining maksimal o’tkazish tezligi qancha?
 ====
-Evolyutsion strategiyalar;
-====
-Genetik dasturlash.
+# 54 Mbit/s; 
+==== 
+1000 Mbit/s; 
+==== 
+55 Mbit/s; 
+==== 
+600 Mbit/s
 ++++
 
-………………….. - bu cheklangan xromosoma (zot)lar to'plami.
-====
-#Populyatsiya;
-====
-Alel;
+Tarmoq arxitekturasi – bu…?
 ====
-Gen;
-====
-Genotip.
+ #topologiyalar, ma’lumot uzatish muhitiga kirish usullari va protokollarining kombinatsiyasi;
+==== 
+ma'lumotlarni uzatish muhiti va protokollariga kirish usullari;
+==== 
+topologiyalar kombinatsiyasi, ma'lumotlarni uzatish muhitiga kirish usullari;
+==== 
+ma'lumotlarni uzatish tarmog'ining amalga oshirilgan tuzilmasi, uning topologiyasi, qurilmalar tarkibi va ularning tarmoqdagi o'zaro ta'siri qoidalari;
 ++++
 
-…………….- bu  irsiy ma'lumotlarning tashuvchisi.
-====
-#Xromosoma;
-====
-Alel;
-====
-lokus;
+Tarmoq elementi – bu…?
 ====
-Genotip.
+ bir yoki bir nechta jismoniy qurilmalarni birlashtirgan boshqariladigan mantiqiy ob'ekt;
+==== 
+bitta qurilmani birlashtirgan boshqariladigan mantiqiy ob'ekt;
+==== 
+#bitta qurilmani birlashtirgan boshqariladigan jismoniy ob'ekt;
+==== 
+bitta jismoniy qurilmani birlashtirgan boshqariladigan mantiqiy ob'ekt;
 ++++
 
-……….. - bu genotipning atomar elementi, xususan xromosomalar hisoblanadi..
+Tengdosh arxitekturasi (peer-to-peer architecture) axborot tarmog'i kontseptsiyasi bo'lib …
 ====
-#Gen;
-====
-Xromosoma;
-====
-lokus;
-====
-Individ.
+# uning resurslari barcha tizimlar bo'ylab taqsimlangan;
+==== 
+unda barcha ma'lumotlarni qayta ishlash bir yoki bir nechta asosiy kompyuterlar tomonidan amalga oshiriladi;
+==== 
+uning resurslarining asosiy qismi o'z mijozlariga xizmat ko'rsatadigan serverlarda joylashgan
+==== 
+uning resurslari Internetda joylashgan.
 ++++
 
-…………… operator - bu avlodni olish uchun zarur bo'lgan bir yoki bir nechta ota-onalarga nisbatan tartiblangan harakatlar ketma-ketligi.
+Mijoz-server arxitekturasi axborot tarmog'ining kontseptsiyasi bo'lib, …
 ====
-#Genetik;
-====
-Evolyutsion;
-====
-Strategik;
-====
-Individual.
+# uning resurslarining asosiy qismi o'z mijozlariga xizmat ko'rsatadigan serverlarda joylashgan;
+==== 
+uning resurslari barcha tizimlar bo'ylab taqsimlangan;
+==== 
+uning resurslari Internetda joylashgan;
+==== 
+uning resurslari barcha tizimlar bo'ylab taqsimlangan;
 ++++
 
-…………….  - xromosomalar to'plami.
-====
-#Individ;
+Terminal arxitekturasi – asosiy kompyuter (terminal – host computer architecture) - axborot tarmog'i kontseptsiyasi bo'lib, …
 ====
-Alel;
-====
-lokus;
-====
-Gen.
+ uning resurslari barcha tizimlar bo'ylab taqsimlangan;
+==== 
+#uning resurslarining asosiy qismi o'z mijozlariga xizmat ko'rsatadigan serverlarda joylashgan;
+==== 
+uning resurslari barcha tizimlar bo'ylab taqsimlangan;
+==== 
+uning resurslari Internetda joylashgan;
 ++++
 
-…………. - bu ma'lum bir individning xromosomalar to'plami hisoblanadi.
-====
-#Genotip;
+Barcha ma'lumotlarni qayta ishlash bir yoki bir nechta asosiy kompyuterlar tomonidan amalga oshiriladigan arxitektura?
 ====
-Individ;
-====
-Alel;
-====
-lokus.
+# texminal xost;
+==== 
+mijoz-server;
+==== 
+tengdosh;
+==== 
+fayl-server;
 ++++
 
-…………..- bu ma'lum bir genotipga mos keladigan qiymatlar to'plami, ya'ni. masala parametrlarining dekodlangan tuzilmasi yoki to'plami..
-====
-#Fenotip;
-====
-Individ;
+Resurslarining asosiy qismi o'z mijozlariga xizmat ko'rsatadigan serverlarda joylashgan arxitektura?
 ====
-Alel;
-====
-Genotip.
+# mijoz-server;
+==== 
+texminal xost;
+==== 
+tengdosh;
+==== 
+fayl-server;
 ++++
 
-…………- bu ma'lum bir genning qiymati, shuningdek xususyatning qiymati yoki xususiyatning bir varianti sifatida aniqlanadi.
-====
-#Allel;
-====
-Fenotip;
-====
-Individ;
+Resurslari barcha tizimlar bo'ylab taqsimlangan arxitektura?
 ====
-Genotip.
+# tengdosh;
+==== 
+texminal xost;
+==== 
+mijoz-server;
+==== 
+fayl-server;
 ++++
 
-…………. - bu ma'lum bir genning xromosoma(zanjir)da joylashgan joyini ko’rsatadi..
+Protokollar steki bu:
 ====
-#Lokus;
-====
-Allel;
-====
-Fenotip;
-====
-Individ.
+# o'zaro bog'lanishni tashkil etish uchun etarli bo'lgan turli darajadagi kelishilgan protokollar to'plami;
+==== 
+o'zaro ishlash uchun etarli bo'lgan bir qatlamli protokollarning kelishilgan to'plami;
+==== 
+o'zaro ishlash uchun etarli bo'lgan ikki qatlamli protokollarning kelishilgan to'plami;
+==== 
+o'zaro ishlashni tashkil qilish uchun etarli bo'lgan uchta qatlamli kelishilgan protokollar to'plami;
 ++++
 
-…………………………….. - bu genetikaga xos bo’lib, u populyatsiyadagi muayyan individlarning jismoniy tayyorgarligini baholash va eng munosiblarini tirik qolish evolyutsion prinsipiga muvofiq ular orasida eng munosibini tanlashga imkon beradi.
-====
-#Moslanuvchanlik funksiyasi;
+Interfeys bu:
 ====
-Genetik operator;
-====
-Fenotip;
-====
-Individ.
+ #funksiya-so'rovlar to'plami;
+==== 
+protseduralar majmui;
+==== 
+protokollar to'plami;
+==== 
+dasturiy ta'minot to'plami;
 ++++
 
-Xromosomalarning boshlang'ich populyatsiyasini yaratish - bu moslanuvchanlik funksiyasi parametrlarining qiymatlari ………….……….va ushbu parametr qiymatlari uchun moslanuvchanlik funksiyasi qiymati ………….. holat.
-====
-#tasodifiy tanlangan; topilgan;
+TCP/IP protokollar steki nechta pog’onadan iborat?
 ====
-tasodifiy tanlangan; topilmagan;
-====
-tasodifiy tanlanmagan; topilgan;
+# 4 ta;  
+==== 
+3 ta;  
+==== 
+7 ta; 
+==== 
+6 ta;
+
+TCP/IP protokollar stekining birinchi pog’onasi:
 ====
-tasodifiy tanlanmagan; topilmagan.
+# tarmoq interfeyslari; 
+==== 
+tarmoq;  
+==== 
+transport;  
+==== 
+amaliy
 ++++
 
-Genetik algoritmning asosiy bloklari ketma-ketligi to’g’ri keltirilgan javobni ko’rsating?
-====
-#Initsializatsiyalash, baholash, seleksiyalash, chatishtiruv, mutatsiyalash;
-====
-baholash, seleksiyalash, chatishtiruv, initsializatsiyalash, mutatsiyalash;
+TCP/IP protokollar stekining ikkinchi pog’onasi:
 ====
-seleksiyalash, initsializatsiyalash, baholash, chatishtiruv, mutatsiyalash;
-====
-mutatsiyalash, initsializatsiyalash, baholash, seleksiyalash, chatishtiruv.
+# tarmoq; 
+==== 
+tarmoq interfeyslari; 
+==== 
+transport;  
+==== 
+amaliy
 ++++
 
-Initsializatsiyalash - tasodifiy ravishda ………….
-====
-#dastlabki xromosomalarning populyatsiyasini shakllantirish;
-====
-olingan xromosomalarning yaroqliligini aniqlash;
+TCP/IP protokollar stekining uchunchi pog’onasi:
 ====
-yaroqli baholash qiymatlariga ega bo`lgan xromosomalar tanlab olish;
-====
-xromosomalarning tasodifiy sonini saralab olish.
+# transport; 
+==== 
+tarmoq interfeyslari;  
+==== 
+tarmoq;  
+==== 
+amaliy
 ++++
 
-Baholash -…………………….....................................................
-====
-#olingan xromosomalarning yaroqliligini aniqlash;
-====
-dastlabki xromosomalarning populyatsiyasini shakllantirish;
-====
-yaroqli baholash qiymatlariga ega bo`lgan xromosomalar tanlab olish;
+TCP/IP protokollar stekining to’rtinchi pog’onasi:
 ====
-xromosomalarning tasodifiy sonini saralab olish.
+# amaliy; 
+==== 
+tarmoq interfeyslari;  
+==== 
+tarmoq;  
+==== 
+transport
 ++++
 
-Seleksiyalash -…………………………………………………………
+Tarmoq pog’onasining asosiy vazifasi nima?
 ====
-#yaroqli baholash qiymatlariga ega bo`lgan xromosomalar tanlab olish;
-====
-dastlabki xromosomalarning populyatsiyasini shakllantirish;
+# ma’lumotlarni yetkazib berish uchun marshrut ishlab chiqish;
+==== 
+amaliy dasturlar bilan ishlash;
+==== 
+ma’lumotlarni ishonchli yetkazib berish;
+==== 
+ma’lumotlarni tarmoq bo’ylab harakatlantirish.
+++++
+
+Transport pog’onasining asosiy vazifasi nima?
 ====
-olingan xromosomalarning yaroqliligini aniqlash;
+ #ma’lumotlarni ishonchli yetkazib berish;
+==== 
+ma’lumotlarni yetkazib berish uchun marshrut ishlab chiqish;
+==== 
+amaliy dasturlar bilan ishlash;
+==== 
+ma’lumotlarni tarmoq bo’ylab harakatlantirish.
+++++
+
+Transport pog’onasi protokollari:
 ====
-xromosomalarning tasodifiy sonini saralab olish.
+# tcp, udp;  
+==== 
+ip, tcp;  
+==== 
+http, https, ftp;  
+==== 
+ip, icmp;
 ++++
 
-Chatishtiruv -
+Tarmoq pog’onasi OSI modelining qaysi pog’onasiga mos keladi?
 ====
-#xromosomalarning tasodifiy sonini saralab olish;
+# 3; 	
+==== 
+2;	
+==== 
+4;	
+==== 
+7;
+++++
+
+Tarmoq pog’onasi TCP/IP protokollar stekining qaysi pog’onasiga mos keladi?
 ====
-dastlabki xromosomalarning populyatsiyasini shakllantirish;
+ 
+#2; 
+==== 
+3; 
+==== 
+4; 
+==== 
+1.
+++++
+
+Tarmoq pog’onasining vazifasi nima?
 ====
-olingan xromosomalarning yaroqliligini aniqlash;
+# jo'natuvchidan qabul qiluvchiga paketlarni yetkazib berish uchun marshrutni ishlab chiqish;
+==== 
+jo'natuvchidan qabul qiluvchiga paketlarni yetkazib berish;
+==== 
+aloqa seansini o’rnatish;
+==== 
+transport pog’onasi va amaliy jarayonlar o’rtasidagi interfeys. 
+++++
+
+Marshrutlash bu:
 ====
-yaroqli baholash qiymatlariga ega bo`lgan xromosomalar tanlab olish.
+# bu tarmoq trafigini yuborish uchun qaysi yo'llarni tanlash va paketlarni tanlangan pastki tarmoq bo'ylab yuborish jarayoni;
+==== 
+paketlarni qabul qiluvchiga yetkazib berish;
+==== 
+yuboruvchi va qbul qiluvchi uchun oldindan aloqa kanalini band qilish;
+==== 
+ma’lumotni tarmoq bo’ylab harakatlantirish;
 ++++
 
-Mutatsiyalash -……………………………………………………....
+Tarmoq pog’onasida ma’lumotlarni marshrutlash uchun qanday qurilmalardan foydalaniladi?
 ====
-#xromosomaning bir genini(bitini) o`zgartiradi;
+# router, L3 switch; 
+==== 
+router, L2 switch; 
+==== 
+L2 switch; 
+==== 
+hub, switch, NIC.
+++++
+
+Tarmoq pog’onasi protokollari qaysi javobda to’g’ri ko’rsatilgan?
 ====
-dastlabki xromosomalarning populyatsiyasini shakllantirish;
+# IP, ICMP;  
+==== 
+TCP, IP;  
+==== 
+FTP, HTTP; 
+==== 
+TCP, UDP.
+++++
+
+Marshrutlashning masofa vektor protokollari qaysi javobda tog’ri ko’rsatilgan?
 ====
-olingan xromosomalarning yaroqliligini aniqlash;
+# RIP, IGP, EIGP; 
+==== 
+OSPF, RIP; 
+==== 
+OSPF, IS-IS; 
+==== 
+IGP, EIGP, IS-IS.
+++++
+
+Marshrutlashning aloqa holati protokollari qaysi javobda tog’ri ko’rsatilgan?
 ====
-yaroqli baholash qiymatlariga ega bo`lgan xromosomalar tanlab olish.
+# OSPF, IS-IS; 
+==== 
+OSPF, RIP; 
+==== 
+RIP, IGP, EIGP; 
+==== 
+IGP, EIGP, IS-IS.
 ++++
 
-…………….. - xromosoma kodi qismlarini kelish tartibini o'zgartirish bo’lib, bunda tasodifiy ravishda xromosoma kodidagi qo’shni bitlar orasida uzilish nuqtasi tanlanadi.
+Marshrutlash – bu: 
 ====
-#Inversiyalash;
+# tarmoq trafigini yuborish uchun qisqa yo'llarni tanlash va paketlarni tanlangan pastki tarmoq bo'ylab yuborish jarayoni;
+==== 
+paket uchun eng uzoq yo’lni tanlash;
+==== 
+paketlarni bo’laklash;
+==== 
+paketni qabul qilish.
+++++
+
+IP protokoli qachon ishlab chiqilgan?
 ====
-Mutatsiyalash;
+# 1981 yil; 
+==== 
+1983 yil; 
+==== 
+1985 yil; 
+==== 
+1987 yil;
+++++
+
+Identifikator – bu …?
 ====
-Chatishtiruv;
+# paketni jo'natuvchi tomonidan tayinlangan va paketni yig'ishda bo'laklarning to'g'ri ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
+==== 
+ma'lumotlar oqimidagi fragmentning o'rnini belgilovchi qiymat;
+==== 
+paketni qabul qiluvchilarga tayinlangan va paketni yig'ishda bo'laklarning to'g'ri ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
+==== 
+paketni jo'natuvchi tomonidan tayinlangan va paketni yig'ishda fragmentlarning ierarxik ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
+++++
+
+Bo’laklarni ko’chirish – bu…?
 ====
-Seleksiyalash.
+# ma'lumotlar oqimidagi fragmentning o'rnini belgilovchi qiymat;
+==== 
+paketni jo'natuvchi tomonidan tayinlangan va paketni yig'ishda bo'laklarning to'g'ri ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
+==== 
+paketni qabul qiluvchilarga tayinlangan va paketni yig'ishda bo'laklarning to'g'ri ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
+==== 
+paketni jo'natuvchi tomonidan tayinlangan va paketni yig'ishda fragmentlarning ierarxik ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
 ++++
 
-………………. masala prametrlarining berilgan boshlang’ich qiymatlarini emas, balki ularning kodlashtirilgan qiymatlarini qayta ishlaydi.
+Sarlavhaning nazorat summasi - … bo’yicha hisoblanadi?
 ====
-#Genetik algoritmlar;
+# RFC 1071; 
+==== 
+RFC 1072; 
+==== 
+RFC 1073; 
+==== 
+RFC 1075;
+++++
+
+Marshrutizatorlar paketga qanday o’zgartirish kirita oladi?
 ====
-An'anaviy optimallashtirish usullari;
+# paketlarni fragmentlash; 
+==== 
+paketlarni yig’ish;
+==== 
+paketlarni formatlash; 
+==== 
+paketlarni segmentlash;
+++++
+
+Paket ma'lumotlarini bo'lishda oxirgisidan tashqari barcha bo'laklarning o'lchami … karrali bo’lishi kerak:
 ====
-Ekspert tizimlar;
+# 8 baytga; 
+==== 
+16 baytga; 
+==== 
+24 baytga; 
+==== 
+32 baytga;
+++++
+
+0 dan boshlanuvchi adreslar qaysi sinfga xos?
 ====
-Dinamik programmalashtirish.
+ #A sinf; 
+==== 
+B sinf; 
+==== 
+C sinf; 
+==== 
+D sinf;
 ++++
 
-………………. echimni bitta nuqtadan emas, balki ularning ma'lum bir populyatsiyasidan qidirishni amalga oshiradi.
+10 dan boshlanuvchi adreslar qaysi sinfga xos?
 ====
-#Genetik algoritmlar;
+# B sinf; 
+==== 
+A sinf; 
+==== 
+C sinf; 
+==== 
+D sinf;
+++++
+
+110 dan boshlanuvchi adreslar qaysi sinfga xos?
 ====
-An'anaviy dasturlash;
+# C sinf; 
+==== 
+B sinf; 
+==== 
+E sinf; 
+==== 
+D sinf;
+++++
+
+1110 dan boshlanuvchi adreslar qaysi sinfga xos?
 ====
-Ekspert tizimlar;
+# D sinf; 
+==== 
+B sinf; 
+==== 
+C sinf; 
+==== 
+E sinf;
+++++
+
+11110 dan boshlanuvchi adreslar qaysi sinfga xos?
 ====
-Chiziqli programmalashtirish.
+ #E sinf; 
+==== 
+B sinf; 
+==== 
+C sinf; 
+==== 
+D sinf;
 ++++
 
-………………. maqsad funksiyasining hosilalari yoki boshqa qo'shimcha ma'lumotlaridan emas, balki faqat maqsad funksiyasining o’zidan foydalanadi.
+GSM mobil aloqaning qaysi avlodiga tegishli?
 ====
-#Genetik algoritmlar;
+# 2G;
+==== 
+1G;
+==== 
+3G;
+==== 
+4G.
+++++
+
+3G da kanallar taqsimlanishining qanday turidan foydalaniladi?
 ====
-Statistik usullar;
+ #Kod bo'yicha
+==== 
+Chastota-vaqt bo'yicha
+==== 
+Chastota bo'yicha
+==== 
+Vaqt bo'yicha
+++++
+
+Mobil aloqada uyaning ideal shakli qanday tasvirlanadi?
 ====
-Noravshan tizimlar;
+# Oltiburchak
+==== 
+Romb
+==== 
+Kvadrat
+==== 
+To'rtburchak
+++++
+
+LTE - bu?
 ====
-Chiziqli programmalashtirish.
+# Long Term Evolution
+==== 
+Listing Time Ebay
+==== 
+London Tests of English
+==== 
+Liquid Tension Experiment
 ++++
 
+WiFi standartida qanday chastota diapazonlaridan foydalaniladi
+====
+# 2.4 va 5 GHz
+==== 
+2.4 - 5 GHz oralig'ida
+==== 
+2.4 - 2.5 GHz oralig'ida
+==== 
+2.5 va 5 GHz
+++++
