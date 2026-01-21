@@ -1,2760 +1,2800 @@
-TCP/IP protokollari steki nechta sathdan iborat?
-====
-#4
-====
-3
-====
-5
-====
-7
-++++
-
- TCP/IP protokollari stekining birnchi sathi sathi qanday nomlanadi?
-====
-#tarmoq interfeyslari sathi
-====
-transport sathi
-====
-tarmoq sathi
-====
-amaliy sath
-++++
-
- TCP/IP protokollari stekining ikkinchi sathi sathi qanday nomlanadi?
-====
-tarmoq interfeyslari sathi
-====
-transport sathi
-====
-#tarmoq sathi
-====
-amaliy sath
-++++
-
- TCP/IP protokollari stekining uchinchi sathi sathi qanday nomlanadi?
-====
-tarmoq interfeyslari sathi
-====
-#transport sathi
-====
-tarmoq sathi
-====
-amaliy sath
-++++
-
- TCP/IP protokollari stekining to’rtinchi sathi sathi qanday nomlanadi?
-====
-tarmoq interfeyslari sathi
-====
-transport sathi
-====
-tarmoq sathi
-====
-#amaliy sath
-++++
-
- IPv4 manzillari nechta sinfdan iborat?
-====
-#5 ta
-====
-6 ta
-====
-4 ta
-====
-7 ta
-++++
-
- A sinf IP manzillari bloki to’g’ri ko’rsatilgan javobni tanlang?
-====
-#Dastlabki bit 0 ga teng: 1.0.0.0 dan 127.255.255.255 gacha
-====
-Dastlabki bit 10 ga teng: 1.0.0.0 dan 127.255.255.255 gacha
-====
-Dastlabki bit 0 ga teng: 1.0.0.0 dan 128.0.0.0 gacha
-====
-Dastlabki bit 10 ga teng: 1.255.255.255 dan 127.255.255.255 gacha
-++++
-
- B sinf IP manzillari bloki to’g’ri ko’rsatilgan javobni tanlang?
-====
-#Dastlabki bit 10 ga teng: 128.0.0.0 dan 191.255.255.255 gacha
-====
-Dastlabki bit 10 ga teng: 128.0.0.0 dan 192.0.0.0 gacha
-====
-Dastlabki bit 110 ga teng: 127.255.255.255 dan 192.0.0.0 gacha
-====
-Dastlabki bit 10 ga teng: 1.255.255.255 dan 127.255.255.255 gacha
-++++
-
- C sinf IP manzillari bloki to’g’ri ko’rsatilgan javobni tanlang?
-====
-#Dastlabki bit 110 ga teng: 192.0.0.0 dan 223.255.255.255 gacha
-====
-Dastlabki bit 110 ga teng: 192.0.0.0 dan 243.255.255.255 gacha
-====
-Dastlabki bit 110 ga teng: 191.255.255.255 dan 243.0.0.0 gacha
-====
-Dastlabki bit 10 ga teng: 192.0.0.0 dan 223.255.255.255 gacha
-++++
-
- A sinfga tegishli tarmoqlarda manzillar sonini qancha?
-====
-2^8
-====
-2^16
-====
-#2^24
-====
-2^4
-++++
-
- B sinfga tegishli tarmoqlarda manzillar sonini qancha?
-====
-2^8
-====
-#2^16
-====
-2^24
-====
-2^4
-++++
-
-C sinfga tegishli tarmoqlarda manzillar sonini qancha?
-====
-#2^8
-====
-2^16
-====
-2^24
-====
-2^4
-++++
-
- IP manzillar sinflaridan foydalanib 192.9.7.5 manzilini tarmoq va xost raqamlariga ajrating?
-====
-#tarmoq raqami 192.9.7.0; xost raqami 0.0.0.5
-====
-tarmoq raqami 192.9.0.0; xost raqami 0.0.7.5
-====
-tarmoq raqami 192.9.6.0; xost raqami 0.0.1.5
-====
-tarmoq raqami 192.0.0.0; xost raqami 0.9.6.5
-++++
-
- IP manzillar sinflaridan foydalanib 62.76.9.17 manzilini tarmoq va xost raqamlariga ajrating?
-====
-#tarmoq raqami 62.0.0.0; xost raqami 0.76.9.17
-====
-tarmoq raqami 62.76.0.0; xost raqami 0.0.9.12
-====
-tarmoq raqami 62.76.9.0; xost raqami 0.0.0.12
-====
-tarmoq raqami 62.76.1.1; xost raqami 0.0.8.16
-++++
-
-A sinfga tegishli manzillar uchun niqob qaysi javobda to’g’ri ko’rsatilgan?
-====
-#255.0.0.0
-====
-255.255.255.0
-====
-255.255.0.0
-====
-255.255.255.255
-++++
-
- B infga tegishli manzillar uchun niqob qaysi javobda to’g’ri ko’rsatilgan?
-====
-255.0.0.0
-====
-255.255.255.0
-====
-#255.255.0.0
-====
-255.255.255.128
-++++
-
- C sinfga tegishli manzillar uchun niqob qaysi javobda to’g’ri ko’rsatilgan?
-====
-255.0.0.0
-====
-#255.255.255.0
-====
-255.255.0.0
-====
-255.255.255.192
-++++
-
- 215.17.125.177 manzil va 255.255.255.240 niqob uchun tarmoq va xost raqamlarini hisoblang?
-====
-#tarmoq raqami 215.17.125.176; xost raqami 0.0.0.1
-====
-tarmoq raqami 215.17.125.0; xost raqami 0.0.0.177
-====
-tarmoq raqami 215.17.125.170; xost raqami 0.0.0.7
-====
-tarmoq raqami 215.17.125.162; xost raqami 0.0.0.15
-++++
-
-67.38.173.245 manzil va 255.255.240.0 niqob uchun tarmoq va xost raqamlarini hisoblang?
-====
-#tarmoq raqami 67.38.160.0; xost raqami 0.0.13.245
-====
-tarmoq raqami 67.38.173.0; xost raqami 0.0.0.245
-====
-tarmoq raqami 67.38.158.245; xost raqami 0.0.15.245
-====
-tarmoq raqami 67.38.170.245; xost raqami 0.0.3.245
-++++
-
-192.168.74.126 manzil va 255.255.255.192 niqob uchun tarmoq va xost raqamlarini hisoblang?
-====
-#tarmoq raqami 192.168.74.64; xost raqami 0.0.0.62
-====
-tarmoq raqami 192.168.74.0; xost raqami 0.0.0.126
-====
-tarmoq raqami 192.168.74.120; xost raqami 0.0.0.6
-====
-tarmoq raqami 192.168.74.63; xost raqami 0.0.0.63
-++++
-
-192.168.74.130 manzil va 255.255.255.192 niqob uchun tarmoq va xost raqamlarini hisoblang?
-====
-#tarmoq raqami 192.168.74.128; xost raqami 0.0.0.4
-====
-tarmoq raqami 192.168.74.64; xost raqami 0.0.0.66
-====
-tarmoq raqami 192.168.74.120; xost raqami 0.0.0.10
-====
-tarmoq raqami 192.168.74.63; xost raqami 0.0.0.67
-++++
-
- 192.168.74.215 manzil va 255.255.255.192 niqob uchun tarmoq va xost raqamlarini hisoblang?
-====
-#tarmoq raqami 192.168.74.192; xost raqami 0.0.0.23
-====
-tarmoq raqami 192.168.74.64; xost raqami 0.0.0.151
-====
-tarmoq raqami 192.168.74.120; xost raqami 0.0.0.95
-====
-tarmoq raqami 192.168.74.128; xost raqami 0.0.0.87
-++++
-
-192.168.74.167 manzil va 255.255.255.192 niqob uchun tarmoq va xost raqamlarini hisoblang?
-====
-#tarmoq raqami 192.168.74.128; xost raqami 0.0.0.39
-====
-tarmoq raqami 192.168.74.64; xost raqami 0.0.0.103
-====
-tarmoq raqami 192.168.74.120; xost raqami 0.0.0.47
-====
-tarmoq raqami 192.168.74.63; xost raqami 0.0.0.104
-++++
-
-Nuqtalar o’rniga mos keluvchi so’zni toping. Oxirgi tugunlarni tranizt tugunlar tarmog’i orqali ulash … deb ataladi?
-====
-kommutatsiya
-====
-inkapsulyatsiya
-====
-multiplekslash
-====
-#marshrutlash
-++++
-
-Kompyuter tizimlarida abonentlarni kommutatsiyalashning nechta xili qo’llaniladi?
-====
-#2
-====
-4
-====
-5
-====
-1
-++++
-
-Kompyuter tizimlarida kompyuterlarni adreslash qanday amalga oshirilishi mumkin?
-====
-#uchta har-xil adreslash chizmalari asosida
-====
-ikkita har-xil adreslash chizmalari asosida
-====
-faqat simvolli adreslash chizmasi asosida
-====
-apparat adreslash chizmasi asosida
-++++
-
-Quyida keltirilgan kompyuter tarmoqlarining qaysi biri avval paydo bo’lgan?
-====
-#global kompyuter tarmoqlari
-====
-lokal kompyuter tarmoqlari
-====
-kampuslar tarmog’i
-====
-korporativ tarmoqlar
-++++
-
-Kompyuter tizimlarida ikkilik sonlarni kodlashning qaysi xillari qo’llaniladi?
-====
-#potentsialli va impulsli
-====
-bir qutbga ega potentsialli
-====
-faqat impulsli
-====
-ko’p qutbga ega potentsialli
-++++
-
-Kompyuterning ketma-ket porti orqali uzatilayotgan axborotni sinxronlash qanday amalga oshiriladi?
-====
-#«Start» va «Stop» signallari yordamida
-====
-paritet razryadi yordamida
-====
-takt impulslari yordamida
-====
-apparat sathida
-++++
-
-Operatsion tizimning qaysi funktsiyasi redirektor funktsiyalariga tegishli bo’ladi?
-====
-#so’rovni anglash va uzoqdagi kompyuterga yo’naltirish
-====
-tashqi qurilmalarga ulanishni boshqarish
-====
-displeyga axborotlarni chiqarib berishni tashkil qilish
-====
-uzilishlarni boshqarish
-++++
-
-To’rtta bir-biri bilan bog’langan bog’lamlar strukturasi (kvadrat shaklida) qaysi topologiya turiga mansub?
-====
-#Xalqa
-====
-Yulduz
-====
-To’liq bog’lanishli
-====
-Yacheykali
-++++
-
-Ketma-ket bir-biri bilan bog’langan 3 ta bog’lamlar (oxiri boshi bilan bog’lanmagan) strukturasi qaysi topologiya turiga tegishli.?
-====
-#Umumiy shina
-====
-Xalqa
-====
-To’liq bog’lanishli
-====
-Yulduz
-++++
-
-Kompyuter tizimlarida ma’lumotlarni uzatish ishonchliligini oshirish uchun nima qilinadi?
-====
-#kontrol summani xisoblash bilan
-====
-ma’lumotni bir necha marta uzatish bilan
-====
-axborotni ishonchliligini tekshirishning majoritar usulini
-====
-maxsus apparat-programma vositalari yordamida
-++++
-
-Qaysi topologiya birgalikda foydalanilmaydigan muhitni qo’llamasligi mumkin?
-====
-#to’liq bog’lanishli
-====
-xalqa
-====
-yulduz
-====
-umumiy shina
-++++
-
-Kompyuterning tashqi interfeysi deganda nima tushuniladi?
-====
-#kompyuter bilan tashqi qurilmani bog’lovchi simlar va ular orqali axborot almashinish qoidalari to’plamlari
-====
-tashqi qurilmani kompyuterga bog’lashda ishlatiladigan ulovchi simlar
-====
-kompyuterning tashqi portlari.
-====
-tashqi qurilma bilan kompyuter o’rtasida axborot almashinish qoidalari to’plami
-++++
-
-Uchta o’zaro bog’langan bog’lamlardan iborat tuzilma (uchburchak shaklida) topologiyaning qaysi turiga tegishli?
-====
-#To’liq bog’lanishli
-====
-Umumiy shina
-====
-Yulduz
-====
-Yacheykali
-++++
-
-Qanday topologiyaning xususiy xoli umumiy shina xisoblanadi?
-====
-#Yulduz
-====
-To’liq bog’lanishli
-====
-Xalqa
-====
-Yacheykali
-++++
-
-Topologiyalardan qaysi biri ishonchliligi yuqori hisoblanadi?
-====
-Yulduz
-====
-Xalqa
-====
-#Аralash
-====
-Umumiy shina
-++++
-
-MAC sathi qanday vazifani bajaradi?
-====
-#uzatish muhitiga murojaat qilishni boshqarish
-====
-stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish
-====
-bitlar sathida axborot uzatishni boshqarish
-====
-bloklar sathida axborot uzatishni boshqarish
-++++
-
-LLC sathi qanday vazifani bajaradi?
-====
-#stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish
-====
-bitlar sathida axborot uzatishni boshqarish
-====
-bloklar sathida axborot uzatishni boshqarish
-====
-uzatish muhitiga murojaat qilishni boshqarish
-++++
-
-Stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish vazifasini qaysi sath bajaradi?
-====
-#LLC sathi
-====
-Fizik sath
-====
-Tarmoq sathi
-====
-MAC sathi
-++++
-
-Uzatish muhitiga murojaat qilishni boshqarish vazifasini qaysi sath bajaradi?
-====
-#MAC sathi
-====
-Fizik sath
-====
-Tarmoq sathi
-====
-LLC sathi
-++++
-
-l0Base-2 segmentining uzunligi ko’pi bilan qancha bo’lishi mumkin?
-====
-#185 metr
-====
-400 metr
-====
-200 metr
-====
-500 metr
-++++
-
-O’ralma juftlik kabeli simlarini, uning konnektorlariga ulashning necha xil variantlari mavjud?
-====
-#2
-====
-3
-====
-4
-====
-1
-++++
-
-Ethernet tarmoqlarida uzatish muhitiga murojaat qilishning qaysi usuli qo’llaniladi?
-====
-#CSMA/CD
-====
-CSTK/CE
-====
-CSQE/NQ
-====
-CSTK/QL
-++++
-
-Ethernet da kommutatsiyalashning qaysi xilidan foydalaniladi?
-====
-#paketlarni deytagrammali kommutatsiyalash
-====
-paketlarni virtual kanal orqali uzatish
-====
-vaqtni taqsimlash asosida kanallarni kommutatsiyalash
-====
-chastotali multiplekslash asosida kanallarni kommutatsiyalash
-++++
-
-Optik tolali Ethernet tarmog’ining maksimal uzunligi qanday?
-====
-2740 m
-====
-500 m
-====
-#5000 m
-====
-2500 m
-++++
-
-100Base-TX spetsifikatsiyasi qaysi texnologiyaga tegishli?
-====
-#Fast Ethernet
-====
-Ethernet
-====
-Gigabit Ethernet
-====
-FDDI
-++++
-
-Ethernet texnologiyasi tarmoqlarida ma’lumotlar kadri qanday preambulaga ega?
-====
-00001111
-====
-11110000
-====
-#10101010
-====
-11001100
-++++
-
-Signalni to’liq aylanib chiqish vaqti –PDV ning maksimal qiymati qanday?
-====
-576 bitli interval
-====
-#512 bitli interval
-====
-600 bitli interval
-====
-624 bitli interval
-++++
-
-PDV deganda nima tushuniladi?
-====
-#Signalni to’liq aylanib chiqish vaqti
-====
-Kadrlar orasidagi masofaning qisqarishi
-====
-Kadrlar orasidagi masofa
-====
-Bitli interval
-++++
-
-Fast Ethernet texnologiyasi spetsifikatsiyalari qaysi komitet tarkibida ishlab chiqilgan?
-====
-#802.3
-====
-802.2
-====
-802.1
-====
-802.5
-++++
-
-Ethernet texnologiyasida koaksial kabelining ma’lumotlarni uzatish tezligi qanday?
-====
-#10 Mbit/s
-====
-1 Mbit/s
-====
-100 Mbit/s
-====
-1000 Mbit/s
-++++
-
-Fast Ethernet texnologiyasida o’ralma juftlik kabelining ma’lumotlarni uzatish tezligi qanday?
-====
-#100 Mbit/s
-====
-10 Mbit/s
-====
-1 Mbit/s
-====
-1000 Mbit/s
-++++
-
-Lokal tarmoqlarda keng tarqalgan topologiya turi qaysi?
-====
-#Yulduz
-====
-Xalqa
-====
-To’liqbog’langan
-====
-Umumiy shina
-++++
-
- 100Base-TX spetsifikatsiya qaysi texnologiyaga tegishli?
-====
-#Fast Ethernet
-====
-Ethernet
-====
-Gigabit Ethernet
-====
-10G Ethernet
-++++
-
- 1000Base-SX spetsifikatsiya qaysi texnologiyaga tegishli?
-====
-#Gigabit Ethernet
-====
-Fast Ethernet
-====
-Ethernet
-====
-10G Ethernet
-++++
-
-10Base-T standartida o’ralma juftlik kabeli simlarining nechta jufti ishlatiladi?
-====
-#2
-====
-4
-====
-1
-====
-3
-++++
-
-100Base-TX spetsifikatsiyasida o’ralma juftlik kabeli simlarining nechta jufti ishlatiladi?
-====
-#2
-====
-4
-====
-1
-====
-3
-++++
-
-Kompyuterni kontsentrator yoki kommutator bilan ulash uchun UTP kabelining qaysi varianti ishlatiladi?
-====
-#To’g’ridan-to’g’ri ulangan varianti
-====
-Teskari ulangan varianti
-====
-Krossover varianti
-====
-Kesishgan holda ulangan variant
-++++
-
-Kompyuterni kompyuter bilan ulash uchun UTP kabelining qaysi varianti ishlatiladi?
-====
-#Krossover varianti
-====
-Teskari ulangan varianti
-====
-To’g’ridan-to’g’ri ulangan varianti
-====
-Qo’shimcha ulangan varianti
-++++
-
-Tarmoq adapterining kadrlarni kompyuterdan uzatib beruvchi ulanish nuqtasi (kontakti) qanday belgilanadi?
-====
-#Tx
-====
-Rx
-====
-Px
-====
-Kx
-++++
-
-Tarmoq adapterining kadrlarni kompyuterga qabul qilib oluvchi ulanish nuqtasi (kontakti) qanday belgilanadi?
-====
-#Rx
-====
-Tx
-====
-Px
-====
-Kx
-++++
-
-Ethernet texnologiyasi qaysi mantiqiy topologiya asosida qurilgan?
-====
-#umumiy shina
-====
-xalqa
-====
-yulduz
-====
-to’liq bog’lanishli topologiya
-++++
-
-Fast Ethernet texnologiyasida qaysi turdagi kabel tizimlaridan foydalanilgan?
-====
-#ko’pmodali optik tolali, 5 va undan yuqori kategoriyali o’ralma juftlik
-====
-bittamodali optik tolali , 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
-====
-ingichka koaksial kabel, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
-====
-yo’g’on koaksial kabel, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
-++++
-
-Kadrlar ketma-ketligini kontsentratorlar orqali o’tishi natijasida, kadrlar orasidagi masofaning qisqarishi – PVV,ko’pi bilan qancha bo’lishi mumkin?
-====
-#49 bitli interval
-====
-32 bitli interval
-====
-30 bitli interval
-====
-64 bitli interval
-++++
-
-MАC sath osti sathi OSI modelining qaysi sathiga tegishli?
-====
-#kanal sathiga
-====
-tarmoq sathiga
-====
-fizik sathiga
-====
-transport sathiga
-++++
-
-Ingichka koaksial kabel asosida qurilgan tarmoqda kompyuterlar orasidagi eng kichik masofa qanday bo’lishi kerak?
-====
-#1 m
-====
-3 m
-====
-2 m
-====
-5 m
-++++
-
-100Base-TX spetsifikatsiyasi qanday fizik topologiyaga ega?
-====
-#ierarxik yulduz
-====
-yulduz
-====
-umumiy shina
-====
-xalqa
-++++
-
-100Base-TX spetsifikatsiyasi qanday mantiqiy topologiyaga ega?
-====
-#umumiy shina
-====
-yulduz
-====
-ierarxik yulduz
-====
-xalqa
-++++
-
-I va II sinf Fast Ethernet texnologiyasi takrorlagichlari nimasi bilan farq qiladi?
-====
-#Fizik sathiga tegishli mavjud portlari bilan
-====
-Kadrlarni uzatish usuli bilan
-====
-Ma’lumotlarni uzatish tezligi bilan
-====
-Portlarning soni bilan
-++++
-
-Fast Ethernet texnologiyasida RJ-45 ulagichning qaysi kontaktlari ishlatiladi?
-====
-#1,2,3,6
-====
-3,4,5,6
-====
-1,2,3,4
-====
-5,6,7,8
-++++
-
-Ethernet texnologiyasi nechta standartga ega?
-====
-4
-====
-#3
-====
-2
-====
-6
-++++
-
-Fast Ethernet texnologiyasi nechta spetsifikatsiyaga ega?
-====
-#3
-====
-4
-====
-2
-====
-6
-++++
-
-100Base-T4 spetsifikatsiyasida o’ralma juftlik kabeli simlarining nechta jufti ishlatiladi?
-====
-#4
-====
-2
-====
-1
-====
-6
-++++
-
-Umumiy shina topologiyali lokal tarmoqlarda kontsentratorlar qanday?
-====
-#Kompyuter tomonidan uzatilayotgan ma’lumotni barcha kompyuterga yo’naltiradi
-====
-Kompyuter tomonidan uzatilgan ma’lumotni boshqa bir kompyuterga yo’naltiradi
-====
-Kompyuter tomonidan uzatilgan ma’lumotni xalqa orqali keyingi kompyuterga yo’naltiradi
-====
-Tarmoqning ikki segmentini o’zaro bog’laydi
-++++
-
-Qaysi kontsentrator kompyuter tomonidan uzatilayotgan ma’lumotni barcha kompyuterga yo’naltiradi?
-====
-#Ethernet kontsentratori
-====
-Token Ring kontsentratori
-====
-FDDI kontsentratori
-====
-Frame Relay kontsentrator
-++++
-
-Qaysi kontsentrator kompyuter tomonidan uzatilgan ma’lumotni xalqa orqali keyingi kompyuterga yo’naltiradi?
-====
-#Token Ring kontsentratori
-====
-Ethernet kontsentratori
-====
-FDDI kontsentratori
-====
-Frame Relay kontsentratori
-++++
-
-To’g’ridan-to’g’ri ulangan UTP kabelida Tx uzatuvchi sifatida qaysi ranglardagi simlar ishlatiladi?
-====
-#Yashil, oq-yashil
-====
-Ko’k, oq-ko’k
-====
-Qizg’ish-sariq, oq - qizig’ish-sariq
-====
-Jigar rang, oq-jigar rang
-++++
-
-To’g’ridan-to’g’ri ulangan UTP kabelida Rx qabul qiluvchi sifatida qaysi ranglardagi simlar ishlatiladi?
-====
-#Qizg’ish-sariq, oq - qizig’ish-sariq
-====
-Ko’k, oq-ko’k
-====
-Yashil, oq-yashil
-====
-Jigar rang, oq-jigar rang
-++++
-
-Kesishgan holatda ulangan (krossover) UTP kabelida Tx uzatuvchi sifatida qaysi ranglardagi simlar ishlatiladi?
-====
-#Qizg’ish-sariq, oq - qizig’ish-sariq
-====
-Ko’k, oq-ko’k
-====
-Yashil, oq - yashil
-====
-Jigar rang, oq-jigar rang
-++++
-
-Krossover ulangan UTP kabelida Rx qabul qiluvchi sifatida qaysi ranglardagi simlar ishlatiladi?
-====
-#Yashil, oq-yashil
-====
-Ko’k, oq-ko’k
-====
-Sariq, oq-sariq
-====
-Jigar rang, oq-jigar rang
-++++
-
-MSAU qanday vazifani bajaradi?
-====
-#faol bo’lmagan kontsentrator vazifasini
-====
-ko’prikning vazifasini
-====
-faol kontsentratorning vazifasini
-====
-takrorlovchi vazifasini
-++++
-
-FDDI texnologiyasida buzilmasdan ishlash qobiliyatini oshirish qanday ta’minlangan?
-====
-#ikkita optik tolali xalqani hosil qilish asosida
-====
-axborotni keragidan ortiq xolatli kodlar bilan kodlash usulini qo’llash bilan
-====
-xatolarni to’g’irlash qurilmalaridan foydalanish asosida
-====
-intellektual kontsentratorlardan foydalanish asosida
-++++
-
-FDDI texnologiyasining fizik sathi nachta sath osti sathlariga bo’linadi?
-====
-#2
-====
-4
-====
-3
-====
-5
-++++
-
-FDDI texnologiyasida, xalqalarga ko’pi bilan nechta kompyuter ulanishi mumkin?
-====
-#500
-====
-700
-====
-900
-====
-100
-++++
-
-FDDI tarmoqlarida uzatish muhitiga murojaat qilishning qaysi usuli qo’llaniladi?
-====
-#marker asosida murojaat qilishning tezkor usuli
-====
-CSMA/CD
-====
-marker asosida murojaat qilish usuli
-====
-CSTK/QL
-++++
-
-Token Ring tarmoqlarida uzatish muhitiga murojaat qilishning qaysi usuli qo’llaniladi?
-====
-#marker asosida murojaat qilish usuli
-====
-marker asosida murojaat qilishning tezkor usuli
-====
-CSMA/CD
-====
-CSTK/QL
-++++
-
-Keltirilgan texnologiyalarning qaysi birlari lokal tarmoq texnologiyalariga mansub?
-====
-#FDDI, Token Ring
-====
-Frame Relay, Token Ring
-====
-Ethernet, Internet
-====
-ATM, TCP/IP
-++++
-
-FDDI texnologiyasida stantsiyalar orasidagi eng uzoq masofa kanday bo’lishi mumkin?
-====
-#2000m.
-====
-1000 m.
-====
-2500m.
-====
-500 m
-++++
-
-Xalqa topologiyali lokal tarmoqlarda kontsentratorlar qanday funktsiyani bajaradi?
-====
-#Kompyuter tomonidan uzatilgan ma’lumotni xalqa orqali keyingi kompyuterga yo’naltiradi
-====
-Kompyuter tomonidan uzatilgan ma’lumotni barcha kompyuterlarga yo’naltiradi
-====
-Kompyuter tomonidan uzatilgan ma’lumotni boshqa bir kompyuterga yo’naltiradi
-====
-Tarmoqning ikki segmentini o’zaro bog’laydi
-++++
-
-FDDI tarmog’idama’lumotlarni uzatishda qanday murojat kilish usuli qo’llaniladi?
-====
-#Tezlashtirilgan markerli murojaat qilish usuli
-====
-CSMA/CD
-====
-Markerli murojaat qilish usuli
-====
-CSTK/QL
-++++
-
-Token Ring tarmog’ida ma’lumotlarni uzatishda qanday murojat qilish usuli qo’llaniladi?
-====
-#Markerli murojaat qilish usuli
-====
-Tezlashtirilgan markerli murojaat qilish usuli
-====
-CSMA/CD
-====
-CSTK/QL
-++++
-
-FDDI tarmog’ining qaysi elementlari buzilmay ishlash qobiliyatini ta’minlaydi?
-====
-#Ma’lumotlarni uzatish uchun ikkita xalqaning mavjudligi
-====
-Kontsentratorlar
-====
-А sinfga tegishli stantsiyalar
-====
-Kommutatorlar
-++++
-
-Token Ring texnologiyasi kadrining maksimal uzunligi nimaga bog’liq?
-====
-#xalqaning ishlash tezligiga
-====
-ma’lumotlarni uzatish ishonchliligiga
-====
-xalqadagi kompyuterlar soniga
-====
-xalqaning uzunligiga
-++++
-
-Simsiz tarmoqlar standartlari qaysi komitet tarkibida ishlab chiqilmoqda?
-====
-#802.11
-====
-802.7
-====
-802.6
-====
-802.12
-++++
-
-Xozirgi paytda ko’p ishlatiladigan, 802.11 standartiga tegishli spetsifikatsiyani ko’rsating?
-====
-#a, b, g, n, ac
-====
-a, b, d
-====
-a, b, c
-====
-a, b, e
-++++
-
-802.11 spetsifikatsiyasi simsiz lokal tarmog’i diametrining chegaralari qanday?
-====
-#100 - 300 m
-====
-50 - 100 m
-====
-300 – 400 m
-====
-100 -200 m.
-++++
-
-Keltirilgan qisqartmalarning qaysi biri bazaviy yoki asosiy xizmatlar to’plami ko’rsatiladigan tarmoqni anglatadi?
-====
-#BSS
-====
-STA
-====
-ESS
-====
-DSS
-++++
-
-Keltirilgan qisqartmalarning qaysi biri kengaytirilgan (qo’shimcha) xizmatlar to’plamini ko’rsatadigan tarmoqni anglatadi?
-====
-#ESS
-====
-BSS
-====
-STA
-====
-DSS
-++++
-
-BSS deganda nima tushuniladi?
-====
-#Asosiy xizmatlar to’plami ko’rsatiladigan simsiz tarmoq
-====
-Qo’shimcha xizmatlar to’plamini ko’rsatadigan simsiz tarmoq
-====
-Yulduz topologiyasidagi tarmoq
-====
-Halqa topologiyasidagi tarmoq
-++++
-
-ESS deganda nima tushuniladi?
-====
-#Qo’shimcha xizmatlar to’plamini ko’rsatadigan simsiz tarmoq
-====
-Asosiy xizmatlar to’plami ko’rsatiladigan simsiz tarmoq
-====
-Yulduz topologiyasidagi tarmoq
-====
-Xalqa topologiyasidagi tarmoq
-++++
-
-802.11g spetsifikatsiyasida ma’lumotlarni uzatishning maksimal tezligi qanday?
-====
-#54 Mbit/s
-====
-2 Mbit/s
-====
-11 Mbit/s
-====
-1 Mbit/s
-++++
-
-802.11b spetsifikatsiyasida ma’lumotlarni uzatishning maksimal tezligi qanday?
-====
-#11 Mbit/s
-====
-54 Mbit/s
-====
-600 Mbit/s
-====
-1 Mbit/s
-++++
-
-802.11 spetsifikatsiyasi qanday ma’lumotlarni uzatishning maksimal tezligi qanday?
-====
-#2 Mbit/s
-====
-1 Mbit/s
-====
-11 Mbit/s
-====
-54 Mbit/s
-++++
-
-802.11b spetsifikatsiyasi ma’lumotlarni uzatishning maksimal tezligi qanday?
-====
-#11 Mbit/s
-====
-2 Mbit/s
-====
-1 Mbit/s
-====
-54 Mbit/s
-++++
-
-802.11n spetsifikatsiyasi ma’lumotlarni uzatishning maksimal tezligi qanday?
-====
-#600 Mbit/s
-====
-54 Mbit/s
-====
-11 Mbit/s
-====
-6.7 Gbit/s
-++++
-
-802.11ac spetsifikatsiyasi ma’lumotlarni uzatishning maksimal tezligi qanday?
-====
-#6.7 Gbit/s
-====
-600 Mbit/s
-====
-54 Mbit/s
-====
-11 Mbit/s
-++++
-
-802.11 standartiga tegishli topologiyalarning qaysi turlari mavjud?
-====
-#BSS, ESS
-====
-Xalqa,to’liq bog’lanishli
-====
-Umumiy shina, yulduz
-====
-BSS, DSS
-++++
-
-Tarmoqni fizik strukturalashda qaysi qurilma ishlatiladi?
-====
-#takrorlovchi (kontsentrator)
-====
-kommutator
-====
-ko’prik
-====
-shlyuz
-++++
-
-Qaysi qurilma tarmoqning mantiqiy strukturasini o’zgartirishi mumkin?
-====
-#ko’prik, marshrutizator, kommutator va shlyuz
-====
-faqat kommutator
-====
-takrorlovchi
-====
-kontsentrator
-++++
-
-Ethernet kontsentratori qanday vazifani bajaradi?
-====
-#kompyuterdan kelayotgan axborotni qolgan barcha kompyuterga yo’naltirib beradi
-====
-kompyuterdan kelayotgan axborotni boshqa bir kompyuterga yo’naltirib beradi
-====
-kompyuterdan kelayotgan axborotni xalqa bo’ylab joylashgan keyingi kompyuterga
-====
-tarmoqning ikki segmentini bir biriga ulaydi
-++++
-
-Kompyuter tarmog’ining fizik strukturalash nima maqsadda amalga oshiriladi?
-====
-#Tarmoq diametrini oshirish uchun
-====
-Unumdorlikni oshirish uchun
-====
-Internetga ulanish uchun
-====
-Tarmoqosti tarmoqlarini bog’lashni amalga oshirish uchun
-++++
-
-Kompyuter tarmog’ining mantiqiy strukturalash nima maqsadda amalga oshiriladi?
-====
-Internetga ulanish uchun
-====
-Tarmoq diametrini oshirish uchun
-====
-Tarmoqosti tarmoqlarini bog’lashni amalga oshirish uchun
-====
-#Trafikni lokallashtirish uchun
-++++
-
-Kommutator ko’prikdan nimasi bilan farq qiladi?
-====
-#Kadrlarni parallel qayta ishlashda
-====
-Tarmoqqa ulanish usulida
-====
-Kadrlarni uzatish algoritmida
-====
-Kadrlarni uzatish usulida
-++++
-
-OSI modelida nechta sath mavjud?
-====
-#7
-====
-4
-====
-5
-====
-3
-++++
-
-OSI modelining to’rtinchi sathi qanday nomlanadi?
-====
-#Transport sathi
-====
-Аmaliy sath
-====
-Seanslar sathi
-====
-Taqdimlash sathi
-++++
-
-OSI modelining beshinchi sathi qanday nomlanadi?
-====
-#Seanslar sathi
-====
-Аmaliy sath
-====
-Fizik sath
-====
-Transport sathi
-++++
-
-OSI modelining birinchi sathi qanday nomlanadi?
-====
-#Fizik sath
-====
-Seanslar sathi
-====
-Transport sathi
-====
-Taqdimlash sathi
-++++
-
-OSI modelining ikkinchi sathi qanday nomlanadi?
-====
-#Kanal sathi
-====
-Аmaliy sathi
-====
-Fizik sath
-====
-Seanslar sathi
-++++
-
-OSI modelining uchinchi sathi qanday nomlanadi?
-====
-#Tarmoq sathi
-====
-Аmaliy sath
-====
-Kanal sathi
-====
-Taqdimlash sathi
-++++
-
-OSI modelining oltinchi sathi qanday nomlanadi?
-====
-#Taqdimlash sathi
-====
-Аmaliy sath
-====
-Seanslar sathi
-====
-Kanal sathi
-++++
-
- OSI modelining ettinchi sathi qanday nomlanadi?
-====
-#Аmaliy sath
-====
-Seanslar sathi
-====
-Transport sathi
-====
-Taqdimlash sathi
-++++
-
-OSI modelining qaysi sathlari tarmoqqa bog’liq sathlar hisoblanadi?
-====
-#fizik, kanal va tarmoq sathlari
-====
-seans va amaliy sathlar
-====
-amaliy va taqdimlash sathlari
-====
-transport va seans sathlari
-++++
-
-OSI modelining tarmoq sathi vazifalari keltirilgan qurilmalarning qaysi birida bajariladi?
-====
-#Marshrutizator
-====
-Ko’prik
-====
-Tarmoq adapter
-====
-Kontsentrator
-++++
-
-OSI modelining kanal sathi orqali uzatiladigan ma’lumotlarning birligi qanday nomlanadi?
-====
-Kadr
-====
-Paket
-====
-#Kadr
-====
-Oqim
-++++
-
-Elektr signallarini qabul qilish va uzatish vazifalarini OSI modelining qaysi sathi bajaradi?
-====
-#Fizik sath
-====
-Kanal sathi
-====
-Tarmoq sathi
-====
-Transport sathi
-++++
-
-Ma’lumotlarni uzatishning optimal marshrutlarini aniqlash vazifalarini OSI modelining qaysi sathi bajaradi?
-====
-#Tarmoq sathi
-====
-Kanal sathi
-====
-Аmaliy sath
-====
-Transport sathi
-++++
-
-Mijozlar dasturlari bilan o’zaro muloqot vazifalarini OSI modelining qaysi sathi bajaradi?
-====
-#Аmaliy sath
-====
-Kanal sathi
-====
-Tarmoq sathi
-====
-Fizik sath
-++++
-
-Keltirilgan protokollarning qaysilari tarmoq sathi protokollariga mansub?
-====
-#IP, IPX
-====
-NFS, FTP
-====
-Ethernet, FDDI
-====
-TCP,UDP
-++++
-
-Keltirilgan protokollarning qaysilari transport sathi protokollariga mansub?
-====
-#TCP,UDP
-====
-NFS, FTP
-====
-IP, IPX
-====
-Ethernet, FDDI
-++++
-
-Keltirilgan protokollarning qaysilari amaliy sathi protokollariga mansub?
-====
-#NFS, FTP
-====
-TCP,UDP
-====
-10Base-T, 100Base-TX
-====
-IP, IPX
-++++
-
-Keltirilgan vazifalardan qaysi biri umumiy kommutatsiyalash vazifasiga tegishli emas?
-====
-#axborotni indekslash
-====
-oqimlarni xarakatlantirish
-====
-multipleksirlash va demultipleksirlash
-====
-marshrutizatsiyalash
-++++
-
-OSI modelining fizik sathi qanday funktsiyalarni bajaradi?
-====
-#Elektr signallarini uzatish va qabul qilish
-====
-Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-====
-Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-====
-Klient dasturlari bilan o’zaro muloqotda bo’lish
-++++
-
-OSI modelining kanal sathi qaysi funktsiyalarni bajaradi?
-====
-#Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-====
-Klient dasturlari bilan o’zaro muloqotda bo’lish
-====
-Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-====
-Ma’lumotlarni kodlash va shifrlash
-++++
-
-OSI modelining tarmoq sathi qanday funktsiyalarni bajaradi?
-====
-#Ma’lumotlarni uzatish marshrutlarini optimalini aniqlash
-====
-Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-====
-Ma’lumotlarni qabul qilish va uzatish jarayonida, ma’lumotlarni to’liq va to’g’ri uzatilishini nazorat qilish
-====
-Эlektr signallariniuzatish va qabul qilish
-++++
-
-OSI modelining transport sathi qanday funktsiyalarni bajaradi?
-====
-#Ma’lumotlarni qabul qilish va uzatish jarayonida, ma’lumotlarni to’liq va to’g’ri uzatilishini nazorat qilish
-====
-Klient dasturlari bilan o’zaro muloqotda bo’lish
-====
-Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-====
-Ma’lumotlarni uzatish marshrutlarini optimalini aniqlash
-++++
-
-OSI modeliningseanslar sathi qanday funktsiyalarni bajaradi?
-====
-#Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-====
-Klient dasturlari bilan o’zaro muloqotda bo’lish
-====
-Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-====
-Эlektr signallariniuzatish va qabul qilish
-++++
-
-OSI modelining taqdimlash sathi qanday funktsiyalarni bajaradi?
-====
-#Ma’lumotlarni kodlash va shifrlash
-====
-Klient dasturlari bilan o’zaro muloqotda bo’lish
-====
-Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-====
-Эlektr signallariniuzatish va qabul qilish
-++++
-
-Аloqa kanaliga va uzatish muhitiga ulanishni boshqarish vazifalarini OSI modelining qaysi sathi bajaradi?
-====
-#Kanal sathi
-====
-Fizik sath
-====
-Tarmoq sathi
-====
-Transport sathi
-++++
-
-Ma’lumotlarni uzatish jarayonida ularni to’liq va to’g’ri uzatilishini nazorat qilish vazifalarini OSI modelining qaysi sathi bajaradi?
-====
-#Transport sathi
-====
-Kanal sathi
-====
-Tarmoq sathi
-====
-Seanslar sathi
-++++
-
-Аloqa seansini hosil qilish, kuzatib turish va ohirigacha ta’minlab berish vazifalarini OSI modelining qaysi sathi bajaradi?
-====
-#Seanslar sathi
-====
-Kanal sathi
-====
-Tarmoq sathi
-====
-Transport sathi
-++++
-
-Talab qilinadigan algoritmlar yordamida ma’lumotlarni kodlash va shifrlash vazifalarini OSI modelining qaysi sathi bajaradi?
-====
-#Taqdimlash sathi
-====
-Seanslar sathi
-====
-Tarmoq sathi
-====
-Transport sathi
-++++
-
-OSI modeliningamaliy sathi qanday funktsiyalarni bajaradi?
-====
-#Klient dasturlari bilan o’zaro muloqotda bo’lish
-====
-Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-====
-Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-====
-Эlektr signallariniuzatish va qabul qilish
-++++
-
-Keltirilgan protokollarning qaysilari kanal sathi protokollariga mansub?
-====
-#Ethernet, FDDI
-====
-NFS, FTP
-====
-IP, IPX
-====
-TCP,UDP
 ++++
-
-Keltirilgan protokollarning qaysilari fizik sath protokollariga mansub?
-====
-#10Base-T, 100Base-TX
-====
-TCP,UDP
-====
-IP, IPX
-====
-NFS, FTP
-++++
-
-Keltirilgan protokollarning qaysilari taqdimlash sathi protokollariga mansub?
-====
-#SNMP, Telnet
-====
-IP, IPX
-====
-Ethernet, FDDI
-====
-TCP,UDP
-++++
-
-Keltirilgan protokollarning qaysilari saenslar sathi protokollariga mansub?
-====
-#RPC, WSP
-====
-NFS, FTP
-====
-IP, IPX
+Elektr zanjirda tok kuchining o‘lchov birligi nimada o‘lchanadi?
 ====
-TCP,UDP
-++++
-
-Kompyuter bilan tashqi qurilma o’rtasida ma’lumotlarni uzatish paytida ularni to’gri uzatilganligi qanday tekshiriladi?
-====
-#paritet biti asosida
-====
-stop biti asosida
-====
-kontrol summani sanash bilan
-====
-paketni uzunligini sanash bilan
-++++
-
-Kompyuterdan tashqi qurilmaga ma’lumotlarni asinxron rejimda uzatayotganda bitta simvolga to’g’ri keladigan paketning uzunligi qanday bo’ladi?
+#Amper
 ====
-#11 bit
+Volt
 ====
-12 bit
+Vatt
 ====
-16 bit
-====
-18 bit
-++++
-
-Keltirilgan qurilmalarning qaysi biri DCE bo’ladi?
-====
-#modem
-====
-marshrutizator
-====
-kompyuter
-====
-klaviatura
-++++
+Om
 
-Keltirilgan qurilmalarning qaysi biri DTE bo’ladi?
-====
-kompyuter va marshrutizator
-====
-modem
-====
-#kompyuter va marshrutizator
-====
-aloqa chiziqlari
 ++++
-
-Keltirilgan tafsiflarning qaysilari, ham aloqa chiziqlariga, ham ma’lumotlarni uzatish usullariga tegishli tavsiflar hisoblanadi?
+Ikkita p-n o‘tishga va uchta elektrodga ega bo‘lgan, signallarni tok, kuchlanish va quvvat bo‘yicha kuchaytiruvchi yarimo‘tkazgichli asbob qanday ataladi?
 ====
-#o’tkazish qobiliyati va ishonchliligi
+#bipolyar tranzistor
 ====
-amplituda-chastotali tavsif
+unipolyar tranzistor
 ====
-o’tkazuvchanlik chegaralari
+Diod
 ====
-xatoliklar sodir bo’lish extimolligining kamaishi
-++++
+stablitron
 
-UTP kabeli deganda qaysi kabel tushuniladi?
-====
-#o’ralma juftlik kabeli
-====
-yo’g’on koaksial kabel
-====
-ingichka koaksial kabel
-====
-optik tolali kabel
 ++++
-
-Modem qanday asosiy vazifani bajaradi?
+Yuqori va o‘ta yuqori chastotali qurilmalarda ishlatish uchun mo‘ljallangan diodlar qanday nomlanadi?
 ====
-#Signallarni modulyatsiyalash - demodulyatsiyalash
+#yuqori chastotali diodlar
 ====
-parallel kodni ketma-ket kodga o’zgartirish
+to‘g‘rilovchi diodlar
 ====
-skrэmbrlash va deskrэmbrlash
+impulsli diodlar
 ====
-analog signallarni raqamli kodga o’zgartirish
-++++
+tunelli diodlar
 
-Keltirilgan standartlarning qaysi biri axborotni 57600 bit/s tezlikda qabul qiladi va uzata oladi?
-====
-#V.92
-====
-V.90
-====
-V.30
-====
-V.40
 ++++
-
-Аnalog signallarni diskret modulyatsiyalash nimaga asoslanadi?
+Diffuziya tokiga qarama-qarshi yo‘nalgan va kuchlanganlik ta’siri ostidagi noasosiy zaryad tashuvchilarning harakatini ifodalovchi tok qanday ataladi?
 ====
-#Naykvist-Kotelnikovlarning akslanish nazariyasiga
+#dreyf
 ====
-Boltsman nazariyasiga
+teshikli
 ====
-Shennon nazariyasiga
+teskari
 ====
-Flin nazariyasiga
-++++
+elektron
 
-Kodlarning qaysi biri kuchlanishning to’rtta sathidan foydalanadi?
-====
-#2V1Q
-====
-AMI
-====
-NRZ
-====
-NRZI
 ++++
-
-Kompyuterdan modemga ma’lumotlarni uzatish uchun interfeysning qaysi ulanish nuqtasidan foydalaniladi?
+Yarimo‘tkazgichli asboblarni ko‘rsating.
 ====
-#TXD
+#diod, tiristor, tranzistor
 ====
-RXD
+induktivlik, qarshilik, stablitron
 ====
-RTS
+kodensator, transformator, simistor
 ====
-CTS
-++++
+induktivlik, kodensator, MDYa tranzistor
 
-Modemdan kompyuterga ma’lumotlarni qabul qilish uchun interfeysning qaysi ulanish nuqtasidan foydalaniladi?
-====
-#RXD
-====
-TXD
-====
-RTS
-====
-CTS
 ++++
-
-DCE qaysi signal orqali aloqa o’rnatilganligi haqidagi xabarni beradi?
+Elektr tokining elektromagnit harakatidan foydalaniladigan texnik qurilmalar:
 ====
-DSR
+#elektr dvigatellar va generatorlar
 ====
-CTS
+yoritgich asboblari
 ====
-#DCD
+isitgich asboblari
 ====
-DTR
-++++
+elektr uzatish liniyalari
 
-Kompyuter bilan tashqi qurilma o’rtasidagi interfeys ishi qanday amalga oshirilgan?
-====
-#kontroller va drayver yordamida
-====
-drayver yordamida
-====
-kontroller yordamida
-====
-markaziy protsessor yordamida
 ++++
-
-Keltirilgan modulyatsiyalarning qaysi biri analog modulyatsiyaga mansub?
+Elektr signallarining fazasini o‘lchaydigan asbob bu ...
 ====
-#chastotali
+#fazometr
 ====
-amplituda-impulsli
+vattmetr
 ====
-kodli-impulsli
+chastotamer
 ====
-vaqt-impulsli
-++++
+ampermetr
 
-Keltirilgan modulyatsiyalarning qaysi biri diskret modulyatsiyaga mansub?
-====
-#amplituda-impulsli
-====
-chastotali
-====
-amplitudali
-====
-fazali
 ++++
-
-Internet tarmog’ida kommutatsiyalashning qaysi xili ishlatiladi?
+Quvvat … da o‘lchanadi.
 ====
-#paketlarni kommutatsiyalash
+#Vatt
 ====
-kanallarni kommutatsiyalash
+Volt
 ====
-xabarlarni kommutatsiyalash
+Amper
 ====
-alohida ajratilgan kanallarni kommutatsiyalash
-++++
+Om
 
-IP-manzili qanday maydonlardan iborat?
-====
-#Tarmoq manzilining maydoni, bog’lash manzilining maydoni
-====
-Operator manzilining maydoni, bog’lash manzilining maydoni
-====
-Tarmoq manzilining maydoni, MАC manzilining maydoni
-====
-Tarmoq manzilining maydoni, tarmoqosti tarmoq manzilining maydoni
 ++++
-
-Kompyuter tarmog’ining aktiv qurilmalari tarkibiga qaysi qurilmalar kiradi?
+Elektromagnit – bu … 
 ====
-#Tarmoq adapteri,kontsentrator
+#po‘lat o‘zakli induktiv g‘altak
 ====
-Kross-panel, montaj shkafi
+spiral ko‘rinishli o‘tkazgich
 ====
-Tarmoq kabeli,RJ-45 rozetkasi
+alyuminiy o‘tkazgichli g‘altak
 ====
-Marshrutizator, kross-panel
-++++
+spiralli g‘altak
 
-Kompyuter tarmog’ining passiv qurilmalari tarkibiga qaysi qurilmalar kiradi?
-====
-#Tarmoq kabeli, RJ-45 rozetkasi
-====
-Kommutator, montaj shkafi
-====
-Tarmoq adapteri,kontsentrator
-====
-Kontsentrator, kross-panel
 ++++
-
-Ovozni sifatli uzatish uchun tovushli tebranishlar amplitudasini kvantlashda qanday chastota ishlatiladi?
+Elektr tokining elektromagnit harakati quyidagi qurilmalarda ishlatiladi:
 ====
-#8000 Gts
+#relelarda
 ====
-300 Gts
+batareyalarda
 ====
-6400 Gts
+stol lanpasida
 ====
-3400 Gts
-++++
+akkumulyatorda
 
-Raqamli telefon tarmoqlarida 64 Kbit/s o’tkazuvchanlik qobiliyati nimaga asosan tanlab oligan?
-====
-#Kotelnikov-Naykvist teoremasi asosida
-====
-Fure qatori asosida
-====
-Bayes qonuni asosida
-====
-Bartlet mezoni asosida
 ++++
-
- MАC-adres qanday uzunlikka ega?
+Elektr zanjirida  aktiv qarshilik qaysi harf bilan belgilanadi?
 ====
-#48 bit
+#R
 ====
-32 bit
+U
 ====
-16 bit
+I
 ====
-64 bit
-++++
+C
 
-IPv4 turidagi IP-adres qanday uzunlikka ega?
-====
-#32 bit
-====
-16 bit
-====
-48 bit
-====
-64 bit
 ++++
-
-192.190.21.254 adresi IP-adreslarning qaysi sinfiga tegishli?
+Elektr zanjirida kondensator qaysi harf bilan belgilanadi?
 ====
 #C
 ====
-B
+L
 ====
-А
+R
 ====
-D
+U
+
 ++++
+Elektr zanjirida induktiv g‘altak qaysi harf bilan belgilanadi?
+====
+#L
+====
+C
+====
+R
+====
+U
 
- B sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
-====
-#65536
-====
-256
-====
-512
-====
-1024
 ++++
+Elektr zanjirida EYUK manbasi qaysi harf bilan belgilanadi?
+====
+#E
+====
+L
+====
+R
+====
+I
 
-А sinfidagi tarmoq tarkibida nechta bog’lam bo’lishi mumkin?
-====
-#16777216
-====
-256
-====
-65536
-====
-1024
 ++++
+Elektr zanjirida tok zichligi qaysi harf bilan belgilanadi?
+====
+#J
+====
+E
+====
+C
+====
+R
 
-B sinfidagi tarmoq maskasi qanday qiymatga ega?
-====
-#255.255.0.0
-====
-255.0.0.0
-====
-255.255.255.0
-====
-255.255.254.0
 ++++
+Dielektrik bilan ajratilgan ikkita o‘tkazgichdan tashkil topgan qurilma qanday nomlanadi?
+====
+#kondensator
+====
+rezistor
+====
+induktiv g‘altak
+====
+o‘lchov transformatori
 
-DTE qaysi signal yordamida o’zini ishlayotganligini va DCE aloqa kanaliga ulanishi mumkinligi haqidagi xabarni beradi?
-====
-DCD
-====
-DSR
-====
-CTS
-====
-#DTR
 ++++
+O‘zgaruvchan kattalik o‘zining o‘zgarishlarini to‘liq amalga oshiradigan vaqt qanday ataladi?
+====
+#davr
+====
+chastota
+====
+amplituda
+====
+burchak chastotasi
 
-Kabel standartlarining qaysi biri EIA/TIA-568A abbreviaturasiga ega?
-====
-#Аmerika standarti
-====
-xalqaro standart
-====
-evropa standarti
-====
-IBM kompaniyasi standarti
 ++++
-
-RS-232C/V.24 interfeysida ulagichning qaysi modifikatsiyasi ishlatilgan?
+n ta element parallel ulanganda kuchlanish (U) quyidagicha … hisoblanadi.
 ====
-#9 va 25 ta ulanish nuqtalariga ega bo’lgani
+# U=U1=U2=U3...=Un
 ====
-15 va 30 ta ulanish nuqtalariga ega bo’lgani
+ U=1/U1+1/U2+1/U3+....1/Un
 ====
-10 va 25 ta ulanish nuqtalariga ega bo’lgani
+U=U1+U2+U3+....+Un
 ====
-12 va 24 ta ulanish nuqtalariga ega bo’lgani
-++++
-
-DTE va aloqa kanali o’rtasida uzatilayotgan signallarni o’zaro moslab uzatish qanday amalga oshiriladi?
-====
-#modulyatsiyalash va kodlash bilan
-====
-modulyatsiyalash bilan
-====
-kodlash bilan
-====
-shifrlash va deshifrlash Bilan
-++++
-
-Kompyuter tarmoqlarida ma’lumotlarni uzatishda, kodlash deganda nima tushuniladi?
-====
-ma’lumotlarni aloqa kanallaridagi ta’sirlar natijasida paydo bo’ladigan xatoliklarni aniqlash va to’g’irlash mumkin bo’ladigan ko’rinishga o’zgartirish
-====
-ma’lumotlarni aloqa kanallaridagi ta’sirlar natijasida paydo bo’ladigan xatoliklarni aniqlash va to’g’irlash mumkin bo’ladigan ko’rinishga o’zgartirish
-====
-#simvollarning kompyuterdagi kodlarini, aloqa kanallari orqali uzatiladigan kodlarga o’zgartirish
-====
-signalni aloqa kanali chastotasiga o’tkazish
-++++
-
-Modulyatsiyalashning diskret xili nimaga asoslangan?
-====
-#signallarni ham amplitudasi, ham vaqt bo’yicha diskretlash
-====
-signallarni vaqt bo’yicha diskretlash
-====
-signallarni amplitudasi bo’yicha diskretlash
-====
-signallarni vaqt bo’yicha kvantlash
-++++
-
-Tarmoq orqali uzluksiz signalni raqamli ko’rinishda uzatilayotganda vaqt oralig’ining qanday qiymatini e’tibor bilan saqlab turish kerak?
-====
-#125 mks
-====
-200 mks
-====
-100 mks
-====
-150 mks
-++++
-
-C sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
-====
-#256
-====
-65536
-====
-512
-====
-1024
-++++
-
-А sinfidagi tarmoq maskasi qanday qiymatga ega?
-====
-#255.0.0.0
-====
-255.255.0.0
-====
-255.255.255.0
-====
-255.0.0
-++++
-
-C sinfidagi tarmoq maskasi qanday qiymatga ega?
-====
-#255.255.255.0
-====
-255.0.0.0
-====
-255.255.0.0
-====
-255.255.240.0
-++++
-
-512 ta bog’lamli tarmoqosti tarmoq maskasi qanday qiymatga ega?
-====
-#255.255.254.0
-====
-255.255.0.0
-====
-255.255.255.0
-====
-255.255.240.0
-++++
-
-Internet tarmog’i, kompyuter tarmoqlarining qaysi sinfiga mansub?
-====
-#global tarmoq
-====
-lokal tarmoq
-====
-shahar tarmog’i
-====
-korporativ tarmog’i
-++++
-
- Keltirilgan texnologiyalarning qaysi birlari global tarmoq texnologiyalariga mansub?
-====
-#ATM, TCP/IP
-====
-X.25, FDDI
-====
-Frame Relay, Token Ring
-====
-Ethernet, Internet
-++++
-
-MAN tarmoqlari nima uchun mo’ljallangan?
-====
-#Yirik shaxar axolisiga xizmat ko’rsatish uchun
-====
-Internetga korxonalar tarmoqlarini ulash uchun
-====
-Faqat bir nechta lokal tarmoqlarni bog’lash uchun
-====
-Faqat korporativ tarmoqning filiallarini ulash uchun
-++++
-
-Qaysi global tarmoqlarda paketlarni marshrutlashning har-xilidan foydalanilgan?
-====
-Frame relay va АTM
-====
-Frame relay va TCP/IP
-====
-АTM va  X.25
-====
-#Frame relay va X.25
-++++
-
-Xizmatlarni boshqarish markazlarida qanday axborotlar saqlanadi?
-====
-#Foydalanuvchilar uchun mo’ljallangan axborot, xizmat ko’rsatish uchun mo’ljallangan axborot
-====
-Foydalanuvchilarning barchasiga yuborilishi kerak bo’lgan axborot
-====
-Maxfiy axborot
-====
-Yangiliklar
-++++
-
-Аloqa kanallari orqali ko’p sonli foydalanuvchilarning qurilmalaridan kelayotgan axborot oqimlarini yig’ib berish vazifasini qanday tarmoq bajaradi?
-====
-#Ulanish tarmog’i
-====
-Magistral tarmoq
-====
-Korporativ tarmoq
-====
-Kampus tarmog’i
-++++
-
-Ulanish tarmoqlarini bog’lashni va yuqori tezlikdagi kanallar orqali trafik tranzitini ta’minlashni, qaysi tarmoq amalga oshiradi?
-====
-#Magistral tarmoq
-====
-Аloqa operatorlari tarmog’i
-====
-Korporativ tarmoq
-====
-Bino tarmog’i
-++++
-
-IPv6 turidagi IP-adres qanday uzunlikka ega?
-====
-#128 bit
-====
-32 bit
-====
-48 bit
-====
-64 bit
-++++
-
-Masofa-vektorli marshrutlash protokollari qaysi javobda to'g'ri keltirilgan?
-====
-#RIP, IGRP, EIGRP
-====
-OSPF, IGRP, EIGRP
-====
-RIP, OSPF
-====
-OSPF
-++++
-
-Marshrutlashning tashqi shlyuz protokollari qaysi javobda to'g'ri keltirilgan?
-====
-#Exterior Gateway Protocol (EGP), Border Gateway Protocol (BGPv4)
-====
-Border Gateway Protocol (BGPv4), Interior Gateway Protocol  (IGP)
-====
-Interior Gateway Protocol  (IGP), Exterior Gateway Protocol (EGP)
-====
-Interior Gateway Protocol  (IGP)
-++++
-
-Marshrutlashning ichki shlyuz protokollari qaysi javobda to'g'ri keltirilgan?
-====
-#Interior Gateway Protocol  (IGP)
-====
-Exterior Gateway Protocol (EGP), Border Gateway Protocol (BGPv4)
-====
-Interior Gateway Protocol  (IGP), Exterior Gateway Protocol (EGP)
-====
-Border Gateway Protocol (BGPv4), Interior Gateway Protocol  (IGP)
-++++
-
-Simli tarmoq standarti qaysi javobda to’g’ri ko’rsatilgan?
-====
-#IEEE 802.3; 
-====
-IEEE 802.1; 
-==== 
-IEEE 802.2;
-==== 
-IEEE 802.5;
-++++
-
-IEEE 802.3u standartining maksimal o’tkazish tezligi qanday?
-====
- #100 Mbit/s; 
-==== 
-1000 Mbit/s; 
-==== 
-10 Gbit/s; 
-==== 
-1 Gbit/s;
-++++
-
-IEEE 802.3 ab standartining maksimal o’tkazish tezligi qanday?
-====
- #1000 Mbit/s; 
-==== 
-100 Mbit/s; 
-==== 
-10 Gbit/s; 
-==== 
-1 Gbit/s;
-++++
-
-IEEE 802.3 an standartining maksimal o’tkazish tezligi qanday?
-====
-#10 Gbit/s; 
-==== 
-100 Mbit/s; 
-==== 
-1000 Mbit/s; 
-==== 
-1 Gbit/s;
-++++
-
-Simli tarmoqning umumiy o'tkazuvchanligi qanchagacha yetishi mumkin:
-====
-# 2000 Mbit/s; 
-==== 
-1000 Mbit/s; 
-==== 
-10 Gbit/s; 
-==== 
-1 Gbit/s; 
-++++
-
-5-kategoriyali o’rama juft kabeli qancha masofagacha samarali ishlay oladi?
-====
- #100 m.; 
-==== 
-200 m.; 
-==== 
-300 m.; 
-==== 
-400 m.
-++++
-
-5e-kategoriyali o’rama juft kabeli o’tkazish qobiliyati qancha?
-====
-# 2 ta juftdan foydalanilganda 100 Mbit/s gacha va 4 ta juftdan foydalanilganda 1 Gbit/s gacha;
-==== 
-100 Mbit/s gacha;
-==== 
-4 ta juftdan foydalanilganda 1 Gbit/s gacha va kabel uzunligi 55 metrdan oshmaganda 10 Gbit/s gacha;
-==== 
-2 ta juftdan foydalanilganda 1 Gbit/s gacha;
-++++
-
-6-kategoriyali o’rama juft kabelining o’tkazish qobilati qancha?
-====
- #250 MHz; 
-==== 
-125 MHz; 
-==== 
-500 MHz; 
-==== 
-100 MHz.
-++++
-
-802.11 ac standartining maksimal o’tkazish tezligi qancha?
-====
-# 6,77 Gbit/s; 
-==== 
-1000 Mbit/s; 
-==== 
-54 Mbit/s; 
-==== 
-600 Mbit/s
-++++
-
-802.11g standartining maksimal o’tkazish tezligi qancha?
-====
-# 54 Mbit/s; 
-==== 
-1000 Mbit/s; 
-==== 
-55 Mbit/s; 
-==== 
-600 Mbit/s
-++++
-
-Tarmoq arxitekturasi – bu…?
-====
- #topologiyalar, ma’lumot uzatish muhitiga kirish usullari va protokollarining kombinatsiyasi;
-==== 
-ma'lumotlarni uzatish muhiti va protokollariga kirish usullari;
-==== 
-topologiyalar kombinatsiyasi, ma'lumotlarni uzatish muhitiga kirish usullari;
-==== 
-ma'lumotlarni uzatish tarmog'ining amalga oshirilgan tuzilmasi, uning topologiyasi, qurilmalar tarkibi va ularning tarmoqdagi o'zaro ta'siri qoidalari;
-++++
-
-Tarmoq elementi – bu…?
-====
- bir yoki bir nechta jismoniy qurilmalarni birlashtirgan boshqariladigan mantiqiy ob'ekt;
-==== 
-bitta qurilmani birlashtirgan boshqariladigan mantiqiy ob'ekt;
-==== 
-#bitta qurilmani birlashtirgan boshqariladigan jismoniy ob'ekt;
-==== 
-bitta jismoniy qurilmani birlashtirgan boshqariladigan mantiqiy ob'ekt;
-++++
-
-Tengdosh arxitekturasi (peer-to-peer architecture) axborot tarmog'i kontseptsiyasi bo'lib …
-====
-# uning resurslari barcha tizimlar bo'ylab taqsimlangan;
-==== 
-unda barcha ma'lumotlarni qayta ishlash bir yoki bir nechta asosiy kompyuterlar tomonidan amalga oshiriladi;
-==== 
-uning resurslarining asosiy qismi o'z mijozlariga xizmat ko'rsatadigan serverlarda joylashgan
-==== 
-uning resurslari Internetda joylashgan.
-++++
-
-Mijoz-server arxitekturasi axborot tarmog'ining kontseptsiyasi bo'lib, …
-====
-# uning resurslarining asosiy qismi o'z mijozlariga xizmat ko'rsatadigan serverlarda joylashgan;
-==== 
-uning resurslari barcha tizimlar bo'ylab taqsimlangan;
-==== 
-uning resurslari Internetda joylashgan;
-==== 
-uning resurslari barcha tizimlar bo'ylab taqsimlangan;
-++++
-
-Terminal arxitekturasi – asosiy kompyuter (terminal – host computer architecture) - axborot tarmog'i kontseptsiyasi bo'lib, …
-====
- uning resurslari barcha tizimlar bo'ylab taqsimlangan;
-==== 
-#uning resurslarining asosiy qismi o'z mijozlariga xizmat ko'rsatadigan serverlarda joylashgan;
-==== 
-uning resurslari barcha tizimlar bo'ylab taqsimlangan;
-==== 
-uning resurslari Internetda joylashgan;
-++++
-
-Barcha ma'lumotlarni qayta ishlash bir yoki bir nechta asosiy kompyuterlar tomonidan amalga oshiriladigan arxitektura?
-====
-# texminal xost;
-==== 
-mijoz-server;
-==== 
-tengdosh;
-==== 
-fayl-server;
-++++
-
-Resurslarining asosiy qismi o'z mijozlariga xizmat ko'rsatadigan serverlarda joylashgan arxitektura?
-====
-# mijoz-server;
-==== 
-texminal xost;
-==== 
-tengdosh;
-==== 
-fayl-server;
-++++
-
-Resurslari barcha tizimlar bo'ylab taqsimlangan arxitektura?
-====
-# tengdosh;
-==== 
-texminal xost;
-==== 
-mijoz-server;
-==== 
-fayl-server;
-++++
-
-Protokollar steki bu:
-====
-# o'zaro bog'lanishni tashkil etish uchun etarli bo'lgan turli darajadagi kelishilgan protokollar to'plami;
-==== 
-o'zaro ishlash uchun etarli bo'lgan bir qatlamli protokollarning kelishilgan to'plami;
-==== 
-o'zaro ishlash uchun etarli bo'lgan ikki qatlamli protokollarning kelishilgan to'plami;
-==== 
-o'zaro ishlashni tashkil qilish uchun etarli bo'lgan uchta qatlamli kelishilgan protokollar to'plami;
-++++
-
-Interfeys bu:
-====
- #funksiya-so'rovlar to'plami;
-==== 
-protseduralar majmui;
-==== 
-protokollar to'plami;
-==== 
-dasturiy ta'minot to'plami;
-++++
-
-TCP/IP protokollar steki nechta pog’onadan iborat?
-====
-# 4 ta;  
-==== 
-3 ta;  
-==== 
-7 ta; 
-==== 
-6 ta;
-
-TCP/IP protokollar stekining birinchi pog’onasi:
-====
-# tarmoq interfeyslari; 
-==== 
-tarmoq;  
-==== 
-transport;  
-==== 
-amaliy
-++++
-
-TCP/IP protokollar stekining ikkinchi pog’onasi:
-====
-# tarmoq; 
-==== 
-tarmoq interfeyslari; 
-==== 
-transport;  
-==== 
-amaliy
-++++
-
-TCP/IP protokollar stekining uchunchi pog’onasi:
-====
-# transport; 
-==== 
-tarmoq interfeyslari;  
-==== 
-tarmoq;  
-==== 
-amaliy
-++++
-
-TCP/IP protokollar stekining to’rtinchi pog’onasi:
-====
-# amaliy; 
-==== 
-tarmoq interfeyslari;  
-==== 
-tarmoq;  
-==== 
-transport
-++++
-
-Tarmoq pog’onasining asosiy vazifasi nima?
-====
-# ma’lumotlarni yetkazib berish uchun marshrut ishlab chiqish;
-==== 
-amaliy dasturlar bilan ishlash;
-==== 
-ma’lumotlarni ishonchli yetkazib berish;
-==== 
-ma’lumotlarni tarmoq bo’ylab harakatlantirish.
-++++
-
-Transport pog’onasining asosiy vazifasi nima?
-====
- #ma’lumotlarni ishonchli yetkazib berish;
-==== 
-ma’lumotlarni yetkazib berish uchun marshrut ishlab chiqish;
-==== 
-amaliy dasturlar bilan ishlash;
-==== 
-ma’lumotlarni tarmoq bo’ylab harakatlantirish.
-++++
-
-Transport pog’onasi protokollari:
-====
-# tcp, udp;  
-==== 
-ip, tcp;  
-==== 
-http, https, ftp;  
-==== 
-ip, icmp;
-++++
-
-Tarmoq pog’onasi OSI modelining qaysi pog’onasiga mos keladi?
-====
-# 3; 	
-==== 
-2;	
-==== 
-4;	
-==== 
-7;
-++++
-
-Tarmoq pog’onasi TCP/IP protokollar stekining qaysi pog’onasiga mos keladi?
-====
+1/U=U1+U2+U3+...+Un
  
-#2; 
-==== 
-3; 
-==== 
-4; 
-==== 
-1.
 ++++
-
-Tarmoq pog’onasining vazifasi nima?
+Elektr zanjirning tugunidagi toklarning algebraik yig‘indisi 0 ga teng. Bu qaysi qonunga tegishli ta’rif?
 ====
-# jo'natuvchidan qabul qiluvchiga paketlarni yetkazib berish uchun marshrutni ishlab chiqish;
-==== 
-jo'natuvchidan qabul qiluvchiga paketlarni yetkazib berish;
-==== 
-aloqa seansini o’rnatish;
-==== 
-transport pog’onasi va amaliy jarayonlar o’rtasidagi interfeys. 
-++++
-
-Marshrutlash bu:
+#Kirxgofning birinchi qonuni
 ====
-# bu tarmoq trafigini yuborish uchun qaysi yo'llarni tanlash va paketlarni tanlangan pastki tarmoq bo'ylab yuborish jarayoni;
-==== 
-paketlarni qabul qiluvchiga yetkazib berish;
-==== 
-yuboruvchi va qbul qiluvchi uchun oldindan aloqa kanalini band qilish;
-==== 
-ma’lumotni tarmoq bo’ylab harakatlantirish;
-++++
-
-Tarmoq pog’onasida ma’lumotlarni marshrutlash uchun qanday qurilmalardan foydalaniladi?
+Kirxgofning ikkinchi qonuni
 ====
-# router, L3 switch; 
-==== 
-router, L2 switch; 
-==== 
-L2 switch; 
-==== 
-hub, switch, NIC.
-++++
-
-Tarmoq pog’onasi protokollari qaysi javobda to’g’ri ko’rsatilgan?
+Om qonuni
 ====
-# IP, ICMP;  
-==== 
-TCP, IP;  
-==== 
-FTP, HTTP; 
-==== 
-TCP, UDP.
-++++
+Djoul – Lens qonuni
 
-Marshrutlashning masofa vektor protokollari qaysi javobda tog’ri ko’rsatilgan?
-====
-# RIP, IGP, EIGP; 
-==== 
-OSPF, RIP; 
-==== 
-OSPF, IS-IS; 
-==== 
-IGP, EIGP, IS-IS.
 ++++
+O‘zbekistonda qanday chastotali o‘zgaruvchan sinusoidal tokdan foydalaniladi?
+====
+#50 Hz
+====
+60 Hz
+====
+75 Hz
+====
+100 Hz
 
-Marshrutlashning aloqa holati protokollari qaysi javobda tog’ri ko’rsatilgan?
-====
-# OSPF, IS-IS; 
-==== 
-OSPF, RIP; 
-==== 
-RIP, IGP, EIGP; 
-==== 
-IGP, EIGP, IS-IS.
 ++++
+Bitta rezistorga ikkinchisi ketma-ket ulanganda, umumiy qarshilik …
+====
+#ortadi
+====
+o‘zgarmaydi
+====
+kamayadi
+====
+0 ga teng bo‘ladi
+++++
+O‘tkazgichlarga tegishli bo‘lmagan moddani ko‘rsating.
+====
+#kremniy
+====
+alyuminiy
+====
+oltin
+====
+mis
 
-Marshrutlash – bu: 
-====
-# tarmoq trafigini yuborish uchun qisqa yo'llarni tanlash va paketlarni tanlangan pastki tarmoq bo'ylab yuborish jarayoni;
-==== 
-paket uchun eng uzoq yo’lni tanlash;
-==== 
-paketlarni bo’laklash;
-==== 
-paketni qabul qilish.
 ++++
+Elektr o‘tkazuvchanligi bo‘yicha o‘tkazgich va dielektriklar orasidagi o‘rinni egallovchi modda bu …
+====
+#yarim o‘tkazgichlar
+====
+paramagnetiklar
+====
+izolyatorlar
+====
+metallar
 
-IP protokoli qachon ishlab chiqilgan?
-====
-# 1981 yil; 
-==== 
-1983 yil; 
-==== 
-1985 yil; 
-==== 
-1987 yil;
 ++++
+Tok o‘tayotganda o‘tkazgichda ajratiladigan issiqlik miqdori nimaga bog‘liq?
+====
+#tok, o‘tkazgich qarshiligiga va o‘tish vaqtiga
+====
+o‘tkazgich parametrlariga
+====
+xona haroratiga
+====
+sig‘imiga
 
-Identifikator – bu …?
-====
-# paketni jo'natuvchi tomonidan tayinlangan va paketni yig'ishda bo'laklarning to'g'ri ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
-==== 
-ma'lumotlar oqimidagi fragmentning o'rnini belgilovchi qiymat;
-==== 
-paketni qabul qiluvchilarga tayinlangan va paketni yig'ishda bo'laklarning to'g'ri ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
-==== 
-paketni jo'natuvchi tomonidan tayinlangan va paketni yig'ishda fragmentlarning ierarxik ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
 ++++
+Elektromagnit jarayonlar elektr toki, kuchlanish va elektr yurituvchi kuch tushunchalari orqali ifodalanadigan, elektr tokining o‘tishi uchun yo‘l hosil qiladigan qurilma va obyektlar yig‘indisi qanday nomlanadi?
+====
+#elektr zanjir
+====
+EYUK manbai
+====
+tugun
+====
+elektr zanjir shaxobchasi
 
-Bo’laklarni ko’chirish – bu…?
-====
-# ma'lumotlar oqimidagi fragmentning o'rnini belgilovchi qiymat;
-==== 
-paketni jo'natuvchi tomonidan tayinlangan va paketni yig'ishda bo'laklarning to'g'ri ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
-==== 
-paketni qabul qiluvchilarga tayinlangan va paketni yig'ishda bo'laklarning to'g'ri ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
-==== 
-paketni jo'natuvchi tomonidan tayinlangan va paketni yig'ishda fragmentlarning ierarxik ketma-ketligini aniqlash uchun mo'ljallangan qiymat;
 ++++
+Zanjirdagi kuchlanishni qaysi asbob o‘lchaydi va bu asbob qanday ulanadi?
+====
+#Voltmetr, parallel
+====
+Ampermetr, ketma-ket
+====
+Ommetr, ketma-ket
+====
+Vattmetr, parallel
 
-Sarlavhaning nazorat summasi - … bo’yicha hisoblanadi?
-====
-# RFC 1071; 
-==== 
-RFC 1072; 
-==== 
-RFC 1073; 
-==== 
-RFC 1075;
 ++++
+Qarshilikning o‘lchov birliklarini ko‘rsating.
+====
+#Om, kOm, MOm 
+====
+F, mF, mkF
+====
+V, mV, mkV
+====
+A, mA, mkA
 
-Marshrutizatorlar paketga qanday o’zgartirish kirita oladi?
-====
-# paketlarni fragmentlash; 
-==== 
-paketlarni yig’ish;
-==== 
-paketlarni formatlash; 
-==== 
-paketlarni segmentlash;
 ++++
+Sig‘im ning o‘lchov birliklarini ko‘rsating.
+====
+#F, mF, mkF
+====
+Om, kOm, MOm
+====
+V, mV, mkV
+====
+A, mA, mkA
 
-Paket ma'lumotlarini bo'lishda oxirgisidan tashqari barcha bo'laklarning o'lchami … karrali bo’lishi kerak:
-====
-# 8 baytga; 
-==== 
-16 baytga; 
-==== 
-24 baytga; 
-==== 
-32 baytga;
 ++++
+Tok kuchining o‘lchov birliklarini ko‘rsating.
+====
+#A, mA, mkA
+====
+F, mF, mkF
+====
+Om, kOm, MOm
+====
+V, mV, mkV
 
-0 dan boshlanuvchi adreslar qaysi sinfga xos?
-====
- #A sinf; 
-==== 
-B sinf; 
-==== 
-C sinf; 
-==== 
-D sinf;
 ++++
+Elektr kuchlanishining o‘lchov birliklarini ko‘rsating.
+====
+#V, mV, mkV
+====
+A, mA, mkA
+====
+F, mF, mkF
+====
+Om, kOm, MOm
 
-10 dan boshlanuvchi adreslar qaysi sinfga xos?
-====
-# B sinf; 
-==== 
-A sinf; 
-==== 
-C sinf; 
-==== 
-D sinf;
 ++++
+Induktivlikning o‘lchov birliklarini ko‘rsating.
+====
+#Gn, mGn, mkGn
+====
+A, mA, mkA
+====
+F, mF, mkF
+====
+Om, kOm, MOm
 
-110 dan boshlanuvchi adreslar qaysi sinfga xos?
-====
-# C sinf; 
-==== 
-B sinf; 
-==== 
-E sinf; 
-==== 
-D sinf;
 ++++
+Elektr zanjiridagi to‘la quvvat S ning o‘lchov birligi qanday?
+====
+#Volt-Amper (VA)
+====
+Volt-Amper reaktiv (VAR)
+====
+Vatt (Vt)
+====
+Makrovatt
 
-1110 dan boshlanuvchi adreslar qaysi sinfga xos?
-====
-# D sinf; 
-==== 
-B sinf; 
-==== 
-C sinf; 
-==== 
-E sinf;
 ++++
+Elektr o‘tkazgich deb …… aytiladi:
+====
+#erkin elektronlari mavjud bo‘lgan moddalarga
+====
+qattiq kristall panjarali moddalarga
+====
+neytral moddalarga
+====
+erkin fotonlari bo‘lgan moddalarga
 
-11110 dan boshlanuvchi adreslar qaysi sinfga xos?
-====
- #E sinf; 
-==== 
-B sinf; 
-==== 
-C sinf; 
-==== 
-D sinf;
 ++++
+O‘zgarmas elektr toki yo‘nalishi quyidagicha belgilanadi:
+====
+#musbat qutbdan manfiy qutbga
+====
+neytral zarralarning harakati orqali
+====
+manfiy zaryadlangan zarralarning harakati orqali
+====
+manfiy zaryadlangan fotonlarning harakati orqali
 
-GSM mobil aloqaning qaysi avlodiga tegishli?
-====
-# 2G;
-==== 
-1G;
-==== 
-3G;
-==== 
-4G.
 ++++
+Tok kuchiga ta’rif bering.
+====
+#vaqt birligi ichida  o‘tkazgichning ko‘ndalang kesimidan oqib o‘tgan elektr miqdoriga aytiladi
+====
+protonlar va neytronlar miqdoriga aytiladi
+====
+atomdagi protonlar miqdoriga aytiladi
+====
+yadrodagi elektronlar miqdoriga aytiladi
 
-3G da kanallar taqsimlanishining qanday turidan foydalaniladi?
-====
- #Kod bo'yicha
-==== 
-Chastota-vaqt bo'yicha
-==== 
-Chastota bo'yicha
-==== 
-Vaqt bo'yicha
 ++++
+O‘zgarmas tok bu …
+====
+#tebranishlar chastotasi f=0 bo‘lgan elektr toki
+====
+tebranishlar chastotasi f>0 bo‘lgan elektr toki
+====
+tebranishlar chastotasi f<0 bo‘lgan elektr toki
+====
+tebranishlar chastotasi f=50 Hz bo‘lgan elektr toki
 
-Mobil aloqada uyaning ideal shakli qanday tasvirlanadi?
-====
-# Oltiburchak
-==== 
-Romb
-==== 
-Kvadrat
-==== 
-To'rtburchak
 ++++
+Tok kuchini o‘lchash uchun ampermetr zanjirga quyidagicha ulanadi:
+====
+#tok kuchi o‘lchanadigan elementga ketma-ket
+====
+tok kuchi o‘lchanadigan elementga parallel
+====
+tok manbaiga parallel
+====
+aralash
 
-LTE - bu?
-====
-# Long Term Evolution
-==== 
-Listing Time Ebay
-==== 
-London Tests of English
-==== 
-Liquid Tension Experiment
 ++++
+Kuchlanishni o‘lchashda voltmeter zanjirga qanday ulanadi:
+====
+#kuchlanishni o‘lchash kerak bo‘lgan elektr energiya qabul qiluvchisiga parallel
+====
+tok manbaiga ketma-ket
+====
+zanjirdagi iste’molchiga ketma-ket
+====
+aralash
 
-WiFi standartida qanday chastota diapazonlaridan foydalaniladi
-====
-# 2.4 va 5 GHz
-==== 
-2.4 - 5 GHz oralig'ida
-==== 
-2.4 - 2.5 GHz oralig'ida
-==== 
-2.5 va 5 GHz
 ++++
+To‘g‘ri javobni ko‘rsating.
+====
+# 1Om=1V/1A
+====
+1Om=1v*1A
+====
+ 1Om=1A/1V
+====
+1Om=2A/1V
+
+++++
+O‘tkazgichdagi tok kuchi …
+====
+#o‘tkazgich qarshiligiga teskari proparsional
+====
+o‘tkazgich qarshiligiga to‘g‘ri proparsional
+====
+o‘tkazgich kesimiga to‘g‘ri proparsional
+====
+o‘tkazgich kesimiga nisbatan nochiziqli
+
+++++
+Asosiy elektr energiya manbalari bu …
+====
+#issiqlik, atom va gidroelektro-stansiyalar
+====
+to‘g‘rilagichlar
+====
+issiqlik asboblari
+====
+yoritgich asboblari
+
+++++
+Transformatorning asosiy vazifasi quyidagicha:
+====
+#o'zgaruvchan elektr tokini, chastotasini o‘zgartirmagan holda, kuchlanishni pasaytiradi yoki oshiradi
+====
+o‘garmas tokni o‘zgaruvchan tokka aylantirib berish
+====
+o‘zgaruvchan tokni o‘zgarmas aylantirib berish
+====
+kirishdagi tokning tebranish chastotasini o‘zgartirib berish
+
+++++
+Elektrotexnikada diodlar foydalaniladi:
+====
+#to‘g‘rilagichlarda
+====
+isitgich asboblarida
+====
+transformatorlarda
+====
+elektro-dvigatellarda
+
+++++
+Elektr energiyasi elektr uzatuvchi liniyalar orqali yuqori kuchlanish yordamida uzatiladi, chunki …
+====
+#energiyani uzatishda sim (o‘tkazgich) larda yo‘qotish kamroq bo‘lishi uchun
+====
+yuqori kuchlanish nisbatan xavfsiz
+====
+yuqori elektr uzatish liniyalarini qurish nisbatan osonroq
+====
+yuqori kuchlanishdan foydalanish qulay
+
+++++
+Signal chastotasini o‘lchaydigan asbob:
+====
+#chastotamer
+====
+ampermetr
+====
+vattmetr
+====
+voltmetr
+
+++++
+Elektr energiya iste’molchisi:
+====
+#elektrodvigatellar
+====
+generatorlar
+====
+transformatorlar
+====
+elektr energiyani hisoblagichlar
+
+++++
+Zanjirning, faqat bitta tok oqib o‘tadigan qismi qanday ataladi?
+====
+#shaxobcha
+====
+kontur
+====
+tugun
+====
+mustaqil kontur
+
+++++
+Zanjirni kontur toklar usuli bilan hisoblashda qaysi qonunlar qo‘llaniladi:
+====
+#Kirxgofning birinchi va ikkinchi qonuni
+====
+Faradeyning birinchi va ikkinchi qonuni
+====
+Djaulning birinchi va ikkinchi qonuni
+====
+Amperning birinchi va ikkinchi qonuni
+
+++++
+O‘zgaruvchan tok zanjiridagi aktiv quvvat P qanday xususiyatga ega?
+====
+#elektr energiyasini boshqa turdagi energiyaga aylantirish xususiyatiga
+====
+reaktiv elementlar va energiya manbai orasida elektromagnit maydonlar almashinuvi xususiyatiga
+====
+reaktiv elementlar va energiya manbai orasida elektr maydonlar almashinuvi xususiyatiga
+====
+elektr quvvatni boshqa energiya turlariga o‘rtalashtirish xususiyatiga
+
+++++
+Elektr zanjiridagi aktiv quvvat P ning o‘lchov birligi qanday?
+====
+#Vatt (Vt)
+====
+Volt-Amper reaktiv (VAR)
+====
+Volt-Amper (VA)
+====
+Makrovatt
+
+++++
+Elektr zanjiridagi reaktiv quvvat Q ning o‘lchov birligi qanday?
+====
+#Volt-Amper reaktiv (VAR)
+====
+Vatt (Vt)
+====
+Volt-Amper (VA)
+====
+Makrovatt
+
+++++
+Elektr sig‘im (kondensator) quyidagi vazifani bajaradi.
+====
+#elektr maydon energiyasini yig‘adi
+====
+magnit maydon energiyasini yig‘adi
+====
+elektr energiyasini issiqlik energiyasiga aylantiradi
+====
+elektr tokni kuchaytiradi
+
+++++
+Kuchlanishni o‘lchash uchun “Voltmetr” o‘chov asbobini elektr zanjiriga qanday ulash lozim?
+====
+#yuklama qarshiligiga parallel
+====
+yuklama qarshiligiga ketma-ket
+====
+yuklama qarshiligi ichiga
+====
+aralash
+
+++++
+Elektr zanjir bu - …
+====
+#elektr tokini o‘tkazish uchun xizmat qiladigan elementlar yig‘indisi
+====
+qurilma yoki zanjirlarni modellashtirish, o‘rganish va taxlil qilish uchun mo‘ljallangan dasturiy ta’minot
+====
+elektr toki oqib o‘tmaydigan elementlar yig‘indisi 
+====
+yorug‘lik energiyasini isiqlik energiyaga aylantiruvchi optik qurilma
+
+++++
+Rezistiv element quyidagi xossalar yordamida ifodalanadi.
+====
+#volt-amper xarakteristikasi
+====
+veber-amper xarakteristikasi
+====
+genri-amper xarakteristikasi
+====
+kulon-volt xarakteristikasi
+
+++++
+Zanjirning uch va undan ortiq shaxobchalar ulangan joyi – … deb ataladi.
+====
+#tugun
+====
+mustaqil kontur
+====
+shaxobcha
+====
+kontur
+
+++++
+Manfiy ion bu – … 
+====
+#bir yoki bir nechta elektronlarni olgan atom
+====
+qo‘shimcha ionlarni olgan atom
+====
+qo‘shimcha neytronlarni olgan atom
+====
+bitta yoki bir nechta elektronlarni yo‘qotgan atom
+
+++++
+Musbat ion bu – …
+====
+#bir yoki bir nechta elektronlarni yo‘qotgan atom
+====
+qo‘shimcha ionlarni olgan atom
+====
+qo‘shimcha neytronlarni olgan atom
+====
+bitta yoki bir nechta elektronlarni olgan atom
+
+++++
+Elektr zaryadi bir joydan boshqasiga ko‘chirish … natijasida sodir bo‘ladi.
+====
+#zaryadlangan zarrachalarning tartibli harakati
+====
+o‘tkazgichning qizishi
+====
+zaryadlangan zarralarning tartibsiz harakati
+====
+zaryadlangan zarralarning xaotik harakati
+
+++++
+Zanjirda tok kuchini sozlash uchun … ishlatiladi.
+====
+#ampermetr
+====
+voltmatr
+====
+reostat
+====
+galvanometr
+
+++++
+Qaysi javobda birlamchi elektr manbalar keltirilgan?
+====
+#galvanik elementlar, batareyalar, akkumulyatorlar
+====
+to‘g‘rilagichlar
+====
+impuls ta’minlovchi manbalar
+====
+kuchlanish stabilizatorlari
+
+++++
+Zanjirda qurilmalarning bog‘lanish usullari tasvirlangan chizmalar … deyiladi.
+====
+#sxema
+====
+grafik
+====
+eskiz
+====
+diogramma
+
+++++
+Elektr qarshilikning o‘lchov birligi …
+====
+#Om
+====
+Amper
+====
+Vatt
+====
+Volt
+
+++++
+Sanoat elektr tarmog‘iga parallel ulanadigan iste’molchilar, … mo‘ljallangan bo‘lishi lozim.
+====
+#sanoat elektr tarmog‘i kuchlanishiga
+====
+turlicha kuchlanishlarga
+====
+12 V kuchlanishga
+====
+36 V kuchlanishga
+
+++++
+Atom umumiy holda – … bo‘ladi.
+====
+#neytral
+====
+manfiy zaryadlangan
+====
+musbat zaryadlangan
+====
+molekulalardan tashkil topgan
+
+++++
+Qanday moddalar elektr tokining o‘tkazgichi bo‘lib xizmat qiladi? 
+====
+#erkin elektronlari bo‘lgan moddalar
+====
+qattiq kristall panjarasi bo‘lgan moddalar
+====
+dielektriklar
+====
+suyuq kristall panjarali moddalar
+
+++++
+Elektr tokining issiqlik energiyasidan qaysi elektr qurilmalarda unumli foydalaniladi.
+====
+#elektrdazmollarda
+====
+elektrodvigatellarda
+====
+generatorlarda
+====
+transformatorlarda
+
+++++
+Quyida keltirilgan manbalardan qaysi biri o‘zgaruvchan elektr tok manbai hisoblanadi.
+====
+#~220 V manba
+====
+akkumulyator
+====
+galvanik element
+====
+fotoelement
+
+++++
+O‘zgaruvchan tokni o‘garmas tokga aylantirish uchun … foydalaniladi: 
+====
+#to‘g‘rilagichlardan
+====
+elektrodvigatellardan
+====
+isitkich qurilmalaridan
+====
+yorug‘lik qurilmalaridan
+
+++++
+Transformatorning vazifasi:
+====
+#o‘zgaruvchan tokni, chastotasini o‘zgartirmagan holda kuchlanish miqdorini oshiradi yoki tushuradi
+====
+o‘zgarmas tokni o‘zgaruvchan tokga aylantirib beradi
+====
+o‘zgaruvchan tokni o‘zgarmas tokga aylantirib beradi
+====
+transformator chiqishidagi tokning tebranish chastotasini o‘zgartirib beradi
+
+++++
+Tok kuchining o‘lchov birligini ko‘rsating.
+====
+#Amper
+====
+Om
+====
+Vatt
+====
+Volt
+
+++++
+To‘liq zanjir uchun Om qonuni qaysi javobda keltirilgan?
+====
+# I=(E/R+r)
+====
+I=U/R
+====
+Q=I*I*R*t
+====
+R=P*P/S
+
+++++
+Ossilograf bu …
+====
+#o‘lchov asbobi
+====
+kuchaytirish asbobi
+====
+yoritish asbobi
+====
+fotoelektrik asbobi
+
+++++
+Reaktiv qarshilikli zanjir – bu … 
+====
+#induktivlik yoki kondensatorlari bo‘lgan zanjir
+====
+istalgan o‘zgarmas tok zanjiri
+====
+rezistiv zanjiri bo‘lgan zanjir
+====
+istalgan o‘zgarmas tok yopiq zanjiri
+
+++++
+Agar kuchlanish o‘zgarmagan holda, kondensator qatlamlari orasidagi masofa ortsa, kondensatorning zaryadi …
+====
+#kamayadi
+====
+ortadi
+====
+o‘zgarmaydi
+====
+chiziqlikka intiladi
+
+++++
+Quyidagi sanab o‘tilgan metallardan qaysi biri yuqori elektr o‘tkazuvchanlikga ega?
+====
+#mis
+====
+alyuminiy
+====
+volfram
+====
+po‘lat
+
+++++
+Kondensatorning sig‘imi … bog‘liq.
+====
+#plastinalar yuzasi va ular orasidagi masofaga
+====
+ketma-ket ulangan yuk qarshiligiga
+====
+zanjirdagi tok kuchiga
+====
+qutblardagi kuchlanishga                                                                                      
+
+++++
+Elektr energiyasini mexanik energiyaga aylantiruvchi qurilma … deyiladi.
+====
+#elektrodvigatel
+====
+transformator
+====
+generator
+====
+induktiv g‘altak
+
+++++
+Sig‘imning reaktiv qarshiligini ifodalovchi formulani toping.
+====
+# Xc=(1/2*pi*f*C)
+====
+XL=2*pi*f*L
+====
+ R=U/I
+====
+R=I/U
+
+++++
+Qaysi holda resistor, kondensator va induktivlikli zanjirlarda faqat qarshilik mavjud?
+====
+#induktiv va kondensator qarshiliklari o‘zaro teng
+====
+qolgan elementlar bilan taqqoslaganda resistor qarshiligi minimal
+====
+resistor qarshiligi induktivlik va kondensator qarshiligidan ko‘p marta katta
+====
+induktivlik va sig‘imdagi qarshiliklar o‘zaro teng emas
+
+++++
+Kuchlanishning o‘lchov birligini ko‘rsating.
+====
+#Volt
+====
+Om
+====
+Vatt
+====
+Amper
+
+++++
+Qarshilikning o‘lchov birligini ko‘rsating.
+====
+#Om
+====
+Vatt
+====
+Amper
+====
+Volt
+
+++++
+Elektr quvvatning o‘lchov birligini ko‘rsating.
+====
+#Vatt
+====
+Amper
+====
+Volt
+====
+Om
+
+++++
+O‘tkazuvchanlikning o‘lchov birligini ko‘rsating.
+====
+#Simens
+====
+Om
+====
+Amper
+====
+Volt
+
+++++
+Yuklamada iste’mol qilinadigan tokni o‘lchash uchun “Ampermetr” zanjirga qanday ulanadi?
+====
+#yuklama qarshiligiga ketma-ket
+====
+yuklama qarshiligiga parallel
+====
+yuklama qarshiligiga perpendikulyar
+====
+aralash
+
+++++
+Ikkita kirishidagi signallar farqini kuchaytirish uchun mo‘ljallangan qurilma qanday ataladi?
+====
+#differensial kuchaytirgich
+====
+tok takrorlovchi
+====
+kuchlanish takrorlovchi
+====
+tanlov kuchaytirgich
+
+++++
+O‘nlab gersdan o‘nlab kilogersgacha diapazonda uzluksiz, davriy signallarni kuchaytirishga xizmat qiluvchi qurilma bu - …
+====
+#past chastota kuchaytirgichi
+====
+impulsli kuchaytirgich
+====
+doimiy tok  kuchaytirgichi
+====
+yuqori chastotali kuchaytirgich
+
+++++
+Elektr zanjirida tok kuchi qaysi harf bilan ifodalanadi?
+====
+#I
+====
+U
+====
+F
+====
+R
+
+++++
+Elektr zanjirida kuchlanish qaysi harf bilan ifodalanadi?
+====
+#U
+====
+I
+====
+R
+====
+L
+
+++++
+Metall o‘tkazgichlar qanday belgilar bilan xarakterlanadi?
+====
+#tarkibidagi erkin elektronlar bilan
+====
+tarkibidagi erkin ionlar bilan
+====
+tarkibida erkin elektronlar va ionlarning yo‘qligi bilan
+====
+tarkibidagi erkin elektronlar va ionlar bilan
+
+++++
+Ketma ket tebranish  konturida  qanaqa  rezonans xosil bo‘ladi?  
+====
+#kuchlanish rezonansi
+====
+quvvat rezonansi
+====
+tok rezonansi
+====
+sig‘im va induktivlik rezonansi
+
+++++
+Paralel tebranish konturida qanaqa  rezonans xosil bo‘ladi?
+====
+#Tok rezonansi
+====
+Quvvat balansi
+====
+Tugun potensiali rezonansi
+====
+Kuchlanish rezonansi
+
+++++
+Shaxobchaga ta’rif bering:
+====
+#Bir nechta elementlar ulangan zanjirning  shunday qismiki  undan  bir xil tok oqib o‘tadi.
+====
+Zanjirning   berk  qismi
+====
+Zanjirdagi uchta  va  undan  ortiq elementlarning  tutashgan  nuqtasi
+====
+Ikkita va undan  ortiq  shaxobchalarning  ulangan  nuqtasi  
+
+++++
+Tugun deb  nimaga aytiladi?
+====
+#uchta va undan  ortiq  shaxobchalarning  tutashgan  nuqtasi.  
+====
+elektr manba  va  yuklamani  ulangan  joyi
+====
+ikki va undan  ortiq konturlarni  ulangan  joyi
+====
+ketma-ket ulangan qarshiliklar  to‘plami
+
+++++
+Paralel ulangan deb ... ga aytiladi.
+====
+#bir juft tugunga  ulangan shaxobchalar
+====
+bitta tugunga ulangan  shaxobchalar   
+====
+har xil  tugunga ulangan  shaxobchalar    
+====
+uchta  va undan ortiq shaxobchalarning ulangan  nuqtasi   
+
+++++
+UK  (umumiy kollektor ) ulanish  sxemasi  uchun kirish  signali  bu …
+====
+#baza va kollektor orasidagi kuchlanish
+====
+baza va emitter orasidagi kuchlanish
+====
+emitter va kollektor orasidagi kuchlanish
+====
+zatvor va kollektor orasidagi kuchlanish
+
+++++
+Dinistor bu – yarimo‘tkazgichli  asbob bo‘lib ... tashkil topgan:
+====
+#Uchta p-n o‘tishdan
+====
+ikkita p-n   o‘tishdan
+====
+bitta  p-n  o‘tishdan
+====
+to‘rtta   p-n  o‘tishdan
+
+++++
+Operatsion  kuchaytirgichning differensial  kirishi deb ... aytiladi  
+====
+#inverslovchi va inverslamaydigan kirishlar orasidagi  kuchlanishlar farqiga
+====
+inverslovchi va umumiy kirishlar orasidagi  kuchlanishlar farqiga     
+====
+umumiy kirish va inverslamaydigan kirishlar orasidagi  kuchlanishlar farqiga
+====
+inverslovchi va inverslamaydigan kirishlar orasidagi  kuchlanishlar yig‘indisiga
+
+++++
+Simistor bu  – yarimo‘tkazgichli ... asbob: 
+====
+#har xil  o‘tkazuvchanlik tipidagi,  besh qatlamli va boshqaruvchi elektrodiga ega
+====
+har xil  o‘tkazuvchanlik tipidagi,  uch qatlamli va boshqaruvchi elektrodiga ega
+====
+bir xil  o‘tkazuvchanlik tipdagi,  uch  qatlamli va boshqaruvchi elektrodiga ega   
+====
+bir xil  o‘tkazuvchanlik tipdagi,  ikki qatlamli va boshqaruvchi elektrodiga ega
+
+++++
+Tiristor bu – ... asbob. 
+====
+#Uchta p-n o‘tishdan iborat   uch elektrodli elektron
+====
+to‘rta  p-n o‘tishdan iborat   uch elektrodli elektron
+====
+to‘rta  p-n o‘tishdan iborat   uch elektrodli elektron
+====
+uchta p-n o‘tishdan iborat ikki elektrodli elektron
+
+++++
+… - bu bitta p-n o‘tish va ikkita elektroddan tashkil topgan yarimo‘tkazgichli asbobdir.
+====
+#diod
+====
+tranzistor
+====
+MDYa
+====
+tiristor
+
+++++
+Har birining induktivligi L=36 Hn ga teng to‘rta induktivlik g‘altaklari o‘zaro parallel ulangan umumiy induktivlikni toping.
+====
+#9 Hn
+====
+98 Hn
+====
+50 Hn
+====
+45 Hn
+
+++++
+Maydoniy tranzistorni quyidagicha tasavvur etish  mumkin:
+====
+#kuchlanish  yordamida boshqariladigan elektron asbob
+====
+tok  yordamida boshqariladigan elektron asbob
+====
+kuchlanish xamda tok  yordamida boshqariladigan elektron asbob
+====
+kuchlanish  yordamida boshqarilmaydigan elektron asbob
+
+++++
+Bipolyar  tranzistor  p-n o‘tish va elektrodlar soni nechta?
+====
+#ikkita bir biriga qarama qarshi ulangan  p-n  o‘tish  va uchta elektrod
+====
+ikkita bir biriga to‘g‘ri ulangan  p-n  o‘tish  va ikkita elektrod
+====
+uchta bir biriga qarama qarshi ulangan  p-n  o‘tish  va uchta elektrod
+====
+ikkita bir biriga qarama qarshi ulangan  p-n  o‘tish  va to‘rtta elektrod
+
+++++
+Bipolyar  tranzistorning qaysi  ish rejimida (EO‘)  emitter o‘tish  to‘g‘ri, kollektor o‘tish (KO‘) teskari siljitilgan (yo‘naltirilgan) bo‘ladi? 
+====
+#aktiv rejimida
+====
+invers rejimda
+====
+berk rejimda
+====
+to‘yinish rejimida
+
+++++
+Bipolyar  tranzistorning qaysi  ish rejimida (EO‘)  emitter o‘tish  hamda kollektor o‘tish (KO‘) to‘g‘ri, siljitilgan (yo‘naltirilgan) bo‘ladi? 
+====
+#to‘yinish rejimi
+====
+aktiv rejimida
+====
+invers rejimda
+====
+berk rejimda
+
+++++
+Bipolyar  tranzistorning qaysi  ish rejimida (EO‘)  emitter o‘tish  xamda  kollektor o‘tish teskari siljitilgan (yo‘naltirilgan) bo‘ladi? 
+====
+#berk
+====
+invers
+====
+aktiv
+====
+to‘yinish
+
+++++
+Kirxgofning birinchi qonuniga asosan:
+====
+#tugunga kiruvchi toklar musbat ishorali.
+====
+tugunga  kiruvchi  toklar   manfiy  ishorali
+====
+tugundan  chiquvchi  toklar   musbat ishorali
+====
+tugunga kiruvchi va chiquvchi toklarning ishoralari inobatga olinmaydi
+
+++++
+Har birining induktivligi L=5 Hn ga teng uchta induktivlik g‘altaklari o‘zaro ketma-ket ulangan ummumiy induktivlikni toping.
+====
+#15 Hn
+====
+100 Hn
+====
+50 Hn
+====
+45 Hn
+
+++++
+Har birining induktivligi L=10 Hn ga teng uchta induktivlik g‘altaklari o‘zaro ketma-ket ulangan ummumiy induktivlikni toping.
+====
+#30 Hn
+====
+100 Hn
+====
+50 Hn
+====
+45 Hn
+
+++++
+Har birining induktivligi L=50 Hn ga teng ikkita induktivlik g‘altaklari o‘zaro ketma-ket ulangan ummumiy induktivlikni toping.
+====
+#100 Hn
+====
+76 Hn
+====
+68 Hn
+====
+42 Hn
+
+++++
+Har birining sig‘imi C=40 mkF ga teng ikkita kondensatorlar o‘zaro ketma-ket ulangan ummumiy sig‘imni toping.
+====
+#20 mkF
+====
+72 mkF
+====
+47 mkF
+====
+51 mkF
+
+++++
+Har birining sig‘imi C=10 mkF ga teng ikkita kondensatorlar o‘zaro ketma-ket ulangan ummumiy sig‘imni toping.
+====
+#5 mkF
+====
+7 mkF
+====
+41 mkF
+====
+18 mkF
+
+++++
+p-  turdagi  yarimo‘tkazgichda asosiy  zaryad  tashuvchilar.
+====
+#kovaklar
+====
+musbat  ionlar
+====
+manfiy ionlar
+====
+elektronlar
+
+++++
+p-   turdagi yarimo‘tkazgichda qaysi   zaryad  tashuvchilar  tok  xosil  qiladi?
+====
+#kovaklar
+====
+musbat  ionlar
+====
+manfiy ionlar
+====
+elektronlar
+
+++++
+p- turdagi yarimo‘tkazgich bu ...
+====
+#akseptorli yarimo‘tkazgich
+====
+to‘liqsiz yarimo‘tkazgich
+====
+donor kirishmalar konsentratsiyasi akseptor kirishmalar konsentratsiyasiga teng yarimo‘tkazich
+====
+donorli yarimo‘tkazgich
+
+++++
+i- turdagi yarim o‘tkazgich  bu …
+====
+#xususiy yarimo‘tkazgich
+====
+akseptorli yarimo‘tkazgich
+====
+donor kirishmalar konsentratsiyasi akseptor kirishmalar konsentratsiyasiga teng yarimo‘tkazich
+====
+donorli yarimo‘tkazgich
+
+++++
+n-turdagi  yarimo‘tkazgich bu ...
+====
+#donorli yarimo‘tkazgich
+====
+xususiy yarimo‘tkazgich
+====
+akseptorli yarimo‘tkazgich
+====
+donor kirishmalar konsentratsiyasi akseptor kirishmalar konsentratsiyasiga teng yarimo‘tkazich
+
+++++
+Sinusoidal tokning ta’sir etuvchi qiymati uning amplituda qiymatidan necha marta kichik?
+====
+#0,707 marta
+====
+2 marta
+====
+0,5 marta
+====
+0,637 marta
+
+++++
+Ideal kuchlanish manbasi  – Bu shunday elektr  manbasiki ... .
+====
+#chiqishdagi kuchlanish, undagi  tok miqdorining o‘zgarishiga  bog‘liq emas
+====
+undagi tok, kuchlanish  o‘zgarishiga  bog‘liq emas
+====
+undagi tokning  qiymati, u yerdagi  ichki  o‘tkazuvchanlik bilan  xarakterlanadi
+====
+undagi  tok qiymati,  u yerdagi elektr yurituvchi kuch va ichki qarshilik bilan xarakterlanadi
+
+++++
+Burchak chastotaga  ta’rif bering.
+====
+#2π oralig‘idagi siklik tebranishlar soniga aytiladi
+====
+π oralig‘idagi siklik tebranishlar soniga aytiladi
+====
+π /2 oralig‘idagi siklik tebranishlar soniga aytiladi
+====
+1 sekund  oralig‘idagi siklik tebranishlar soniga aytiladi
+
+++++
+Zanjirdagi shaxobchalarning tutashgan nuqtasi  ... deb ataladi?
+====
+#tugun
+====
+shaxobcha
+====
+zanjir
+====
+kontur
+
+++++
+Bir xil tok  oqib o‘tadigan  zanjirning qismi qanday nomlanadi?
+====
+#shaxobcha
+====
+tugun
+====
+kontur
+====
+mustaqil kontur
+
+++++
+Zanjirning bir qismi uchun, Om qonuni formulasini to‘g‘ri yozilgan variantni ko‘rsating:
+====
+# I=U/R
+====
+I=R*U+m
+====
+ F=m*v*v
+====
+U=m*I*I
+ 
+++++
+Tebranishning to‘liq fazasi ko‘rsatilgan kattalik ... .
+====
+# (wt+φ) 
+====
+φ
+====
+ (w+φ)
+====
+(t+φ)
+
+++++
+Zanjirning qarshiligi o‘zgarmas bo‘lgan qismida, tok  miqdori  ortsa, u holda  kuchlanish … .
+====
+#ortadi
+====
+o‘zgarmaydi
+====
+nolga teng bo‘ladi    
+====
+kamayadi
+
+++++
+Ikkita elektr energiya qabul qiluvchisi ketma-ket ulangan holda, zanjirning istalgan qismidagi tok kuchi  ... bo‘ladi.
+====
+#bir xil  I=I1=I2
+====
+zanjir bo‘lagidagi toklar  yig‘indisiga  teng,  I=I1+I2
+====
+zanjir bo‘lagidagi toklar farqiga teng,  I=I1-I2
+====
+quyidagi  kattalikka teng,  I=(1/I1)+(1/I2)
+
+++++
+Kondensator qutblarida kuchlanish miqdori  ortsa, uning plastinalaridagi sig‘im va zaryad  miqdori qanday o‘zgaradi?
+====
+#Sig‘im o‘zgarmaydi, zaryad esa ortadi;
+====
+Sig‘im va zaryad bir xilda  ortadi;
+====
+Sig‘im o‘zgarmaydi, zaryad esa kamayadi;
+====
+Sig‘im kamayadi, zaryad  ortadi;   
+
+++++
+Zanjirdagi barcha  toklarni topishda, Kirxgoffning birinchi qonunini  qo‘llagan xolda, sxemada qancha … bo‘lsa shuncha  tenglama  tuzish  lozim.   
+====
+#shaxobcha
+====
+tugun
+====
+qarshilik (rezistor)                
+====
+kontur
+
+++++
+Induktivlik elementi L da …
+====
+#kuchlanish uL(t)  faza bo‘yicha  tokga   iL(t) nisbatan   (pi/2)rad ga ilgarilaydi
+====
+kuchlanish uL(t) va tok  iL(t) teskari  fazada  bo‘ladi
+====
+kuchlanish uL(t) faza bo‘yicha  tokga  iL(t)  nisbatan   (pi/2)rad  ortda qoladi
+====
+kuchlanish uL(t) faza bo‘yicha  tok  iL(t) bilan  ustma-ust  tushadi
+
+++++
+Aktiv qarshilik R da …
+====
+#kuchlanish uL(t) faza bo‘yicha  tok  iL(t)  bilan  ustma-ust  tushadi
+====
+kuchlanish  uL(t) faza bo‘yicha  tokga  iL(t)  nisbatan   (pi/2)rad ga ilgarilaydi
+====
+kuchlanish uL(t) va tok  iL(t) teskari  fazada  bo‘ladi
+====
+kuchlanish uL(t) faza bo‘yicha  tokga  iL(t)  nisbatan   (pi/2)rad  ortda qoladi
+
+++++
+Kondensator C da…
+====
+#kuchlanish uL(t) faza bo‘yicha  tokga  iL(t) nisbatan  (pi/2)rad  ortda qoladi
+====
+kuchlanish uL(t) faza bo‘yicha  tok iL(t)  bilan  ustma-ust  tushadi
+====
+kuchlanish uL(t)  faza bo‘yicha  tokga  iL(t)  nisbatan   (pi/2)rad  ga ilgarilaydi
+====
+kuchlanish uL(t) va   tok iL(t) teskari  fazada  bo‘ladi
+
+++++
+Quyida keltirilgan manbalarning qaysi biri o‘zgarmas tok manbai hisoblanadi?
+====
+#akkumulyatorlar
+====
+220 V li sanoat tarmog‘i
+====
+380 V li uch fazali sanoat tarmog‘i
+====
+o‘zgarmas tokda ishlovchi elektro-dvigatellar
+
+++++
+Quvvat balansi sharti ...
+====
+#Manbadan chiqayotgan  energiya miqdori , yuklamada  hosil  bo‘layotgan  energiya miqdoriga  teng.   
+====
+Manbadan  chiqayotgan  energiya miqdori, yuklamada  hosil  bo‘layotgan  energiya miqdoridan katta
+====
+Manbadan  chiqayotgan  energiya miqdori, yuklamada  hosil  bo‘layotgan  energiya miqdoridan kichik
+====
+Manbadan  chiqayotgan  energiya miqdori, yuklamada  hosil  bo‘layotgan  energiya miqdoriga  teng  emas
+
+++++
+Tok rezonansi vaqtida quvvat uchun qaysi tenglama o‘rinli
+====
+# Q=0
+====
+Q=S
+====
+ P=0
+====
+Q=P
+
+++++
+Kuchaytirgichlarda quyidagi elementlardan qay biri qo‘llanilmaydi
+====
+#diodli tiristorlar
+====
+maydoniy tranzistorlar
+====
+bipolyarn tranzistorlar
+====
+integral mikrosxemalar
+
+++++
+Kuchlanishni to‘g‘rilagich sxemasida stabilitron qanaqa vazifani bajaradi …
+====
+#kushlanishni barqarorlash uchun qo‘llaniladi
+====
+C – filtr sifatida  qo‘llaniladi
+====
+L – filtr sifatida qo‘llaniladi
+====
+tokni kuchaytirish uchun qo‘llaniladi
+
+++++
+Aktiv o‘tkazuvchanlik qanday aniqlanadi?
+====
+# G=1/R, aktiv qarshilikka teskari nisbat
+====
+ Q=I*I*R, tokning kvadratini qarshilikka ko‘paytmasi
+====
+ P=I*U, kuchlanishni tokka ko‘paytmasi
+====
+ I=U/R, kuchlanishni qarshilikka nisbati
+
+++++
+Quyida keltirilgan manbalarning qaysi biri o‘zgaruvchan tok manbai?
+====
+#~220 V li sanoat tarmog‘i
+====
+akkumulyator
+====
+galvanik element
+====
+o‘zgaruvchan tokda ishlovchi elektrodvigatel
+
+++++
+Zanjirda EYUK  E=12 V  va R1=2 om  , R2=10 om qarshiliklar ketma-ket ulangan. Zanjirdagi tokni qiymatini toping.
+====
+#1 A
+====
+4 A
+====
+6 A
+====
+9 A
+
+++++
+Zanjirda EYUK E=12 V  va R1=2 om  , R2=4 om  qarshiliklar ketma-ket ulangan. Zanjirdagi tokni qiymatini toping.
+====
+#2 A
+====
+1 A
+====
+6 A
+====
+9 A
+
+++++
+Zanjirda EYUK  E=12 V  va R1=2 om  , R2=3 om qarshiliklar ketma-ket ulangan. Zanjirdagi tokni qiymatini toping.
+====
+#2,4 A
+====
+1 A
+====
+6 A
+====
+9 A
+
+++++
+Bipolyar  tranzistorning asosiy  ulanish sxemalariga quyidagilardan  qaysi biri kirmaydi:
+====
+#umumiy  zatvor
+====
+umumiy  emitter
+====
+umumiy  kollektor
+====
+umumiy  baza
+
+++++
+Maydoniy  tranzistorning asosiy  ulanish sxemalariga quyidagilardan  qaysi biri kirmaydi:
+====
+#umumiy  baza
+====
+umumiy  zatvor
+====
+umumiy  stok
+====
+umumiy istok
+
+++++
+Bipolyar tranzistorning aktiv  ish rejimida:
+====
+#Chiqish  toki  kirish tokiga  to‘g‘ri proporsional
+====
+Chiqish  toki  kirish qarshiligiga  to‘g‘ri proporsional
+====
+Chiqish  toki  kirish sig‘imiga  to‘g‘ri proporsional
+====
+Chiqish  kuchlanishi  kirish qarshiligiga   to‘g‘ri proporsional  
+
+++++
+Umumiy emitter ulanish  (UE) sxemasida  chiqish xarakteristikasi  – bu:
+====
+#Baza  tokini  o‘zgarmas miqdorida, kollektor tokini, kollektor emitter kuchlanishiga bog‘liqligidir.
+====
+Baza  tokini  o‘zgarmas miqdorida, kollektor tokini, baza  emitter kuchlanishiga bog‘liqligidir.  
+====
+Baza  tokini  o‘zgarmas miqdorida, kollektor tokini, kollektor baza kuchlanishiga bog‘liqligidir.
+====
+Emitter tokini  o‘zgarmas miqdorida, kollektor tokini, kollektor baza kuchlanishiga bog‘liqligidir.  
+
+++++
+Har birining induktivligi L=9 Hn ga teng uchta induktivlik g‘altaklari o‘zaro parallel ulangan umumiy induktivlikni toping.
+====
+#3 Hn
+====
+100 Hn
+====
+50 Hn
+====
+45 Hn
+
+++++
+MDH standarti bo‘yicha tokning sanoat chastotasi qiymati qanday?
+====
+#50 Hz
+====
+50 MHz
+====
+100 Hz
+====
+60 Hz
+
+++++
+Qanday qutblanishda diod orqali elektr toki o‘tadi?
+====
+#to‘g‘ri
+====
+aralash
+====
+to‘g‘ri emas
+====
+teskari
+
+++++
+“Sinusoida” qaysi tok turiga tegishli?
+====
+#o‘zgaruvchan
+====
+to‘g‘rilangan
+====
+doimiy 
+====
+impuls
+
+++++
+Qaysi material ko‘proq tok o‘tkazadi?
+====
+#kumush
+====
+mis
+====
+alyuminiy
+====
+po‘lat
+
+++++
+Aktiv qarshilikka ega zanjirda manba  energiyasi qaysi energiyaga  aylanadi?
+====
+#issiqlik 
+====
+elektr maydon
+====
+magnit  maydon
+====
+magnit, elektr  maydoni, issiqlik
+
+++++
+Bipolyar  tranzistorning qaysi  ish rejimida (EO‘)  emitter o‘tish  teskari, kollektor o‘tish to‘g‘ri siljitilgan (yo‘naltirilgan) bo‘ladi? 
+====
+#invers
+====
+aktiv
+====
+to‘yinish
+====
+berk
+
+++++
+Umumiy emitter ulanish  (UE) sxemasida  kirish xarakteristikasi  – bu: 
+====
+#kollektor emitter kuchlanishining  o‘zgarmas miqdorida, baza tokini, baza emitter kuchlanishiga bog‘liqligidir.
+====
+baza  tokini  o‘zgarmas miqdorida, kollektor tokini, baza  emitter kuchlanishiga bog‘liqligidir
+====
+baza  emitter kuchlanishining  o‘zgarmas miqdorida, kollektor tokini, kollektor baza kuchlanishiga bog‘liqligidir.
+====
+emitter tokini  o‘zgarmas miqdorida, kollektor tokini, kollektor baza kuchlanishiga bog‘liqligidir.  
+
+++++
+Bipolyar tranzistorning qaysi  ish rejimi  avariya holatiga  olib keladi? 
+====
+#teshilish rejimi
+====
+aktiv rejimi
+====
+berk  rejimi
+====
+to‘yinish  rejimi
+
+++++
+Bipolyar  tranzistorning aktiv ish  rejimida (KO‘) kollektor p-n o‘tish  ... potensial  to‘siq hosil qiladi:
+====
+#faqat  asosiy zaryad tashuvchilar uchun
+====
+faqat noasosiy zaryad tashuvchilar uchun
+====
+barcha  zaryad  tashuvchilar uchun
+====
+barcha zaryadlar  uchun
+
+++++
+Kuchaytirish kaskadi qachon  diffirensial deb  ataladi:
+====
+#Qachonki  kirish  signallar  farqini  kuchaytirsa
+====
+Qachonki  kirish  signallar  yig‘indisini  kuchaytirsa
+====
+Qachonki  kirish  signallar  hosilasini  kuchaytirsa
+====
+Qachonki  kirish  signallar  integralini  kuchaytirsa
+
+++++
+Uchta p-n o‘tishdan iborat va uch elektrodli elektron asbob …
+====
+#tiristor
+====
+diod
+====
+stablitron
+====
+kondensator
+
+++++
+Zanjirda induktivlik elementi ...
+====
+#magnit maydoni energiyasini hosil qiladi
+====
+elektr maydon hosil qiladi  
+====
+elektr toki zaxirasini  hosil qiladi
+====
+elektr kuchlanishini zaxirasini qiladi
+
+++++
+Konturga ta’rif bering.
+====
+#Bir necha shaxobcha va tugunlarni  o‘z ichiga  olgan zanjirning berk  qismi
+====
+Zanjirning ikki  nuqta  orasidagi  qismi
+====
+Zanjirning shunday qismiki undan bir xil tok oqib o‘tadi
+====
+Shaxobchalarning tutatish  nuqtasi
+
+++++
+Zanjirni hisoblashda shahobcha toki ishorasi manfiy chiqsa, ...
+====
+#tok yo‘nalishi  noto‘g‘ri tanlangan
+====
+hisob kitob noto‘g‘ri bo‘lgan  
+====
+sxema noto‘g‘ri  tuzilgan  
+====
+kontur tokini yo‘nalishi  noto‘g‘ri olingan
+
+++++
+Zanjirni hisoblashda tok ishorasi manfiy chiqsa, ...
+====
+#tokni yo‘nalishini teskari tomonga almashtirish lozim
+====
+sxemani  o‘zgartirish lozim
+====
+hisob kitobni tekshirish lozim
+====
+hisob kitob noto‘g‘ri bo‘lgan
+
+++++
+Elektr zanjirlarni tugun potensiallari usulida hisoblashda  tayanch nuqta potensiali qanchaga teng qilib olinadi.
+====
+#nolga  teng qilib olinadi
+====
+0.5 ga teng qilib olinadi
+====
+cheksizlikka teng  kilib olinadi
+====
+minus birga  teng qilib olinadi
+
+++++
+Real kuchlanish  manbai bu  – ...
+====
+#ichki  qarshilikka ega bo‘lgan elektr yurituvchi kuch
+====
+ichki qarshilikka ega bo‘lmagan elektr yurituvchi kuch
+====
+tok, kuchlanishga  bog‘liq bo‘lmagan  elektr manbai
+====
+kuchlanishi  chiqish tokiga bog‘liq bo‘lmagan elektr manbai
+
+++++
+Ideal tok  manbai  bu …
+====
+#chiqishdagi elektr toki kuchlanishga  bog‘liq bo‘lmagan  manba
+====
+chiqishdagi elektr toki kuchlanishga  bog‘liq bo‘lgan  manba
+====
+chiqishdagi elektr kuchlanishi u erdagi tokga  bog‘liq bo‘lmagan  manba
+====
+chiqishdagi elektr toki   u erdagi  qarshilikka  bog‘liq bo‘lgan  manba
+
+++++
+Har birining sig‘imi C=25 mkF ga teng ikkita kondensatorlar o‘zaro parallel ulangan ummumiy sig‘imni toping.
+====
+#50 mkF
+====
+79 mkF
+====
+41 mkF
+====
+18 mkF
+
+++++
+Har birining sig‘imi C=10 mkF ga teng uchta kondensatorlar o‘zaro parallel ulangan ummumiy sig‘imni toping.
+====
+#30 mkF
+====
+89 mkF
+====
+31 mkF
+====
+28 mkF
+
+++++
+Har birining sig‘imi C=20 mkF ga teng uchta kondensatorlar o‘zaro parallel ulangan ummumiy sig‘imni toping.
+====
+#60 mkF
+====
+9 mkF
+====
+1 mkF
+====
+13 mkF
+
+++++
+Arsenid galiyning taqiqlangan zonasi ... ga  teng.
+====
+#1,43eV
+====
+>3eV
+====
+1,12eV
+====
+0,67eV
+
+++++
+Germaniy elementining taqiqlangan  zonasi ... ga  teng.  
+====
+#0,67eV
+====
+1,43eV
+====
+>3eV
+====
+1,12eV
+
+++++
+Dielektriklarning taqiqlangan  zonasi ... ga  teng.
+====
+#>3eV
+====
+1,12eV
+====
+0,67eV
+====
+1,43eV
+
+++++
+Kremniy elementining taqiqlangan zonasi ... ga teng.  
+====
+#1,12eV
+====
+>3eV
+====
+0,67eV
+====
+1,43eV
+
+++++
+n -  turdagi  yarimo‘tkazgichda asosiy  zaryad  tashuvchilar ...
+====
+#elektronlar
+====
+kovaklar
+====
+musbat  ionlar
+====
+manfiy ionlar
+
+++++
+n -  turdagi  yarimo‘tkazgichda qaysi  zaryad  tashuvchilar  tok xosil qiladi?
+====
+#elektronlar
+====
+kovaklar
+====
+musbat  ionlar
+====
+manfiy ionlar
+
+++++
+Elektr zanjirining parallel qismida:
+====
+#kuchlanish bir xil
+====
+qarshilik bir xil
+====
+tok bir xil
+====
+quvvat bir xil
+
+++++
+O‘zgarmas elektr toki qaysi tomonga oqadi.
+====
+#Potensiyali katta nuqtadan potensiali kichik nuqtaga tomon
+====
+Potensiali kichik nuqatadan potensiali katta nuqtaga tomon
+====
+Potensial kattaligiga bog‘liq bo‘lmagan holda, erkin yo‘nalishda
+====
+Potensial kattaligiga bog‘liq bo‘lmagan holda, berilgan yo‘nalishda
+
+++++
+“Statik elektr energiya” nima?
+====
+#Tabiatda paydo bo‘luvchi elektr energiya (chaqmoq, razryad)
+====
+Dvigatel ishlab chiqaruvchi elektr energiya
+====
+AES da ishlab chiqaruvchi elektr energiya
+====
+GES da ishlab chiqaruvchi elektr energiya
+
+++++
+Afsonaviy serb olimi Nikola Tesla elektr energiyani … yordamida uzoq masofalarga uzatish ustida ishlagan.
+====
+#o‘zgaruvchan tok
+====
+statik elektrlash
+====
+doimiy tok
+====
+impuls tok
+
+++++
+Tomas Edison – dunyodagi birinchi … yaratuvchisi.
+====
+#cho‘g‘lanma lampalarining
+====
+atom elektro-stansiyalarining
+====
+yarimo‘tkazgichli diodning
+====
+tranzistorning
+
+++++
+Sinusoidal tokning chastotasi 100 Hz bo‘lsa, uning davri qanchaga teng bo‘ladi.
+====
+#0,01 sek
+====
+0,002 sek
+====
+0,2 sek
+====
+2 sek
+
+++++
+O‘tkazgichning qarshiligi  10 Om, undagi  tok  kuchi 5 A bo‘lsa, u erdagi kuchlanish  kanchaga  teng?  
+====
+#50V
+====
+32V
+====
+73V
+====
+91V
+
+++++
+Rezonans paytda, ketma-ket ulangan tebranish konurining qutblaridagi  kuchlanish miqdori   U=100 V, qarshilik miqdori   R=100 Om, L=10 mGn va C=10 mkF bo‘lsa, u yerdagi  tok  miqdori qanchaga  teng?
+====
+#1A
+====
+2A
+====
+2,5A
+====
+0,5A
+
+++++
+Rezonans paytda, ketma-ket ulangan tebranish konurining qutblaridagi  kuchlanish miqdori U=10 V, qarshilik miqdori R=5 Om, L=10 mGn va C=10 mkF bo‘lsa, u yerdagi  tok  miqdori qanchaga  teng?
+====
+#2A
+====
+2,6A
+====
+3,6A
+====
+7,9A
+
+++++
+O‘tkazgichning qarshiligi  100 Om, undagi  tok  kuchi 6 mA bo‘lsa, u erdagi kuchlanish  kanchaga  teng?  
+====
+#0,6V
+====
+50V
+====
+5V
+====
+30V
+
+++++
+Aktiv qarshilik  R=5 Om, kondensatorning sig‘imi  C=100 mkF  va induktivlik galtagi  L=100 mGn   ketma ket  ulangan. Zanjirda kuchlanish rezonansi bo‘lganda, zanjirning to‘liq qarshiligini  Z toping.  
+====
+#Z=5 Om
+====
+Z=202 Om
+====
+Z=101 Om
+====
+Z=210 Om
+
+++++
+Beshta  rezistor    R1=100 om  R2=10 om R3=20 om  R4= 500 om R5= 30 om     o‘zaro paralel ulangan. Qaysi  rezistordan eng katta  tok oqib utadi?
+====
+# R2 dan
+====
+ R4  dan
+====
+hammasidan bir xil
+====
+ R1 va R5  dan
+
+++++
+Beshta  rezistor  R1=120 om  R2=700 om R3=20 om  R4= 500 om R5= 35 om      o‘zaro paralel ulangan. Qaysi  rezistordan eng kam  tok oqib utadi?
+====
+#  R2 dan
+====
+ R4  dan
+====
+hammasidan bir xil
+====
+ R1 va R5  dan
+
+++++
+Sirusoidal kuchlanishning ta’sir etuvchi qiymati 100 V bo‘lsa, uning amplituda  qiymati  qancha?
+====
+#141V
+====
+120V
+====
+220V
+====
+380V
+
+++++
+Sinusoidal kuchlanishning amplitudasi 100 V  bo‘lsa, uning ta’sir etuvchi  qiymati  qancha?
+====
+#70,7V
+====
+120V
+====
+220V
+====
+141V
+
+++++
+Sinusoidal tokning chastotasi 50 Hz bo‘lsa, uning davri qanchaga teng bo‘ladi.
+====
+#0,02 sek
+====
+0,002 sek
+====
+0,2 sek
+====
+2 sek
+
+++++
+Tugunga 4 ta  shaxobcha ulangan, agar kiruvchi toklar qiymati  18 A bo‘lsa,   chiquvchi tok qiymati qanchaga  teng?
+====
+#-18A
+====
+10A
+====
+0 A
+====
+20 A
+
+++++
+Tugunga 4 ta  shaxobcha ulangan, agar kiruvchi toklar qiymati  8A bo‘lsa,   chiquvchi tok qiymati qanchaga  teng?
+====
+#-8A
+====
+13A
+====
+15 A
+====
+20 A
+
+++++
+Kontur  manbasining  kuchlanishi    U=20 V, ketma ket ulangan  tebranish konurida, rezonans  paytida, qarshilik: R=10 Om , L=100 mGn va C=100 mkF      bo‘lganda  tok  miqdori  qanchaga  teng?
+====
+#2A
+====
+1A
+====
+2,5A
+====
+0,5A
+
+++++
+Aktiv qarshilik  R=10 Om, kondensatorning sig‘imi  C=100 mkF  va induktivlik galtagi  L=100 mGn   ketma ket  ulangan. Zanjirda kuchlanish rezonansi bo‘lganda, zanjirning to‘liq qarshiligini  Z toping.  
+====
+#Z=10 Om
+====
+Z=200 Om
+====
+Z=100 Om
+====
+Z=210 Om
+
+++++
+Qaysi element elektr maydon energiyasini o‘ziga zaxira qilish qobiliyatiga ega?
+====
+#Kondensator
+====
+Transformator
+====
+Generator
+====
+Rezistor
+
+++++
+Ketma-ket ulangan nominali 9 Om dan  bo‘lgan 3 ta bir xil   rezistorning umumiy  qarshiligini toping.   
+====
+#27 Om
+====
+3 Om
+====
+36 Om
+====
+18 Om
+
+++++
+Paralel ulangan nominali 9 Om dan  bo‘lgan 3 ta bir xil   rezistorning umumiy  qarshiligini  toping.
+====
+#3 Om
+====
+27 Om
+====
+36 Om
+====
+18 Om
+
+++++
+Zanjirda kuchlanish o‘zgarmas bo‘lganda, qarshilikning qiymati ikki marta kamaysa, tokning qiymati …
+====
+#2 marta ortadi
+====
+2 marta kamayadi
+====
+o‘zgarmaydi
+====
+4 marta ortadi
+
+++++
+“Inpendans” so‘zining ma’nosi bu … 
+====
+#zanjirning ikki tugun orasidagi kompleks qarshiligi
+====
+zanjirning berk qismi uchun tok qiymati
+====
+zanjirda kuchlanishni keskin ortib ketishi
+====
+zanjirda kuchlanishni keskin kamayib ketishi
+
+++++
+Tugunga 4 ta  shaxobcha ulangan, agar kiruvchi toklar qiymati 10A bo‘lsa,chiquvchi tok qiymati qanchaga  teng?
+====
+#-10A
+====
+25A
+====
+0 A
+====
+20 A
+
+++++
+Elektromagnit  induksiya qonunini kim tomonidan kashf qilingan.
+====
+#Maykl Faradey
+====
+Joul - Lens
+====
+Kulon
+====
+Maksvell
+
+++++
+Elektr zanjirlar uchun Om qonuni qachon kashf qilingan.
+====
+#1827 yil
+====
+1845 yil
+====
+1832 yil
+====
+1842 yil
+
+++++
+Birinchi elektromagnitli  telegrafni kim yaratgan va nechinchi yilda.
+====
+#1832 yil Shiling
+====
+1838 yil Yakobi
+====
+1833 yil Gauss
+====
+1845 yil Neyman
+
+++++
+Elastik  muhitda  energiya  harakati kim tomonidan kashf qilingan.
+====
+#N.Umov
+====
+Poyting 
+====
+Pitrovskiy
+====
+Kamerling
+
+++++
+O’ta o’tkazuvchanlik hodisasi qachon kashf qilingan.
+====
+#1911 yil
+====
+1872 yil
+====
+1892 yil
+====
+1883 yil
+
+++++
+Elektromagnit  maydon  energiyasini  uzatishni nazariy jihatdan tadqiq etgan ingliz olimi kim.
+====
+#Poyting
+====
+Dolivo-Dobrovolskiy
+====
+Maksvell
+====
+Neyman
+
+++++
+Elektronika va sxemalar fanini rivojlanish bosqichlari nechta.
+====
+#4
+====
+3
+====
+2
+====
+1
+
+++++
+Axborot uzatish, qabul qilish, qayta ishlash va saqlash uchun ishlatiladigan elektron qurilmalar hamda asboblar yaratish usullarini o‘rganish, ishlab chiqish bilan shug‘ullanadigan fan
+====
+#elektronika
+====
+elektronika va sxemalar
+====
+elektr zanjirlar nazariyasi
+====
+fizika
+
+++++
+Triod lampasi kim tomonidan va qachon kashf qilingan.
+====
+#Li de Forest  1906 yil
+====
+Shteynmets  1894  yil
+====
+M.V. Ostrogradskiy  1828 yil
+====
+A.  Andronov  1937  yil
+
+++++
+Bipolyar tranzistor kim tomonidan va qachon kashf qilingan.
+====
+#Dj. Bardin, V. Bratteyn va V. Shoklilar 1948 yil
+====
+Sobel, Foster va Bulgakov 1948 yil
+====
+Joli, Vander - Pol  1848 yil
+====
+Ostragradiskiy, Xevisayd  1848  yil
+
+++++
+Elektronika va sxemlar fanida zanjirlarni hisoblashda operator usulida hisoblash kim tomonidan tadbiq etilgan.
+====
+#Xevisayd 
+====
+Foster 
+====
+Laplas
+====
+Vashenko
+
+++++
+Birinchi IMSlar qachon yaratilgan.
+====
+#1958 yil
+====
+1965 yil
+====
+1948 yil
+====
+1906 yil
+
+++++
+  Har qanday metall o‘tkazgichlarda erkin harakatlanuvchi ………mavjud bo‘ladi.
+====
+#elektronlar
+====
+protonlar
+====
+fotonlar
+====
+neytronlar
+
+++++
+Agar metall o‘tkazgich uchlariga har xil qiymatlarga ega bo‘lgan kuchlanganlik ulansa, u xolda elektronlarni tartibli harakatga keltiruvchi ………..hosil bo‘ladi.
+====
+#elektr maydon
+====
+magnit maydon
+====
+elektromagnit maydon
+====
+yarimo’tkazgichli maydon
+
+++++
+O‘tkazgichning barcha nuqtalarida tartibli harakatlanayotgan zaryadlardan tashqari, tartibsiz harakatlanayotgan elektronlar ham mavjud bo‘ladi, oqibatda ular o‘tkazgich orqali o‘tayotgan tokning tartibli harakatiga xalaqit beradi. Bunday kattalikga nima deyiladi.
+====
+#qarshilik
+====
+kuchlanish
+====
+elektr maydon
+====
+magnit maydon
+
+++++
+Elektromagnit jarayonlarini ifodalanishda elektr yurituvchi kuch, tok va kuchlanish tushunchalaridan foydalanish mumkin bo‘lgan, elektr toki oqishi uchun yo‘llarni hosil qiluvchi qurilmalar va ob’ektlar majmualariga …….. deyiladi.   
+====
+#elektr zanjir
+====
+elektr sxema
+====
+chiziqli elektr zanjir
+====
+nochiziqli elektr zanjir
+
+++++
+Elektr sxemasining uchta va undan ortiq tarmog‘i birlashgan nuqtasi ……deb aytiladi.
+====
+#tugun
+====
+tarmoq
+====
+kontur
+====
+elektr zanjir
+
+++++
+Zanjirning ikkita tuguni orasidagi qismiga …………. deyiladi.
+====
+#tarmoq 
+====
+tugun
+====
+kontur
+====
+elektr zanjir
+
+++++
+Bir nechta tarmoqlardan tashkil topgan berk elektr zanjiri ……… deyiladi.
+====
+#kontur 
+====
+tugun
+====
+tarmoq
+====
+elektr zanjir
+
+++++
+Nemis olimi  G.  Kirxgof  elektr  zanjirlarga  oid  ikkita muhim qonunlarini qachon yaratgan.
+====
+#1845 yil
+====
+1945 yil
+====
+1820 yil
+====
+1920 yil
+
+++++
+Elektr zanjirining ixtiyoriy berk konturdagi barcha shoxobchalari kuchlanishlar pasayuvining yig‘indisi shu konturga ta’sir etayotgan energiya manbalari EYuKlarining yig‘indisiga teng. Bu qaysi qonun.
+====
+#Kirxgofning 2-qonuni
+====
+Kirxgofning 1-qonuni
+====
+Butun zanjir uchun Om qonuni
+====
+EYUK qonuni
+
+++++
+O‘tkazgich bo‘ylab elektronlarni kuchiruvchi kuchga ….. deyiladi.
+====
+#kuchlanish
+====
+qarshilik 
+====
+kuchaytirish
+====
+quvvat
+
+++++
+Kichik qarshilikli materiallar ………..deb ataladi
+====
+#o‘tkazgichlar
+====
+kuchlanishlar
+====
+qarshiliklar 
+====
+kuchaytirgichlar
+
+++++
+Katta qarshilikka ega materiallar ……… deb ataladi
+====
+#dielektriklar
+====
+o’tkazgichlar
+====
+qarshiliklar 
+====
+kuchlanishlar
+
+++++
+Elektr qarshiligiga teskari bo‘lgan kattalik …………deb ataladi. 
+====
+#o‘tkazuvchanlik
+====
+o’tkazgich
+====
+qarshilik 
+====
+elektr toki
+
+++++
+O‘tkazuvchanlik birligi nima.
+====
+#semens
+====
+genri
+====
+gers
+====
+joul
+
+++++
+i ga soat mili harakatiga teskari yo‘nalishda  ω = const burchak tezlik bilan uzluksiz aylanuvchi Im radiusli vektor mos keladigan tokka nima deyiladi.
+====
+#sinusoidal tok  
+====
+o’zgaruvchan  tok
+====
+kompleks tok
+====
+o’zgarmas tok
+
+++++
+Sinusoidal  tok  zanjirlarida  energiyani  issiqlik	energiyasiga  aylantiruvchi  elementlarga nima deyiladi.
+====
+#aktiv   qarshilik
+====
+reaktiv qarshilik
+====
+kompleks qarshilik
+====
+to’la qarshilik
+
+++++
+Elektr zanjirlarining energiya davriy ravishda elektr yoki magnit maydoni energiyasi ko‘rinishida to‘planib turuvchi elementlariga nima deyiladi.
+====
+#reaktiv   elementlar
+====
+aktiv elementlar
+====
+real elementlar
+====
+ideal elemantlar
+
+++++
+Elektr zanjirlarining energiya davriy ravishda elektr yoki magnit maydoni energiyasi ko‘rinishida to‘planib turuvchi elementlarini o‘zgaruvchan  tokka  ko‘rsatadigan  qarshiliklariga ko’rsatadigani nima deyiladi.
+====
+#reaktiv   qarshilik
+====
+aktiv qarshilik
+====
+kompleks qarshilik
+====
+to’la qarshilik
+
+++++
+Ikki qo‘zg‘almas elementar elektr zaryadi orasidagi o‘zaro ta’sir etuvchi kuchning miqdori, zaryadlar miqdorlari ko'paytmasiga to‘g‘ri va ular orasidagi masofaga teskari proporsionaldir. Bu qaysi qonun.
+====
+#Kulon qonuni
+====
+Kirxgof qonuni
+====
+Gravitatsion maydon tortishish
+====
+Joul-Lens qonuni
+
+++++
+Elektr maydonini xarakterlovchi va elektr maydoni tomonidan zaryadlangan zarrachaga ta ’sir etayotgan kuchni xarakterlovchi vektor qiymatga nima deyiladi.
+====
+#elektr maydon kuchlanganlik
+====
+elektr maydoni kuchlanganlik chiziqlari
+====
+maydon kuchlanganligi
+====
+magnit maydon kuchlanganligi
+
+++++
+Elektr maydoni ta’sirida qutblanish (polyarizatsiya) qobiliyatiga ega bo‘lgan moddaga nima deyiladi.
+====
+#dielektrik
+====
+qutblanish
+====
+magnitlanish
+====
+qutblanganlik
+
+++++
+Elektromagnit jarayonlari magnit yurituvchi kuch va magnit oqimi tushunchalari bilan ifodalanishi mumkin bo‘lgan, ferromagnit jismli qurilmalar majmualariga ……… deyiladi. 
+====
+#magnit zanjirlar
+====
+elektr zanjirlar
+====
+elektromagnit zanjirlar
+====
+taqsimlangan elektr zanjirlar
+
+++++
+Elektr qarshiligidan foydalanish uchun mo‘ljallangan elektr zanjir elementi ……… deyiladi. 
+====
+#rezistor
+====
+tranzistor
+====
+kuchlanish 
+====
+solishtirma qarshilik
+
+++++
+Zanjir elementlarining asosiy belgilanishini qabul qilib chizilgan, shu elementlarning o ‘zaro ulanishlarini ko ‘rsatadigan, elektr zanjirlarining grafik tasvirini ifodalaydigan shaklga……… deyiladi. 
+====
+#elektr sxema 
+====
+elektr zanjir
+====
+magnit zanjir
+====
+taqsimlangan elektr zanjir
+
+++++
+Ma’lum sharoitlarda real sxemaning xususiyatlarini aks ettiruvchi shunday boshqa zanjir sxemasiga ……… deyiladi. 
+====
+#elektr zanjirni almashtirish sxemasi 
+====
+taqsimlangan elektr zanjir
+====
+parametrli elektr zanjir
+====
+elektromagnit zanjir 
+
+++++
+O‘zgaruvchan kuchlanishni o‘zgarmasga o‘zgartiruvchi elektron qurilmaga ……… deyiladi. 
+====
+#to’g’irlagich
+====
+bir fazali, yarim davrli to‘g‘rilagich
+====
+ikki fazali, to‘liq davrli to‘g‘rilagich
+====
+to‘liq davrli to‘g‘rilagich
+
+++++
+Bir yoki bir necha elektr o‘tishlarga ega ikki elektrodli elektron asbobga ……… deyiladi. 
+====
+#diod
+====
+bir fazali, yarim davrli to‘g‘rilagich
+====
+to’g’irlagich
+====
+to‘liq davrli to‘g‘rilagich
+
+++++
+O‘zgaruvchan tokni o‘zgarmas tokka o‘zgartirish uchun mo’ljallangan qurilmaga ……… deyiladi. 
+====
+#to’g’irlovchi diod
+====
+past chastotali diodlar
+====
+to’g’irlagich
+====
+maxsus vazifalarni bajaruvchi diod
+
+++++
+O‘nlarcha va yuzlarcha megagers chastotalarda signallarni nochiziqli elektr o‘zgartirishdan iborat qurilmaga……… deyiladi. 
+====
+#yuqori chastotali to’g’irlovchi diod
+====
+past chastotali to’g’irlovchi diodlar
+====
+to’g’irlovchi diodlar
+====
+maxsus vazifalarni bajaruvchi diod
+
+++++
+Sxemalarda kuchlanish qiymatini barqaror (stabil) saqlab turuvchi yarimo‘tkazgich asbobga ……… deyiladi. 
+====
+#stabilitron
+====
+stabistor
+====
+to’g’irlovchi diodlar
+====
+transformator
+
+++++
+Sxemalarda kuchlanish qiymatini barqaror (stabil) saqlab turuvchi yarimo‘tkazgich asbobga ……… deyiladi. 
+====
+#stabilitron
+====
+stabistor
+====
+to’g’irlovchi diodlar
+====
+transformator
+
+++++
+Sxemalarda kichik kuchlanishni stabilizatsiyalash uchun qo’llaniladigan yarimo‘tkazgich asbobga ……… deyiladi. 
+====
+#stabistor 
+====
+stabilitron
+====
+to’g’irlovchi diodlar
+====
+transformator
+
+++++
+Elektr boshqariluvchi sig‘im vazifasini o‘taydigan yarimo‘tkazgich asbobga ……… deyiladi. 
+====
+#varikap
+====
+kondensator
+====
+stabistor
+====
+transformator
+
+++++
+Potensial bareri metall -  n  yarimo‘tkazgich orasidagi elektr o‘tish hisobiga hosil bo‘luvchi diodlarga ……… deyiladi. 
+====
+#shottki diod
+====
+maxsus vazifani bajaruvchi diod
+====
+tunnel diod
+====
+varikap
+
+++++
+O‘zaro ta’sirlashuvchi ikkita  p-n o‘tishdan tashkil topgan va signallarni tok, kuchlanish yoki quvvat bo‘yicha kuchaytiruvchi uch elektrodli yarimo‘tkazgich asbobga ……… deyiladi. 
+====
+#bipolyar tranzistor
+====
+maydoniy tranzistor
+====
+tranzistor
+====
+kuchaytirgich
+
+++++
+Bipolyar tranzistorda tok hosil bo‘lishiga ko’ra nechchi xil zaryad tashuvchilar  ishtirok etadi.
+====
+#2
+====
+3
+====
+4
+====
+1
+
+++++
+Bipolyar tranzistorlarda nechchi xil ulanish sxemalari mavjud.
+====
+#3
+====
+2
+====
+4
+====
+1
+
+++++
+Emitter bilan Baza orasidagi  p – n o‘tishga nima deyiladi.  
+====
+#emitter o‘tish
+====
+kollektor o‘tish
+====
+baza o’tish
+====
+p-n o’tish
+
+++++
+Kollektor bilan Baza orasidagi p – n o‘tishga nima deyiladi.  
+====
+#kollektor o‘tish 
+====
+emitter o‘tish
+====
+baza o’tish
+====
+p-n o’tish
+
+++++
+Emitter o‘tish to‘g‘ri yo‘nalishda, kollektor o‘tish esa teskari yo‘nalishda siljitilsa, u holda, bipolyar tranzistor qanday rejimda ishlaydi.
+====
+#aktiv 
+====
+teskari
+====
+invers
+====
+teshilish
+
+++++
+Emitter o‘tish to‘g‘ri yo‘nalishda, kollektor o‘tish esa to’g’ri yo‘nalishda siljitilsa, u holda, bipolyar tranzistor qanday rejimda ishlaydi.
+====
+#to'yinish 
+====
+aktiv
+====
+normal
+====
+teshilish
+
+++++
+Teskari tok oqqanida issiqlik yetarlicha sochilmasligi natijasida p-n o‘tish qizib ketishi hisobiga yuz beradigan hodisaga ………. deyiladi.
+====
+#issiqlik teshilish
+====
+tunnel teshilish
+====
+aktiv teshilish
+====
+teshilish
+
+
+
+
+
+
+
+
